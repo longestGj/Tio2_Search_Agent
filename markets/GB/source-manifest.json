@@ -1,0 +1,175 @@
+{
+  "prepared_on": "2026-10-21",
+  "market": "GB",
+  "original_file_count": 21,
+  "files": [
+    {
+      "repository_path": "markets/GB/companies/annie-sloan-interiors-ltd/Annie_Sloan_Interiors_Ltd_组织结构_2026-10-21.md",
+      "source_path": "MYtio2的项目/英国市场开发/客户背调/Annie_Sloan_Interiors_Ltd_组织结构_2026-10-21.md",
+      "source_id": "libfile_048f1c6cc8648191b0eb9cb3a5ed754b",
+      "source_version": null,
+      "sha256": "70abd4f3f234c1eb8e19ebf6c3b6af194d1a8408204a1c81ffc1d7644bc7a06b",
+      "bytes": 6810
+    },
+    {
+      "repository_path": "markets/GB/companies/annie-sloan-interiors-ltd/Annie_Sloan_Interiors_Ltd_联系人邮箱_2026-10-21.md",
+      "source_path": "MYtio2的项目/英国市场开发/客户背调/Annie_Sloan_Interiors_Ltd_联系人邮箱_2026-10-21.md",
+      "source_id": "libfile_0413284d9e708191bb7e70b551492afa",
+      "source_version": null,
+      "sha256": "4bd2cdd4b85990afef2a440f6a5b88a2c75f51034f8b11d1aceb2400640c5cd8",
+      "bytes": 4172
+    },
+    {
+      "repository_path": "markets/GB/companies/annie-sloan-interiors-ltd/Annie_Sloan_Interiors_Ltd_背调报告_2026-10-21.md",
+      "source_path": "MYtio2的项目/英国市场开发/客户背调/Annie_Sloan_Interiors_Ltd_背调报告_2026-10-21.md",
+      "source_id": "libfile_29f8716ada1c819185a68835d778e9e1",
+      "source_version": null,
+      "sha256": "956911200d8c94bba2a830eec985536a78252b658804906482990f7b407d33a9",
+      "bytes": 19755
+    },
+    {
+      "repository_path": "markets/GB/companies/apticem-devine-chemicals/AptiCem_Devine_Chemicals_背调报告_2026-10-21.md",
+      "source_path": "MYtio2的项目/英国市场开发/客户背调/AptiCem_Devine_Chemicals_背调报告_2026-10-21.md",
+      "source_id": "libfile_0cb6b340d1948191ad37c345802f48cc",
+      "source_version": null,
+      "sha256": "9ccec28df39127dfa9ebf101f4acbfeb6a9c1357c64ad8188f4c671b9f8cc1f1",
+      "bytes": 20678
+    },
+    {
+      "repository_path": "markets/GB/companies/bailey-paints-ltd/Bailey_Paints_Ltd_组织结构_2026-10-21.md",
+      "source_path": "MYtio2的项目/英国市场开发/客户背调/Bailey_Paints_Ltd_组织结构_2026-10-21.md",
+      "source_id": "libfile_7d6a1756f2d88191a2140849365be629",
+      "source_version": "1",
+      "sha256": "0d76606e5dc43de3a933b6c8189245c5ff182ff2ee0bb95a5fef15811f59ceed",
+      "bytes": 19131
+    },
+    {
+      "repository_path": "markets/GB/companies/bailey-paints-ltd/Bailey_Paints_Ltd_联系人邮箱_2026-10-21.md",
+      "source_path": "MYtio2的项目/英国市场开发/客户背调/Bailey_Paints_Ltd_联系人邮箱_2026-10-21.md",
+      "source_id": "libfile_a3d4a2b0197481919bcba01029450785",
+      "source_version": "1",
+      "sha256": "836f47654beefdfdc1cd25291d93d83e1529e9e25bba28f22951ddaf8ee2331a",
+      "bytes": 10606
+    },
+    {
+      "repository_path": "markets/GB/companies/bailey-paints-ltd/Bailey_Paints_Ltd_背调报告_2026-10-21.md",
+      "source_path": "MYtio2的项目/英国市场开发/客户背调/Bailey_Paints_Ltd_背调报告_2026-10-21.md",
+      "source_id": "libfile_60fdd5c64a4c8191b55f65dd9dc4e2e0",
+      "source_version": null,
+      "sha256": "3f301cbfa74afeadc06182e8286c561775d3c607c8c4e258fb2f092755b35559",
+      "bytes": 16538
+    },
+    {
+      "repository_path": "markets/GB/companies/barrettine-products-ltd/Barrettine_Products_Ltd_组织结构_2026-10-21.md",
+      "source_path": "MYtio2的项目/英国市场开发/客户背调/Barrettine_Products_Ltd_组织结构_2026-10-21.md",
+      "source_id": "libfile_9536eade5c148191a6420dbd11132b79",
+      "source_version": "1",
+      "sha256": "085ccb5710174b93caaf6637ab8b4f5a485d075ca227488a8153811242591540",
+      "bytes": 18534
+    },
+    {
+      "repository_path": "markets/GB/companies/barrettine-products-ltd/Barrettine_Products_Ltd_联系人邮箱_2026-10-21.md",
+      "source_path": "MYtio2的项目/英国市场开发/客户背调/Barrettine_Products_Ltd_联系人邮箱_2026-10-21.md",
+      "source_id": "libfile_69a47adc53e88191b17f43a0b6b004ea",
+      "source_version": "1",
+      "sha256": "3288d02a4b20832faed9b419b4b17f56cef09cb58a50edb0e0eb3dfdac055bde",
+      "bytes": 11405
+    },
+    {
+      "repository_path": "markets/GB/companies/barrettine-products-ltd/Barrettine_Products_Ltd_背调报告_2026-10-21.md",
+      "source_path": "MYtio2的项目/英国市场开发/客户背调/Barrettine_Products_Ltd_背调报告_2026-10-21.md",
+      "source_id": "libfile_7a3d4c6d10bc8191b795fcf2d1c33444",
+      "source_version": null,
+      "sha256": "ee11e043412412910e012a1ee45abcb1e9bc2809a05f91922047b69388f92cf2",
+      "bytes": 25970
+    },
+    {
+      "repository_path": "markets/GB/companies/bartoline-ltd/Bartoline_Ltd_组织结构_2026-10-21.md",
+      "source_path": "MYtio2的项目/英国市场开发/客户背调/Bartoline_Ltd_组织结构_2026-10-21.md",
+      "source_id": "libfile_975f2d420d288191a5815147677a96a9",
+      "source_version": "1",
+      "sha256": "5204cdc6486f6aa1af960fa0c0cb2af70fd3bba931bb6f0c1c988128bfec0713",
+      "bytes": 19524
+    },
+    {
+      "repository_path": "markets/GB/companies/bartoline-ltd/Bartoline_Ltd_联系人邮箱_2026-10-21.md",
+      "source_path": "MYtio2的项目/英国市场开发/客户背调/Bartoline_Ltd_联系人邮箱_2026-10-21.md",
+      "source_id": "libfile_6492cc788e9c8191aa484faab2a361c5",
+      "source_version": "1",
+      "sha256": "94720e2d3690cdad8e92c56302d1335c453fd29b4d9c0a244b2cb575fd192b4a",
+      "bytes": 12454
+    },
+    {
+      "repository_path": "markets/GB/companies/bartoline-ltd/Bartoline_Ltd_背调报告_2026-10-21.md",
+      "source_path": "MYtio2的项目/英国市场开发/客户背调/Bartoline_Ltd_背调报告_2026-10-21.md",
+      "source_id": "libfile_31466e1bec38819181bfcb6f8f0f9a35",
+      "source_version": null,
+      "sha256": "50ee7eec2121a2d0b8b25d2aeec8f11a5e8dd34338facdc2754c3f0d1646b4d2",
+      "bytes": 27640
+    },
+    {
+      "repository_path": "markets/GB/companies/becker-industrial-coatings-ltd/Becker_Industrial_Coatings_Ltd_组织结构_2026-10-21.md",
+      "source_path": "MYtio2的项目/英国市场开发/客户背调/Becker_Industrial_Coatings_Ltd_组织结构_2026-10-21.md",
+      "source_id": "libfile_cb2ce819dacc8191b2adb179a2dc051e",
+      "source_version": "1",
+      "sha256": "4405aa75460e9ccbebb3ced862cd1e00e51e897b5988a27931e62f746c10b391",
+      "bytes": 28886
+    },
+    {
+      "repository_path": "markets/GB/companies/becker-industrial-coatings-ltd/Becker_Industrial_Coatings_Ltd_联系人邮箱_2026-10-21.md",
+      "source_path": "MYtio2的项目/英国市场开发/客户背调/Becker_Industrial_Coatings_Ltd_联系人邮箱_2026-10-21.md",
+      "source_id": "libfile_bdd4e85e6b888191bad6e1e52278a8ed",
+      "source_version": "1",
+      "sha256": "7b7417f9f5fd4927a8c31a9f39f69d2c38260290620d1c81b2808ec097dea893",
+      "bytes": 7517
+    },
+    {
+      "repository_path": "markets/GB/companies/becker-industrial-coatings-ltd/Becker_Industrial_Coatings_Ltd_背调报告_2026-10-21.md",
+      "source_path": "MYtio2的项目/英国市场开发/客户背调/Becker_Industrial_Coatings_Ltd_背调报告_2026-10-21.md",
+      "source_id": "libfile_91f19f05a0d481918b6dbe527fa6a988",
+      "source_version": null,
+      "sha256": "3f9862833bdb2d5312d1e7216c57af190a946d5c5b5d40d79dfc1dc560024b63",
+      "bytes": 24345
+    },
+    {
+      "repository_path": "markets/GB/companies/belzona-polymerics-ltd/Belzona_Polymerics_Ltd_背调报告_2026-10-21.md",
+      "source_path": "MYtio2的项目/英国市场开发/客户背调/Belzona_Polymerics_Ltd_背调报告_2026-10-21.md",
+      "source_id": "libfile_d63db664bc8c81918a6db89366f78703",
+      "source_version": null,
+      "sha256": "11cccfdf55187d4acd2cae443076a3a398f08b3efae6de0f9db2985b3fb15a6b",
+      "bytes": 26003
+    },
+    {
+      "repository_path": "markets/GB/companies/benvic-dugdale/Benvic_Dugdale_背调报告_2026-10-21.md",
+      "source_path": "MYtio2的项目/英国市场开发/客户背调/Benvic_Dugdale_背调报告_2026-10-21.md",
+      "source_id": "libfile_146fe89bd8c881918561649735549896",
+      "source_version": null,
+      "sha256": "2faa6bd45b72cce961eba2e1449f7a81d911765fe4431fe5bf7caa7ce7b07cf0",
+      "bytes": 33737
+    },
+    {
+      "repository_path": "markets/GB/companies/bondloc-uk-ltd/Bondloc_UK_Ltd_背调报告_2026-10-21.md",
+      "source_path": "MYtio2的项目/英国市场开发/客户背调/Bondloc_UK_Ltd_背调报告_2026-10-21.md",
+      "source_id": "libfile_a15a9092acf08191a0f1ba3a33ec9688",
+      "source_version": null,
+      "sha256": "a11fbc5ea986853490f8d17054a5b298396b197e792e45ea3a80594489e69fa5",
+      "bytes": 21266
+    },
+    {
+      "repository_path": "markets/GB/source-lists/agent05_handoff.csv",
+      "source_path": "agent05_handoff.csv",
+      "source_id": "libfile_0804254daac48191ab7fe2fd2fa3751a",
+      "source_version": null,
+      "sha256": "179ecdb72c2cbfcc58f74fa46778cdb65a964de59b08fb6f23156a7bb9cbd84b",
+      "bytes": 76774
+    },
+    {
+      "repository_path": "markets/GB/companies/annie-sloan-interiors-ltd/Annie_Sloan_Shahriar_Mail_1_2_2026-10-21.md",
+      "source_path": "MYtio2的项目/Annie_Sloan_Shahriar_Mail_1_2_2026-10-21.md",
+      "source_id": "libfile_aca3dfb50874819198cf2737ee42c259",
+      "source_version": null,
+      "sha256": "d1c8ecdb43ad98681a86814626ecca175a87783d8cd62df8ae3017301da7b379",
+      "bytes": 3928
+    }
+  ]
+}
