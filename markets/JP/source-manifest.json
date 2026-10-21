@@ -1,0 +1,151 @@
+{
+  "prepared_on": "2026-10-21",
+  "market": "JP",
+  "original_file_count": 16,
+  "files": [
+    {
+      "repository_path": "markets/JP/companies/isamu-paint/Isamu_Paint_联系人邮箱_2026-10-21.md",
+      "source_path": "/MYtio2的项目/日本市场开发/客户背调/Isamu_Paint_联系人邮箱_2026-10-21.md",
+      "source_id": "libfile_40166107ef8c8191a0dcd4cb4b1b788f",
+      "source_version": null,
+      "source_modified_at": "2026-10-21T12:50:42.888550+00:00",
+      "sha256": "c96fac97ef2f680954a5cc8182eab0b16cb5e240b1c9e690685fa9c50815b850",
+      "bytes": 6899
+    },
+    {
+      "repository_path": "markets/JP/companies/isamu-paint/Isamu_Paint_组织结构_2026-10-21.md",
+      "source_path": "/MYtio2的项目/日本市场开发/客户背调/Isamu_Paint_组织结构_2026-10-21.md",
+      "source_id": "libfile_76bc208f42488191bcf2ae7e5fc02495",
+      "source_version": null,
+      "source_modified_at": "2026-10-21T12:50:42.749029+00:00",
+      "sha256": "3fe594b65e8362545ad7a52201d3420fbf1a843423cba8b81918b8c02cc7ea16",
+      "bytes": 13686
+    },
+    {
+      "repository_path": "markets/JP/companies/asahipen/Asahipen_背调报告_2026-10-21.md",
+      "source_path": "/MYtio2的项目/日本市场开发/客户背调/Asahipen_背调报告_2026-10-21.md",
+      "source_id": "libfile_91ee3fd72fe08191808bdc94cbe11b42",
+      "source_version": null,
+      "source_modified_at": "2026-10-21T12:28:04.487946+00:00",
+      "sha256": "75b013893471f5ceff014a39ae445fa64a7f78ec265b22ce53d8347bc7115d0d",
+      "bytes": 26066
+    },
+    {
+      "repository_path": "markets/JP/companies/isamu-paint/Isamu_Paint_背调报告_2026-10-21.md",
+      "source_path": "/MYtio2的项目/日本市场开发/客户背调/Isamu_Paint_背调报告_2026-10-21.md",
+      "source_id": "libfile_bbef7f5e96408191bb49c3a63ae58872",
+      "source_version": null,
+      "source_modified_at": "2026-10-21T12:15:29.938305+00:00",
+      "sha256": "fd013b1c1ce57e5375e5a15e38ef12303ac6e6909c29fd74134230ac664664f6",
+      "bytes": 28946
+    },
+    {
+      "repository_path": "markets/JP/source-lists/JP-20261021-03_新增30家/01_日本_候选客户总表_新增30家.md",
+      "source_path": "/MYtio2的项目/日本市场开发/候选客户池/JP-20261021-03_新增30家/01_日本_候选客户总表_新增30家.md",
+      "source_id": "libfile_792cad7b27f88191bd3988e9b5bd557f",
+      "source_version": null,
+      "source_modified_at": "2026-10-21T12:08:49.829021+00:00",
+      "sha256": "dadd8ab8fd704f07159f3208fc3e4fcdde47555380e990d7acfa7b295208ed46",
+      "bytes": 67960
+    },
+    {
+      "repository_path": "markets/JP/source-lists/JP-20261021-03_新增30家/03_日本_搜索与覆盖记录.md",
+      "source_path": "/MYtio2的项目/日本市场开发/候选客户池/JP-20261021-03_新增30家/03_日本_搜索与覆盖记录.md",
+      "source_id": "libfile_9ab8d91626688191a5b3cf15eca26dca",
+      "source_version": null,
+      "source_modified_at": "2026-10-21T12:08:49.156415+00:00",
+      "sha256": "5a19b49c3e48623c35e38a675381e363b5860d837f1d323a6d0977afd9df728a",
+      "bytes": 54175
+    },
+    {
+      "repository_path": "markets/JP/source-lists/JP-20261021-03_新增30家/02_日本_证据与来源.md",
+      "source_path": "/MYtio2的项目/日本市场开发/候选客户池/JP-20261021-03_新增30家/02_日本_证据与来源.md",
+      "source_id": "libfile_0a981a58f5988191b277fde52fad3919",
+      "source_version": null,
+      "source_modified_at": "2026-10-21T12:08:48.995054+00:00",
+      "sha256": "516240a7d7e7a9b33d17e91f6a0330ace57024d784efb21fe4a5b395e3adb211",
+      "bytes": 50968
+    },
+    {
+      "repository_path": "markets/JP/source-lists/JP-20261021-03_新增30家/04_日本_执行报告.md",
+      "source_path": "/MYtio2的项目/日本市场开发/候选客户池/JP-20261021-03_新增30家/04_日本_执行报告.md",
+      "source_id": "libfile_3ba7e3f6ee78819180ea413a2830e42a",
+      "source_version": "1",
+      "source_modified_at": "2026-10-21T12:08:49.726809+00:00",
+      "sha256": "ecd56e36700f39a59b2731dcea1e01f33757b934a515d10e53bf9f47b513a4b2",
+      "bytes": 5944
+    },
+    {
+      "repository_path": "markets/JP/source-lists/JP-20261021-02_线索补核/04_日本_补核复核报告.md",
+      "source_path": "/MYtio2的项目/日本市场开发/候选客户池/JP-20261021-02_线索补核/04_日本_补核复核报告.md",
+      "source_id": "libfile_75ecbfbca0348191bca4c30328606454",
+      "source_version": null,
+      "source_modified_at": "2026-10-21T11:50:36.001200+00:00",
+      "sha256": "6fbc56bf4ab3cdfa80980c024a01841abfd5e374c1cb1fdbed6fe270a27c6a69",
+      "bytes": 4655
+    },
+    {
+      "repository_path": "markets/JP/source-lists/JP-20261021-02_线索补核/03_日本_补核执行记录.md",
+      "source_path": "/MYtio2的项目/日本市场开发/候选客户池/JP-20261021-02_线索补核/03_日本_补核执行记录.md",
+      "source_id": "libfile_fce03b1c9028819193b0fd5194c9eee9",
+      "source_version": null,
+      "source_modified_at": "2026-10-21T11:50:35.578586+00:00",
+      "sha256": "52baa7a8490aa7820f322b361bb68bf36e68b2c1e5980d12fac43f8fe19eb6c1",
+      "bytes": 25216
+    },
+    {
+      "repository_path": "markets/JP/source-lists/JP-20261021-02_线索补核/02_日本_14条线索补核证据.md",
+      "source_path": "/MYtio2的项目/日本市场开发/候选客户池/JP-20261021-02_线索补核/02_日本_14条线索补核证据.md",
+      "source_id": "libfile_3087d11732908191a99fba95a74cb6e1",
+      "source_version": null,
+      "source_modified_at": "2026-10-21T11:50:35.495131+00:00",
+      "sha256": "2790130dc130cc63efa7651da81e9e23793341529470045e63bb6e1657e6e0e0",
+      "bytes": 24414
+    },
+    {
+      "repository_path": "markets/JP/source-lists/JP-20261021-02_线索补核/01_日本_候选客户总表_补核后.md",
+      "source_path": "/MYtio2的项目/日本市场开发/候选客户池/JP-20261021-02_线索补核/01_日本_候选客户总表_补核后.md",
+      "source_id": "libfile_ab7bb5c4822c8191b1ba5d8227ae423f",
+      "source_version": null,
+      "source_modified_at": "2026-10-21T11:50:35.411629+00:00",
+      "sha256": "2161aa1f2c49440ad0d96f61e7f7c9ab550e753ce8df790638c3a9bae14eaab2",
+      "bytes": 19916
+    },
+    {
+      "repository_path": "markets/JP/source-lists/JP-20261021-01/03_日本_搜索与覆盖记录.md",
+      "source_path": "/MYtio2的项目/日本市场开发/候选客户池/JP-20261021-01/03_日本_搜索与覆盖记录.md",
+      "source_id": "libfile_7e6bbdf87fb481918e73f2d394b2da8a",
+      "source_version": null,
+      "source_modified_at": "2026-10-21T11:23:25.276541+00:00",
+      "sha256": "f1eb1cd8a52aeb7872998e400b5469db4d105cebc287bf6d4b57d95b215fa2bb",
+      "bytes": 51201
+    },
+    {
+      "repository_path": "markets/JP/source-lists/JP-20261021-01/04_日本_批次复核与测试报告.md",
+      "source_path": "/MYtio2的项目/日本市场开发/候选客户池/JP-20261021-01/04_日本_批次复核与测试报告.md",
+      "source_id": "libfile_c77e5e8375d881919c3aa83039f9c3fe",
+      "source_version": null,
+      "source_modified_at": "2026-10-21T11:23:24.595216+00:00",
+      "sha256": "584fb56d1d2ac99ee8b77ab53bdc3790f9c873e2775bedf7a738e616c1481eae",
+      "bytes": 7435
+    },
+    {
+      "repository_path": "markets/JP/source-lists/JP-20261021-01/01_日本_候选客户总表.md",
+      "source_path": "/MYtio2的项目/日本市场开发/候选客户池/JP-20261021-01/01_日本_候选客户总表.md",
+      "source_id": "libfile_1cd79584eb808191a8ea33d12773df26",
+      "source_version": null,
+      "source_modified_at": "2026-10-21T11:23:24.203060+00:00",
+      "sha256": "f83b5c0420116c5e50a2709b78f89f5a19a34cec194b733b47532381c9e544c3",
+      "bytes": 31184
+    },
+    {
+      "repository_path": "markets/JP/source-lists/JP-20261021-01/02_日本_证据与来源.md",
+      "source_path": "/MYtio2的项目/日本市场开发/候选客户池/JP-20261021-01/02_日本_证据与来源.md",
+      "source_id": "libfile_caa45427017c819187dcde0e31947829",
+      "source_version": null,
+      "source_modified_at": "2026-10-21T11:23:24.163859+00:00",
+      "sha256": "9c37a98d4576a3d87061d7a3e5595718caac3dff5932630b695763cb2ce7f897",
+      "bytes": 26348
+    }
+  ]
+}

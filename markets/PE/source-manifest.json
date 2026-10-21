@@ -1,0 +1,43 @@
+{
+  "prepared_on": "2026-10-21",
+  "market": "PE",
+  "original_file_count": 4,
+  "files": [
+    {
+      "repository_path": "markets/PE/source-lists/PE-20261021-01/03_搜索与覆盖记录.md",
+      "source_path": "/MYtio2的项目/秘鲁市场开发/候选客户池/PE-20261021-01/03_搜索与覆盖记录.md",
+      "source_id": "libfile_b4fb1b507954819198d709db19fbda96",
+      "source_version": null,
+      "source_modified_at": "2026-10-21T12:46:34.524404+00:00",
+      "sha256": "4c0dbc5a8e9eec8de7157af79024303714b761a4b0a0e78f25fcce0de9f76c9e",
+      "bytes": 16345
+    },
+    {
+      "repository_path": "markets/PE/source-lists/PE-20261021-01/02_证据与来源.md",
+      "source_path": "/MYtio2的项目/秘鲁市场开发/候选客户池/PE-20261021-01/02_证据与来源.md",
+      "source_id": "libfile_3738bfe5f1d081919083858633d8b2ca",
+      "source_version": null,
+      "source_modified_at": "2026-10-21T12:46:34.476520+00:00",
+      "sha256": "75c8ba112bb205ac72825c77110a3c5c2d62d2990b1c6ef4f09375c9cc2ce095",
+      "bytes": 67628
+    },
+    {
+      "repository_path": "markets/PE/source-lists/PE-20261021-01/01_候选客户总表.md",
+      "source_path": "/MYtio2的项目/秘鲁市场开发/候选客户池/PE-20261021-01/01_候选客户总表.md",
+      "source_id": "libfile_931185ccde588191a2d5bf013a9e8b7e",
+      "source_version": null,
+      "source_modified_at": "2026-10-21T12:46:34.407586+00:00",
+      "sha256": "a501114b73f21a80caf09ade2dbb0476a711021befefb2051f578ddc5c309b6d",
+      "bytes": 44578
+    },
+    {
+      "repository_path": "markets/PE/source-lists/PE-20261021-01/04_批次复核与测试报告.md",
+      "source_path": "/MYtio2的项目/秘鲁市场开发/候选客户池/PE-20261021-01/04_批次复核与测试报告.md",
+      "source_id": "libfile_2f6394b057848191a9ec577aad9f10f8",
+      "source_version": "1",
+      "source_modified_at": "2026-10-21T12:46:34.493452+00:00",
+      "sha256": "9aa733ec4025cc9633f235671728f1084a3e4c7b0130f0fa15c7a3d8354a15a1",
+      "bytes": 7782
+    }
+  ]
+}
