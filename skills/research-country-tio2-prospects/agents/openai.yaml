@@ -1,0 +1,13 @@
+interface:
+  display_name: 国家级钛白粉候选客户搜索
+  short_description: 按国家搜索钛白粉候选客户，核验官网与业务，去重并按数量及预算交付
+  default_prompt: 使用 $research-country-tio2-prospects，按当前SOP为指定国家搜集钛白粉候选客户；先读取既有名单，按指定数量执行核验、去重及暂停规则，交付四份Markdown文件。
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
