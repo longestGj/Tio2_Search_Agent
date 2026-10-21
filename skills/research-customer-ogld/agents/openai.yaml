@@ -1,0 +1,13 @@
+interface:
+  display_name: 客户商业背调｜OGLD V1.1
+  short_description: 按SOP V1.1核实客户主体、官网与采购线索，交付附完整来源的Markdown背调报告
+  default_prompt: 使用 $research-customer-ogld，按照 SOP V1.1 执行下一家客户的背调，并保存 Markdown 报告。
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
