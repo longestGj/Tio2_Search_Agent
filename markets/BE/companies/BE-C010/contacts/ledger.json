@@ -1,0 +1,67 @@
+{
+  "schema": 1,
+  "company_key": "BE:BE-C010",
+  "workflow_id": "BE-contacts-BE-C010",
+  "customer_ids": [
+    "BE-C010"
+  ],
+  "aliases": [
+    "Ampacet Belgium"
+  ],
+  "credit_limit": "3",
+  "contact_limit": 3,
+  "baseline_evidence": {
+    "confirmed": true,
+    "source_ref": "核对markets/BE/companies及contacts，无既有联系人账本/组织邮箱报告；D:\\02钛白粉外贸\\markets\\BE\\due-diligence\\BE-DD-20261022-01\\_work\\research-handoff.json明确背调Apollo付费0；原具名邮箱按实导入"
+  },
+  "contacts": [
+    {
+      "kind": "public",
+      "email": "marketing.europe@ampacet.com",
+      "source_ref": "D:\\02钛白粉外贸\\markets\\BE\\companies\\BE-C010\\Ampacet_Belgium_背调报告_2026-10-22.md O/L公开入口",
+      "date": "2026-10-22"
+    },
+    {
+      "person_key": "BE-C010:apollo:606ef3102607390001d0562c",
+      "kind": "named",
+      "name": "Gerjan Assink",
+      "email": "gerjan.assink@ampacet.com",
+      "source_ref": "D:/02钛白粉外贸/markets/BE/contacts/BE-CONTACTS-20261022-01/logs/evidence/BE-ENRICH-G2-20261022.json Apollo people bulk match id 606ef3102607390001d0562c request_id -8021446934001338794",
+      "date": "2026-10-22",
+      "email_status": "verified",
+      "match_confidence": "high",
+      "email_domain_catchall": false,
+      "email_domain_catchall_verdict": "allow",
+      "linkedin_url": "http://www.linkedin.com/in/gerjan-assink-53b6a648",
+      "title": "Supply Chain & Procurement Director EMEA",
+      "organization": "Ampacet Corporation"
+    }
+  ],
+  "unattributed_emails": [],
+  "operations": [
+    {
+      "operation_id": "BE-OP-BE-C010-C01-01",
+      "batch_id": "BE-CONTACTS-20261022-01",
+      "kind": "people_enrichment",
+      "person_key": "BE-C010:apollo:606ef3102607390001d0562c",
+      "max_credits": "1",
+      "actual_credits": "1",
+      "status": "settled",
+      "evidence_ref": "D:/02钛白粉外贸/markets/BE/contacts/BE-CONTACTS-20261022-01/logs/evidence/BE-ENRICH-G2-20261022.json request_id -8021446934001338794 同一ID成功匹配；实时费率每匹配1 credit，返回总credits_consumed=1，全部1人匹配；非账户差额分摊",
+      "created_at": "2026-10-22T16:16:35+08:00",
+      "settled_at": "2026-10-22T16:16:46+08:00",
+      "request_id": "-8021446934001338794",
+      "executed": true
+    }
+  ],
+  "history": [
+    {
+      "path": "D:/02钛白粉外贸/markets/BE/companies/BE-C010/contacts/history/20261022-161635-ledger-0dff8/ledger.json",
+      "sha256": "4f74ac5b9ac12e2552a0921cd2351cbf1ce6c3c948444a6de627b9cdd366fd86"
+    },
+    {
+      "path": "D:/02钛白粉外贸/markets/BE/companies/BE-C010/contacts/history/20261022-161646-ledger-d432c/ledger.json",
+      "sha256": "6e7a36f007aa8f11744da56dcd3f1b9652e083da1224f3964f1b087ce2f438b6"
+    }
+  ]
+}

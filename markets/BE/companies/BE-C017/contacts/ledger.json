@@ -1,0 +1,106 @@
+{
+  "schema": 1,
+  "company_key": "BE:BE-C017",
+  "workflow_id": "BE-contacts-BE-C017",
+  "customer_ids": [
+    "BE-C017"
+  ],
+  "aliases": [
+    "Italmaster Belgium"
+  ],
+  "credit_limit": "3",
+  "contact_limit": 3,
+  "baseline_evidence": {
+    "confirmed": true,
+    "source_ref": "本批上游付费0/选人0；BE当前唯一账本索引仅旧C001–010，逐一名称/已知VAT主体核对未匹配；新目录无已有组织/邮箱报告或账本。详见本批_work/intake-audit.json；不扫描其他市场/备份"
+  },
+  "contacts": [
+    {
+      "person_key": "BE-C017:public-clue:michelstaelens",
+      "kind": "named",
+      "name": "Michel Staelens",
+      "email": "michel.staelens@italmaster.be",
+      "source_ref": "D:/02钛白粉外贸/markets/BE/companies/BE-C017/Italmaster_Belgium_背调报告_2026-10-22.md O03/O05/G04",
+      "date": "2026-10-22",
+      "counts_toward_limit": true,
+      "scope_basis": "BE-CONTACTS-20261022-02正式本次选用现有公开工作邮箱，计累计名额；未付费/未复验",
+      "identity_basis": "官网具名线索，是否选用另定",
+      "selected_at": "2026-10-22T19:20:46.061467"
+    },
+    {
+      "person_key": "BE-C017:public-clue:fredericcoeman",
+      "kind": "named",
+      "name": "Frederic Coeman",
+      "email": "frederic.coeman@italmaster.be",
+      "source_ref": "D:/02钛白粉外贸/markets/BE/companies/BE-C017/Italmaster_Belgium_背调报告_2026-10-22.md O03/O05",
+      "date": "2026-10-22",
+      "counts_toward_limit": false,
+      "scope_basis": "上游明确selected_contacts_this_run=0；仅背调收集未选；归属及现职边界保持原报告",
+      "identity_basis": "官网具名线索，是否选用另定"
+    },
+    {
+      "person_key": "BE-C017:public-clue:ginaclaeys",
+      "kind": "named",
+      "name": "Gina Claeys",
+      "email": "gina.claeys@italmaster.be",
+      "source_ref": "D:/02钛白粉外贸/markets/BE/companies/BE-C017/Italmaster_Belgium_背调报告_2026-10-22.md O03/O05",
+      "date": "2026-10-22",
+      "counts_toward_limit": false,
+      "scope_basis": "上游明确selected_contacts_this_run=0；仅背调收集未选；归属及现职边界保持原报告",
+      "identity_basis": "官网具名线索，是否选用另定"
+    },
+    {
+      "person_key": "BE-C017:public-clue:stevenvermeiren",
+      "kind": "named",
+      "name": "Steven Vermeiren",
+      "email": "steven.vermeiren@italmaster.be",
+      "source_ref": "D:/02钛白粉外贸/markets/BE/companies/BE-C017/Italmaster_Belgium_背调报告_2026-10-22.md O03/O05",
+      "date": "2026-10-22",
+      "counts_toward_limit": false,
+      "scope_basis": "上游明确selected_contacts_this_run=0；仅背调收集未选；归属及现职边界保持原报告",
+      "identity_basis": "官网具名线索，是否选用另定"
+    },
+    {
+      "person_key": "BE-C017:public-clue:frederickpollet",
+      "kind": "named",
+      "name": "Frederick Pollet",
+      "email": "frederick.pollet@octopuscapital.be",
+      "source_ref": "D:/02钛白粉外贸/markets/BE/companies/BE-C017/Italmaster_Belgium_背调报告_2026-10-22.md G03",
+      "date": "2026-10-22",
+      "counts_toward_limit": false,
+      "scope_basis": "上游明确selected_contacts_this_run=0；仅背调收集未选；归属及现职边界保持原报告",
+      "identity_basis": "官网具名线索，是否选用另定"
+    },
+    {
+      "kind": "public",
+      "email": "info@italmaster.be",
+      "source_ref": "D:/02钛白粉外贸/markets/BE/companies/BE-C017/Italmaster_Belgium_背调报告_2026-10-22.md O/L公开入口，地域/角色见原报告",
+      "date": "2026-10-22"
+    },
+    {
+      "kind": "public",
+      "email": "marketing@italmaster.be",
+      "source_ref": "D:/02钛白粉外贸/markets/BE/companies/BE-C017/Italmaster_Belgium_背调报告_2026-10-22.md O/L公开入口，地域/角色见原报告",
+      "date": "2026-10-22"
+    }
+  ],
+  "alternate_public_email_records": [
+    {
+      "person_key": "BE-C017:public-clue:michelstaelens",
+      "email": "michel.staelens@octopuscapital.be",
+      "source_ref": "D:/02钛白粉外贸/markets/BE/companies/BE-C017/Italmaster_Belgium_背调报告_2026-10-22.md O03/O05/G04",
+      "selected": false,
+      "counts_toward_limit": false
+    }
+  ],
+  "unattributed_emails": [
+    "rudy.peire@italmaster.be"
+  ],
+  "operations": [],
+  "history": [
+    {
+      "path": "D:/02钛白粉外贸/markets/BE/companies/BE-C017/contacts/history/20261022T192046-d6cb6d/ledger.json",
+      "sha256": "b731c300ab62e0561f6beadbf539ebbf2b48609a72fc68fc27605822e5555166"
+    }
+  ]
+}

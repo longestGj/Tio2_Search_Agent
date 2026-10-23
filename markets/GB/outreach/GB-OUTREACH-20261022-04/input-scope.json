@@ -1,0 +1,75 @@
+{
+  "country": "GB",
+  "batch_id": "GB-OUTREACH-20261022-04",
+  "request": "现在找一下英国公司，看看哪些公司没有开发信，调用这个agent写开发信",
+  "existing_groups": [
+    "annie-sloan-interiors-ltd",
+    "bailey-paints-ltd",
+    "becker-industrial-coatings-ltd"
+  ],
+  "missing_groups": [
+    {
+      "name": "AptiCem / Devine Chemicals",
+      "folder": "apticem-devine-chemicals",
+      "customer_ids": [
+        "TIO2-GB-0D385D542A",
+        "TIO2-GB-F77506CD51"
+      ],
+      "initial_note": "未找到当前草稿；背调提及Devine历史邮件，需定位，避免重复开发；缺独立组织/邮箱报告"
+    },
+    {
+      "name": "Barrettine Products Ltd",
+      "folder": "barrettine-products-ltd",
+      "customer_ids": [
+        "TIO2-GB-0325CD2C0C"
+      ],
+      "initial_note": "未找到草稿；有组织/邮箱，旧背调结论由生产者复核后交写信Agent"
+    },
+    {
+      "name": "Bartoline Ltd / Bartoline International",
+      "folder": "bartoline-ltd",
+      "customer_ids": [
+        "TIO2-GB-C36CD8CD4B"
+      ],
+      "initial_note": "未找到草稿；有组织/邮箱，旧背调结论由生产者复核；密封胶应用与固定牌号表对应待核对"
+    },
+    {
+      "name": "Belzona Limited",
+      "folder": "belzona-polymerics-ltd",
+      "customer_ids": [
+        "TIO2-GB-DD75D4F46E"
+      ],
+      "initial_note": "未找到草稿；缺独立组织/邮箱报告，历史Ian线索不自动选为本次收件人"
+    },
+    {
+      "name": "Benvic Dugdale",
+      "folder": "benvic-dugdale",
+      "customer_ids": [
+        "TIO2-GB-9950DDD1F4"
+      ],
+      "initial_note": "未找到草稿；缺独立组织/邮箱报告，背调明确历史Bartosz不能直接作采购收件人"
+    },
+    {
+      "name": "Bondloc UK Ltd",
+      "folder": "bondloc-uk-ltd",
+      "customer_ids": [
+        "TIO2-GB-EF1AA720F3"
+      ],
+      "initial_note": "未找到草稿；缺独立组织/邮箱报告，旧背调结论及密封胶应用待确认"
+    }
+  ],
+  "historical_rows": 185,
+  "historical_unique_ids": 157,
+  "unmatched_archive_ids": 147,
+  "product_overrides": [
+    {
+      "customer_id": "TIO2-GB-C36CD8CD4B",
+      "company": "Bartoline",
+      "application": "密封胶、填缝剂",
+      "grade": "M340",
+      "user_answer": "M340",
+      "scope": "本次Bartoline开发信；不改全局对应表",
+      "context": "用户回答本轮密封胶/填缝剂牌号处理问题"
+    }
+  ]
+}

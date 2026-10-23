@@ -1,0 +1,75 @@
+{
+  "schema": 1,
+  "company_key": "BE:BE-C015",
+  "workflow_id": "BE-contacts-BE-C015",
+  "customer_ids": [
+    "BE-C015"
+  ],
+  "aliases": [
+    "WILLCO PRODUCTS"
+  ],
+  "credit_limit": "3",
+  "contact_limit": 3,
+  "baseline_evidence": {
+    "confirmed": true,
+    "source_ref": "本批上游付费0/选人0；BE当前唯一账本索引仅旧C001–010，逐一名称/已知VAT主体核对未匹配；新目录无已有组织/邮箱报告或账本。详见本批_work/intake-audit.json；不扫描其他市场/备份"
+  },
+  "contacts": [
+    {
+      "kind": "public",
+      "email": "info@willcoproducts.be",
+      "source_ref": "D:/02钛白粉外贸/markets/BE/companies/BE-C015/Willco_Products_背调报告_2026-10-22.md O/L公开入口，地域/角色见原报告",
+      "date": "2026-10-22"
+    },
+    {
+      "kind": "public",
+      "email": "ciney@willcoproducts.be",
+      "source_ref": "D:/02钛白粉外贸/markets/BE/companies/BE-C015/Willco_Products_背调报告_2026-10-22.md O/L公开入口，地域/角色见原报告",
+      "date": "2026-10-22"
+    },
+    {
+      "person_key": "BE-C015:apollo:57e03508a6da985f2cb60d91",
+      "kind": "named",
+      "name": "Lauren Coppens",
+      "email": "lauren.coppens@willcoproducts.be",
+      "source_ref": "D:/02钛白粉外贸/markets/BE/contacts/BE-CONTACTS-20261022-02/logs/evidence/BE2-ENRICH-647f8908ea9d.json",
+      "date": "2026-10-22",
+      "counts_toward_limit": true,
+      "scope_basis": "本批固定付费获取/已明确选定",
+      "email_status": "verified",
+      "match_confidence": "high",
+      "email_domain_catchall": false,
+      "email_domain_catchall_verdict": "allow",
+      "linkedin_url": "http://www.linkedin.com/in/lauren-coppens-090846a7",
+      "title": "Verantwoordelijke Facturatie/boekhouding",
+      "request_id": "2661915067416287516"
+    }
+  ],
+  "alternate_public_email_records": [],
+  "unattributed_emails": [],
+  "operations": [
+    {
+      "operation_id": "BE-C015-E1",
+      "batch_id": "BE-CONTACTS-20261022-02",
+      "kind": "people_enrichment",
+      "person_key": "BE-C015:apollo:57e03508a6da985f2cb60d91",
+      "max_credits": "1",
+      "actual_credits": "1",
+      "status": "settled",
+      "evidence_ref": "D:/02钛白粉外贸/markets/BE/contacts/BE-CONTACTS-20261022-02/logs/evidence/BE2-ENRICH-647f8908ea9d.json",
+      "executed": true,
+      "request_id": "2661915067416287516",
+      "allocation_basis": "工具Exactly1credit/matchedperson；本次3个ID全matched且总credits_consumed=3，逐人1而非余额差分摊"
+    }
+  ],
+  "history": [
+    {
+      "path": "D:/02钛白粉外贸/markets/BE/companies/BE-C015/contacts/history/20261022T194417392061-c6534a/ledger.json",
+      "sha256": "f8d9d4113264f94d81f72156f59ae72dd4a554379867df72e9ac9acfdbe94076"
+    },
+    {
+      "path": "D:/02钛白粉外贸/markets/BE/companies/BE-C015/contacts/history/20261022T194448718862-cdaa05/ledger.json",
+      "sha256": "9b6c334e620f699e0db2488f33d05eb399e4d4d93fc0fcf24c1d83e7289fea3e"
+    }
+  ]
+}

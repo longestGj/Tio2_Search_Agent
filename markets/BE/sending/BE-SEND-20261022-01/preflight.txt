@@ -1,0 +1,1 @@
+{"check": "passed; no mailbox connection", "batch_id": "BE-SEND-20261022-01", "messages": 10, "send_at": "2026-10-22T17:07:13.063637+08:00"}

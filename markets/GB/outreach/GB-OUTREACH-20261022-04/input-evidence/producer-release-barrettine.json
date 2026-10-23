@@ -1,0 +1,15 @@
+{
+  "kind": "independent_producer_release_record",
+  "producer": "/root/gb_outreach_prerequisite",
+  "customer_id": "TIO2-GB-0325CD2C0C",
+  "execution_status": "completed",
+  "method": "supplemented",
+  "business_conclusion": "继续开发",
+  "released": true,
+  "evidence": "生产者本会话消息明确已保存并释放；主对话回读报告指纹一致",
+  "report": {
+    "path": "D:\\02钛白粉外贸\\markets\\GB\\companies\\barrettine-products-ltd\\Barrettine_Products_Ltd_背调报告_2026-10-21.md",
+    "sha256": "60fc55a2710ad81aecb44880d736b8b47a12d39fe7708df66c0aada80344bacd"
+  },
+  "limitations": "透明/半透明涂层，不写成白色遮盖需求；DD批次仍处理另一家公司，不能冻结仍变化的整个DD进度作为不可变输入。"
+}

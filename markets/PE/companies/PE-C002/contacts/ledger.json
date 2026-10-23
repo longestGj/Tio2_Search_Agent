@@ -1,0 +1,34 @@
+{
+  "schema": 1,
+  "company_key": "PE:PE-C002",
+  "workflow_id": "PE-C002-contacts",
+  "customer_ids": [
+    "PE-C002"
+  ],
+  "aliases": [
+    "Corporación Crons Perú SAC",
+    "pinturascrons.com"
+  ],
+  "credit_limit": "3",
+  "contact_limit": 3,
+  "baseline_evidence": {
+    "confirmed": true,
+    "source_ref": "D:/02钛白粉外贸/markets/PE/companies/PE-C002/Corporación Crons Perú SAC_背调报告_2026-10-22.md；源背调明确无Apollo/付费；接收查阅指定14公司目录无旧组织/邮箱/contacts账本；本次为该本地联系人流程起点，不声称账户历史零消费"
+  },
+  "contacts": [
+    {
+      "kind": "public",
+      "email": "contacto@pinturascrons.com",
+      "source_ref": "D:/02钛白粉外贸/markets/PE/companies/PE-C002/Corporación Crons Perú SAC_背调报告_2026-10-22.md",
+      "date": "2026-10-22"
+    },
+    {
+      "kind": "public",
+      "email": "ventas@pinturascrons.com",
+      "source_ref": "D:/02钛白粉外贸/markets/PE/companies/PE-C002/Corporación Crons Perú SAC_背调报告_2026-10-22.md",
+      "date": "2026-10-22"
+    }
+  ],
+  "operations": [],
+  "history": []
+}

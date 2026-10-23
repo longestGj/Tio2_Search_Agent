@@ -1,0 +1,21 @@
+{
+  "schema": 1,
+  "company_key": "JP:JP-C095",
+  "workflow_id": "JP-contacts-JP-C095",
+  "customer_ids": [
+    "JP-C095"
+  ],
+  "aliases": [
+    "日弘エイブル株式会社"
+  ],
+  "credit_limit": "3",
+  "contact_limit": 3,
+  "baseline_evidence": {
+    "confirmed": true,
+    "source_ref": "已检索日本公司目录，无既有contacts/ledger.json；背调未调用Apollo付费enrichment。"
+  },
+  "contacts": [],
+  "unattributed_emails": [],
+  "operations": [],
+  "history": []
+}

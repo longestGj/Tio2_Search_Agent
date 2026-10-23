@@ -1,0 +1,104 @@
+{
+  "schema": 1,
+  "company_key": "BE:BE-C009",
+  "workflow_id": "BE-contacts-BE-C009",
+  "customer_ids": [
+    "BE-C009"
+  ],
+  "aliases": [
+    "RAFF Plastics"
+  ],
+  "credit_limit": "3",
+  "contact_limit": 3,
+  "baseline_evidence": {
+    "confirmed": true,
+    "source_ref": "核对markets/BE/companies及contacts，无既有联系人账本/组织邮箱报告；D:\\02钛白粉外贸\\markets\\BE\\due-diligence\\BE-DD-20261022-01\\_work\\research-handoff.json明确背调Apollo付费0；原具名邮箱按实导入"
+  },
+  "contacts": [
+    {
+      "person_key": "BE-C009:history:carolinevanderperre",
+      "kind": "named",
+      "name": "Caroline Van der Perre",
+      "email": "caroline@raffplastics.be",
+      "source_ref": "D:\\02钛白粉外贸\\markets\\BE\\companies\\BE-C009\\RAFF_Plastics_背调报告_2026-10-22.md L段 156行；公开、未验证",
+      "date": "2026-10-22"
+    },
+    {
+      "kind": "public",
+      "email": "info@raffplastics.be",
+      "source_ref": "D:\\02钛白粉外贸\\markets\\BE\\companies\\BE-C009\\RAFF_Plastics_背调报告_2026-10-22.md O/L公开入口",
+      "date": "2026-10-22"
+    },
+    {
+      "person_key": "BE-C009:apollo:636cec7b9d34ce0001ed14e5",
+      "kind": "named",
+      "name": "Sam Bruwier",
+      "email": "sam.bruwier@raffplastics.be",
+      "source_ref": "D:/02钛白粉外贸/markets/BE/contacts/BE-CONTACTS-20261022-01/logs/evidence/BE-ENRICH-G1-20261022.json Apollo people bulk match id 636cec7b9d34ce0001ed14e5 request_id 7757118278113307596",
+      "date": "2026-10-22",
+      "email_status": "verified",
+      "match_confidence": "high",
+      "email_domain_catchall": false,
+      "email_domain_catchall_verdict": "allow",
+      "linkedin_url": "http://www.linkedin.com/in/sam-bruwier-a309b9218",
+      "title": "Purchase Manager",
+      "organization": "RAFF Plastics"
+    },
+    {
+      "person_key": "BE-C009:apollo:54a70a8874686962207fcc0f",
+      "kind": "named",
+      "name": "Christophe Dehouck",
+      "email": "christophe@raffplastics.be",
+      "source_ref": "D:/02钛白粉外贸/markets/BE/contacts/BE-CONTACTS-20261022-01/logs/evidence/BE-ENRICH-G1-20261022.json Apollo people bulk match id 54a70a8874686962207fcc0f request_id 7757118278113307596",
+      "date": "2026-10-22",
+      "email_status": "verified",
+      "match_confidence": "high",
+      "email_domain_catchall": false,
+      "email_domain_catchall_verdict": "allow",
+      "linkedin_url": "http://www.linkedin.com/in/christophedehouck",
+      "title": "Co-Owner & Manager",
+      "organization": "RAFF Plastics"
+    }
+  ],
+  "unattributed_emails": [],
+  "operations": [
+    {
+      "operation_id": "BE-OP-BE-C009-C01-01",
+      "batch_id": "BE-CONTACTS-20261022-01",
+      "kind": "people_enrichment",
+      "person_key": "BE-C009:apollo:636cec7b9d34ce0001ed14e5",
+      "max_credits": "1",
+      "actual_credits": "1",
+      "status": "settled",
+      "evidence_ref": "D:/02钛白粉外贸/markets/BE/contacts/BE-CONTACTS-20261022-01/logs/evidence/BE-ENRICH-G1-20261022.json request_id 7757118278113307596 同一ID成功匹配；实时费率每匹配1 credit，返回总credits_consumed=10，全部10人匹配；非账户差额分摊",
+      "created_at": "2026-10-22T16:15:01+08:00",
+      "settled_at": "2026-10-22T16:15:58+08:00",
+      "request_id": "7757118278113307596",
+      "executed": true
+    },
+    {
+      "operation_id": "BE-OP-BE-C009-C02-01",
+      "batch_id": "BE-CONTACTS-20261022-01",
+      "kind": "people_enrichment",
+      "person_key": "BE-C009:apollo:54a70a8874686962207fcc0f",
+      "max_credits": "1",
+      "actual_credits": "1",
+      "status": "settled",
+      "evidence_ref": "D:/02钛白粉外贸/markets/BE/contacts/BE-CONTACTS-20261022-01/logs/evidence/BE-ENRICH-G1-20261022.json request_id 7757118278113307596 同一ID成功匹配；实时费率每匹配1 credit，返回总credits_consumed=10，全部10人匹配；非账户差额分摊",
+      "created_at": "2026-10-22T16:15:01+08:00",
+      "settled_at": "2026-10-22T16:15:58+08:00",
+      "request_id": "7757118278113307596",
+      "executed": true
+    }
+  ],
+  "history": [
+    {
+      "path": "D:/02钛白粉外贸/markets/BE/companies/BE-C009/contacts/history/20261022-161501-ledger-25cda/ledger.json",
+      "sha256": "1ac81a5161f0bbb1ed31816b133fac74dd68d2c5c3d82b271fa4b3b09cd1908a"
+    },
+    {
+      "path": "D:/02钛白粉外贸/markets/BE/companies/BE-C009/contacts/history/20261022-161558-ledger-b4f19/ledger.json",
+      "sha256": "ff170776c2650748542980090d95c37256c9a163a26def41547518d21e1c351a"
+    }
+  ]
+}

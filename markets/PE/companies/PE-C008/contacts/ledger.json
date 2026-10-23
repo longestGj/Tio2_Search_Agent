@@ -1,0 +1,65 @@
+{
+  "schema": 1,
+  "company_key": "PE:PE-C008",
+  "workflow_id": "PE-C008-contacts",
+  "customer_ids": [
+    "PE-C008"
+  ],
+  "aliases": [
+    "Allin Colors S.C.R.L."
+  ],
+  "credit_limit": "3",
+  "contact_limit": 3,
+  "baseline_evidence": {
+    "confirmed": true,
+    "source_ref": "D:\\02钛白粉外贸\\markets\\PE\\contacts\\PE-CONTACTS-20261022-02\\logs\\intake.json；核对现有联系人批次与公司目录、当前背调，无本流程历史付费或具名邮箱；历史公开渠道后续单列。"
+  },
+  "contacts": [
+    {
+      "person_key": null,
+      "kind": "public",
+      "email": "ventas@allincolors.com.pe",
+      "source_ref": "原背调2026-10-22已核验官网，继承资料",
+      "date": "2026-10-22"
+    },
+    {
+      "person_key": "apollo:57d86dd0a6da9878935324a6",
+      "kind": "named",
+      "email": "violetacampos@allincolors.com.pe",
+      "source_ref": "D:\\02钛白粉外贸\\markets\\PE\\contacts\\PE-CONTACTS-20261022-02\\logs\\evidence\\C008-E01.json",
+      "date": "2026-10-22",
+      "email_status": "verified"
+    }
+  ],
+  "operations": [
+    {
+      "operation_id": "PE-C008-enrichment-01",
+      "batch_id": "PE-CONTACTS-20261022-02",
+      "kind": "people_enrichment",
+      "person_key": "apollo:57d86dd0a6da9878935324a6",
+      "max_credits": "1",
+      "actual_credits": "1",
+      "status": "settled",
+      "evidence_ref": "D:\\02钛白粉外贸\\markets\\PE\\contacts\\PE-CONTACTS-20261022-02\\logs\\evidence\\C008-E01.json",
+      "request_id": "-7080883243317975654"
+    }
+  ],
+  "history": [
+    {
+      "path": "D:\\02钛白粉外贸\\markets\\PE\\companies\\PE-C008\\contacts\\history\\2026-10-22T131500915114+0800\\ledger.json",
+      "sha256": "923a24f165893d7e72aa4404ff0a0493302bd8f8c4b67fe8f96813c727e7cf56"
+    },
+    {
+      "path": "D:\\02钛白粉外贸\\markets\\PE\\companies\\PE-C008\\contacts\\history\\2026-10-22T132030988105+0800\\ledger.json",
+      "sha256": "ada760a5d3d70eceb9092bd756a22dcb9e89d7c5896b2672ff6e61a1dbad7b57"
+    },
+    {
+      "path": "D:\\02钛白粉外贸\\markets\\PE\\companies\\PE-C008\\contacts\\history\\2026-10-22T132039932741+0800\\ledger.json",
+      "sha256": "a835af112f22df0c9650c46fa22cd1e7462f98d18cfaa7cf480b70d36c7717a6"
+    },
+    {
+      "path": "D:\\02钛白粉外贸\\markets\\PE\\companies\\PE-C008\\contacts\\history\\2026-10-22T132101025039+0800\\ledger.json",
+      "sha256": "8d1bfdfe6ccf45799d2e8a86af683320cb1d9a988dc019c089aa09d8bb740681"
+    }
+  ]
+}

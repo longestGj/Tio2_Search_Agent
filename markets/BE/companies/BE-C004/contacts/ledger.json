@@ -1,0 +1,108 @@
+{
+  "schema": 1,
+  "company_key": "BE:BE-C004",
+  "workflow_id": "BE-contacts-BE-C004",
+  "customer_ids": [
+    "BE-C004"
+  ],
+  "aliases": [
+    "Toyo Ink Europe"
+  ],
+  "credit_limit": "3",
+  "contact_limit": 3,
+  "baseline_evidence": {
+    "confirmed": true,
+    "source_ref": "核对markets/BE/companies及contacts，无既有联系人账本/组织邮箱报告；D:\\02钛白粉外贸\\markets\\BE\\due-diligence\\BE-DD-20261022-01\\_work\\research-handoff.json明确背调Apollo付费0；原具名邮箱按实导入"
+  },
+  "contacts": [
+    {
+      "kind": "public",
+      "email": "info@toyoink.eu",
+      "source_ref": "D:\\02钛白粉外贸\\markets\\BE\\companies\\BE-C004\\Toyo_Ink_Europe_背调报告_2026-10-22.md O/L公开入口",
+      "date": "2026-10-22"
+    },
+    {
+      "kind": "public",
+      "email": "sales@toyoink.eu",
+      "source_ref": "D:\\02钛白粉外贸\\markets\\BE\\companies\\BE-C004\\Toyo_Ink_Europe_背调报告_2026-10-22.md O/L公开入口",
+      "date": "2026-10-22"
+    },
+    {
+      "kind": "public",
+      "email": "customerservice@toyoink.eu",
+      "source_ref": "D:\\02钛白粉外贸\\markets\\BE\\companies\\BE-C004\\Toyo_Ink_Europe_背调报告_2026-10-22.md O/L公开入口",
+      "date": "2026-10-22"
+    },
+    {
+      "person_key": "BE-C004:apollo:6480a66791f8630001faf166",
+      "kind": "named",
+      "name": "Karin Bruyne",
+      "email": "karin.bruyne@toyoink.eu",
+      "source_ref": "D:/02钛白粉外贸/markets/BE/contacts/BE-CONTACTS-20261022-01/logs/evidence/BE-ENRICH-G1-20261022.json Apollo people bulk match id 6480a66791f8630001faf166 request_id 7757118278113307596",
+      "date": "2026-10-22",
+      "email_status": "verified",
+      "match_confidence": "high",
+      "email_domain_catchall": false,
+      "email_domain_catchall_verdict": "allow",
+      "linkedin_url": "http://www.linkedin.com/in/karin-de-bruyne-863968270",
+      "title": "Inkoopmedewerker",
+      "organization": "Toyo Ink Europe NV"
+    },
+    {
+      "person_key": "BE-C004:apollo:66f51105c33fa10001d7e5a3",
+      "kind": "named",
+      "name": "Davy Peeters",
+      "email": "davy.peeters@toyoink.eu",
+      "source_ref": "D:/02钛白粉外贸/markets/BE/contacts/BE-CONTACTS-20261022-01/logs/evidence/BE-ENRICH-G1-20261022.json Apollo people bulk match id 66f51105c33fa10001d7e5a3 request_id 7757118278113307596",
+      "date": "2026-10-22",
+      "email_status": "verified",
+      "match_confidence": "high",
+      "email_domain_catchall": false,
+      "email_domain_catchall_verdict": "allow",
+      "linkedin_url": "http://www.linkedin.com/in/davypeeters",
+      "title": "Executive Director - Operations, HR & IT",
+      "organization": "Toyo Ink Europe NV"
+    }
+  ],
+  "unattributed_emails": [],
+  "operations": [
+    {
+      "operation_id": "BE-OP-BE-C004-C01-01",
+      "batch_id": "BE-CONTACTS-20261022-01",
+      "kind": "people_enrichment",
+      "person_key": "BE-C004:apollo:6480a66791f8630001faf166",
+      "max_credits": "1",
+      "actual_credits": "1",
+      "status": "settled",
+      "evidence_ref": "D:/02钛白粉外贸/markets/BE/contacts/BE-CONTACTS-20261022-01/logs/evidence/BE-ENRICH-G1-20261022.json request_id 7757118278113307596 同一ID成功匹配；实时费率每匹配1 credit，返回总credits_consumed=10，全部10人匹配；非账户差额分摊",
+      "created_at": "2026-10-22T16:15:01+08:00",
+      "settled_at": "2026-10-22T16:15:58+08:00",
+      "request_id": "7757118278113307596",
+      "executed": true
+    },
+    {
+      "operation_id": "BE-OP-BE-C004-C02-01",
+      "batch_id": "BE-CONTACTS-20261022-01",
+      "kind": "people_enrichment",
+      "person_key": "BE-C004:apollo:66f51105c33fa10001d7e5a3",
+      "max_credits": "1",
+      "actual_credits": "1",
+      "status": "settled",
+      "evidence_ref": "D:/02钛白粉外贸/markets/BE/contacts/BE-CONTACTS-20261022-01/logs/evidence/BE-ENRICH-G1-20261022.json request_id 7757118278113307596 同一ID成功匹配；实时费率每匹配1 credit，返回总credits_consumed=10，全部10人匹配；非账户差额分摊",
+      "created_at": "2026-10-22T16:15:01+08:00",
+      "settled_at": "2026-10-22T16:15:58+08:00",
+      "request_id": "7757118278113307596",
+      "executed": true
+    }
+  ],
+  "history": [
+    {
+      "path": "D:/02钛白粉外贸/markets/BE/companies/BE-C004/contacts/history/20261022-161501-ledger-2f947/ledger.json",
+      "sha256": "de074ada6398f0af571bcdd26ee871835e1db74ecf3dc4aa7f9a25f994fe5b57"
+    },
+    {
+      "path": "D:/02钛白粉外贸/markets/BE/companies/BE-C004/contacts/history/20261022-161558-ledger-f4912/ledger.json",
+      "sha256": "f0074d013670ea36726de524a9239d1a1452ad68125b1c15825142f5f2b18a2c"
+    }
+  ]
+}

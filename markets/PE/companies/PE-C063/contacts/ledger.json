@@ -1,0 +1,84 @@
+{
+  "schema": 1,
+  "company_key": "PE:PE-C063",
+  "workflow_id": "PE-C063-contacts",
+  "customer_ids": [
+    "PE-C063"
+  ],
+  "aliases": [
+    "Brenntag Perú S.A.C.",
+    "brenntag.com"
+  ],
+  "credit_limit": "3",
+  "contact_limit": 3,
+  "baseline_evidence": {
+    "confirmed": true,
+    "source_ref": "D:/02钛白粉外贸/markets/PE/companies/PE-C063/Brenntag Perú S.A.C._背调报告_2026-10-22.md；源背调明确无Apollo/付费；接收查阅指定14公司目录无旧组织/邮箱/contacts账本；本次为该本地联系人流程起点，不声称账户历史零消费"
+  },
+  "contacts": [
+    {
+      "kind": "named",
+      "email": "kwong@brenntagla.com",
+      "source_ref": "D:/02钛白粉外贸/markets/PE/contacts/PE-CONTACTS-20261022-01/logs/evidence/BULK-01.json",
+      "date": "2026-10-22",
+      "name": "Katia De Loayza Wong",
+      "apollo_id": "642309f8dd952700013c9862",
+      "email_status": "verified",
+      "association_note": "Apollo人员ID匹配；未投递验证",
+      "person_key": "apollo:642309f8dd952700013c9862"
+    },
+    {
+      "kind": "named",
+      "email": "jorge.montero@brenntag.com",
+      "source_ref": "D:/02钛白粉外贸/markets/PE/contacts/PE-CONTACTS-20261022-01/logs/evidence/BULK-01.json",
+      "date": "2026-10-22",
+      "name": "Jorge Montero Palacios",
+      "apollo_id": "54c29ec17468691639d58faf",
+      "email_status": "verified",
+      "association_note": "Apollo人员ID匹配；未投递验证",
+      "person_key": "apollo:54c29ec17468691639d58faf"
+    }
+  ],
+  "operations": [
+    {
+      "operation_id": "BULK-01-PE-C063-P01",
+      "batch_id": "PE-CONTACTS-20261022-01",
+      "kind": "people_enrichment",
+      "person_key": "apollo:642309f8dd952700013c9862",
+      "max_credits": "1",
+      "actual_credits": "1",
+      "status": "settled",
+      "reserved_at": "2026-10-22T11:54:28.295413+08:00",
+      "executed": true,
+      "evidence_ref": "D:/02钛白粉外贸/markets/PE/contacts/PE-CONTACTS-20261022-01/logs/evidence/BULK-01.json",
+      "request_id": "-6267782399058203716",
+      "settled_at": "2026-10-22T11:56:12.703836+08:00",
+      "cost_basis": "本次所有请求ID逐一匹配，工具定义每匹配1credit；原始credits_consumed总数与逐ID之和一致，不按余额差分摊"
+    },
+    {
+      "operation_id": "BULK-01-PE-C063-P02",
+      "batch_id": "PE-CONTACTS-20261022-01",
+      "kind": "people_enrichment",
+      "person_key": "apollo:54c29ec17468691639d58faf",
+      "max_credits": "1",
+      "actual_credits": "1",
+      "status": "settled",
+      "reserved_at": "2026-10-22T11:54:28.295413+08:00",
+      "executed": true,
+      "evidence_ref": "D:/02钛白粉外贸/markets/PE/contacts/PE-CONTACTS-20261022-01/logs/evidence/BULK-01.json",
+      "request_id": "-6267782399058203716",
+      "settled_at": "2026-10-22T11:56:12.703836+08:00",
+      "cost_basis": "本次所有请求ID逐一匹配，工具定义每匹配1credit；原始credits_consumed总数与逐ID之和一致，不按余额差分摊"
+    }
+  ],
+  "history": [
+    {
+      "path": "D:/02钛白粉外贸/markets/PE/companies/PE-C063/contacts/history/2026-10-22T11-54-28.286874+08-00/ledger.json",
+      "sha256": "de498af2ddf40ab8d1d3b280de5d7d5a26ba20e0f22f30c742ca773704b46cb6"
+    },
+    {
+      "path": "D:/02钛白粉外贸/markets/PE/companies/PE-C063/contacts/history/2026-10-22T11-56-12.699837+08-00/ledger.json",
+      "sha256": "a5c4722ce7816998b22efbab9445de354fc54a6f2fcaaa4d5e7204c10f40cf23"
+    }
+  ]
+}

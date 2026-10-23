@@ -1,0 +1,35 @@
+{
+  "schema": 1,
+  "company_key": "JP:JP-C001",
+  "workflow_id": "JP-contacts-JP-C001",
+  "customer_ids": [
+    "JP-C001"
+  ],
+  "aliases": [
+    "イサム塗料株式会社"
+  ],
+  "credit_limit": "3",
+  "contact_limit": 3,
+  "baseline_evidence": {
+    "confirmed": true,
+    "source_ref": "审计2026-10-21旧组织/联系人报告：免费人员搜索已执行，固定C01 has_email=false；付费enrichment请求0、费用0、具名工作邮箱0；公共品质邮箱保留。"
+  },
+  "contacts": [
+    {
+      "kind": "public",
+      "email": "is-hinkan@isamu.co.jp",
+      "source_ref": "Isamu_Paint_背调报告_2026-10-21.md（O06）",
+      "date": "2026-10-21",
+      "category": "品质",
+      "department": "滋贺工厂品质管理课",
+      "source_url": "https://www.tacmina.co.jp/tacmina/public/download/sds/Z1546.pdf",
+      "source_date": "SDS修订2025-07-03；页脚2025-07-04",
+      "delivery_validation": "未验证投递",
+      "marketing_permission": "未明确；宜用于技术文件核实或请求转介，不当作采购个人邮箱",
+      "attribution": "部门邮箱，不归给个人"
+    }
+  ],
+  "unattributed_emails": [],
+  "operations": [],
+  "history": []
+}

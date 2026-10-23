@@ -1,0 +1,35 @@
+{
+  "schema": 1,
+  "company_key": "JP:JP-C002",
+  "workflow_id": "JP-contacts-JP-C002",
+  "customer_ids": [
+    "JP-C002"
+  ],
+  "aliases": [
+    "株式会社アサヒペン"
+  ],
+  "credit_limit": "3",
+  "contact_limit": 3,
+  "baseline_evidence": {
+    "confirmed": true,
+    "source_ref": "已检索日本公司目录，无既有contacts/ledger.json；背调未调用Apollo付费enrichment。"
+  },
+  "contacts": [
+    {
+      "kind": "public",
+      "email": "hinshou@asahipen.co.jp",
+      "category": "技术",
+      "department": "技术部门（2023年官方SDS历史地址）",
+      "source_ref": "Asahipen_背调报告_2026-10-21.md（O07/O08）",
+      "source_url": "https://www.asahipen.jp/oversea/pdf/Water-BasedMulti-PurposeColor.pdf；https://www.asahipen.jp/oversea/pdf/Fluorescent_LuminousPaintPrimerSpray.pdf",
+      "source_date": "SDS 2023-03-07／2023-01-26",
+      "date": "2026-10-21",
+      "delivery_validation": "未验证投递、当前归属或送达",
+      "marketing_permission": "未明确；供应商提案接收范围未知",
+      "attribution": "部门公开工作邮箱；不归给S. Tanikawa或其他个人"
+    }
+  ],
+  "unattributed_emails": [],
+  "operations": [],
+  "history": []
+}

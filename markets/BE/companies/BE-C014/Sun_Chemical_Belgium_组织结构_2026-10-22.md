@@ -1,0 +1,181 @@
+# Sun Chemical Belgium（IVP: SUN CHEMICALS）｜组织结构
+
+## 元信息
+
+- 客户ID：BE-C014；公司Sun Chemical Belgium（IVP: SUN CHEMICALS）；BE；首次2026-10-22；更新2026-10-22T19:25:00+08:00；批次BE-CONTACTS-20261022-02，执行者/root/be_contacts。
+- Skill V1.5/local-batch v1.3，实际冻结指纹见checkpoint。company_key=BE:BE-C014；持久账本D:/02钛白粉外贸/markets/BE/companies/BE-C014/contacts/ledger.json。
+- 官网https://www.sunchemical.com/；主体依据：G01/G03/G04同VAT0425076467、Avenue Fleming2/1300Wavre；G02/G05 BSI同址2WAV与O03 Wavre署名文件/www.sunchemical.com相互匹配；业务/地址/法人/制造分工原值见关联背调，不把集团数当本体。
+- [关联背调](D:/02钛白粉外贸/markets/BE/companies/BE-C014/Sun_Chemical_Belgium_背调报告_2026-10-22.md)：2026-10-22读取，沿用当日原调查证据，不称本次重新核验。当前状态completed；组织调查完成不代表取得邮箱。
+- [四项材料与本次收件组](D:/02钛白粉外贸/markets/BE/companies/BE-C014/Sun_Chemical_Belgium_联系人邮箱_2026-10-22.md#人员详情与交接开发信准备)。
+
+## 公司主体及关系
+
+| 主体/品牌/部门 | 注册号及地点 | 关系或职能 | 制造/采购线索 | 来源/状态 | 待核实 |
+| --- | --- | --- | --- | --- | --- |
+| SUN CHEMICAL SA/NV | BE0425076467；Avenue Fleming2 Wavre；现机构2024069207 | 颜料/制剂采购、销售、技术支持、分销 | BSI2WAV具体范围，不称当地制造 | 背调G01/G03/G04/G05 | Ternat机构2015关闭，不移用集团工厂/别地岗位 |
+| Sun/DIC集团与其他BE场地 | 共用sunchemical.com | 全球/油墨/旧厂岗位分列 | CountryBelgium不证明Wavre本体 | 本轮Apollo与背调L | 不合并采购权或人员数量 |
+
+## 检索日志及覆盖
+
+| 接口 | 实际查询日期 | 完整参数/分页 | total/返回 | 原始证据 |
+| --- | --- | --- | --- | --- |
+| mcp__codex_apps__apollo_io_apollo_mixed_people_api_search | 2026-10-22T19:13:53+08:00 | {'_rationale': 'Research all indexed local personnel within the confirmed group domain, retaining local-site and legal-entity limits.', 'q_organization_domains_list': ['sunchemical.com'], 'person_locations': ['Belgium'], 'page': 1, 'per_page': 100} | 59/59 | D:/02钛白粉外贸/markets/BE/contacts/BE-CONTACTS-20261022-02/logs/evidence/BE2-82ddd9fa0041.json |
+| mcp__codex_apps__apollo_io_apollo_mixed_people_api_search | 2026-10-22T19:14:12+08:00 | {'_rationale': 'Locate the already established local managing representative within the approved company scope without retrieving email addresses.', 'q_organization_domains_list': ['sunchemical.com'], 'q_keywords': 'Davignon', 'person_locations': ['Belgium'], 'page': 1, 'per_page': 100} | 0/0 | D:/02钛白粉外贸/markets/BE/contacts/BE-CONTACTS-20261022-02/logs/evidence/BE2-365e216ca50f.json |
+| mcp__codex_apps__apollo_io_apollo_mixed_people_api_search | 2026-10-22T19:14:36+08:00 | {'_rationale': 'Verify the existing local managing representative using the already documented public profile URL, without paid enrichment.', 'person_linkedin_urls': ['https://be.linkedin.com/in/g%C3%A9rald-davignon-b96282'], 'page': 1, 'per_page': 100} | 0/0 | D:/02钛白粉外贸/markets/BE/contacts/BE-CONTACTS-20261022-02/logs/evidence/BE2-8f1e94f8b184.json |
+
+实际返回59，按ID唯一59；检索人数不等于当前在职人数。首轮sunchemical.com、Belgium且无岗位过滤59/59一页完成，已见采购、供应链、技术/质量、管理等岗位。针对已知Gérald日常管理做同域关键词及已见公开职业URL两种免费核对均0，停止无穷换条件。官网/登记原文已在上游读，继承不重跑。Gerda公开检索只返无关，未采用。
+
+## 全量人员台账
+
+搜索姓氏遮挡为接口预期，未收费揭示；已有公开来源全名另列，不猜补。原始更新时间含时区，未返回字段如实保留。
+
+| 人员编号 | Apollo ID | 原始姓名 | 全名/来源 | 原始职位 | 公司/分支 | 地区 | 职能归类 | 归属/现职 | has_email | 原始更新时间 | 来源 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| BE-C014-P001 | 54a3201f7468693318feef55 | Stefaan D'***e | 未揭示 | Business Manager Sheetfed Inks | Sun Chemical | 未返回，has_city/country仅可用性标志 | 其他/未知 | 平台组织关联/现职线索，非独立核验 | True | 2026-10-13T13:12:58.746+00:00 | D:/02钛白粉外贸/markets/BE/contacts/BE-CONTACTS-20261022-02/logs/evidence/BE2-82ddd9fa0041.json |
+| BE-C014-P002 | 66fd67382ccd5a00013669b0 | Tim Va***n | 未揭示 | Sitemanager | Sun Chemical | 未返回，has_city/country仅可用性标志 | 其他/未知 | SiteManager场地未返回，不能推Wavre制造 | True | 2026-10-07T10:11:50.000+00:00 | D:/02钛白粉外贸/markets/BE/contacts/BE-CONTACTS-20261022-02/logs/evidence/BE2-82ddd9fa0041.json |
+| BE-C014-P003 | 54a4bcf97468692abf9e7c5f | Olivier St***l | 未揭示 | Credit Manager EMEA - Color Materials | Sun Chemical | 未返回，has_city/country仅可用性标志 | 其他/未知 | 平台组织关联/现职线索，非独立核验 | True | 2026-09-10T16:39:58.059+00:00 | D:/02钛白粉外贸/markets/BE/contacts/BE-CONTACTS-20261022-02/logs/evidence/BE2-82ddd9fa0041.json |
+| BE-C014-P004 | 68e62c6289f9bc0001c73f70 | Chris We***l | 未揭示 | Vice President & General Manager Ink Industry.Global Classical Pigments Product Manager | Sun Chemical | 未返回，has_city/country仅可用性标志 | 管理 | InkIndustry/global职能，不默认Wavre涂料原料采购；与同名ID保留 | True | 2026-10-12T17:17:37.000+00:00 | D:/02钛白粉外贸/markets/BE/contacts/BE-CONTACTS-20261022-02/logs/evidence/BE2-82ddd9fa0041.json |
+| BE-C014-P005 | 54a212557468692e71ed6c0a | Jean-Paul Va***e | 未揭示 | Financial Controller, PPG, Belgium | Sun Chemical | 未返回，has_city/country仅可用性标志 | 其他/未知 | 平台组织关联/现职线索，非独立核验 | True | 2026-10-18T05:14:13.042+00:00 | D:/02钛白粉外贸/markets/BE/contacts/BE-CONTACTS-20261022-02/logs/evidence/BE2-82ddd9fa0041.json |
+| BE-C014-P006 | 66f841867a9fc20001155a0e | Marguerite De***r | Marguerite Debacker（继承L07，仅本轮平台化妆品职衔） | Global Technical Manager Cosmetics | Sun Chemical | 未返回，has_city/country仅可用性标志 | 研发技术 | 平台组织关联/现职线索，非独立核验 | True | 2026-09-07T17:12:58.000+00:00 | D:/02钛白粉外贸/markets/BE/contacts/BE-CONTACTS-20261022-02/logs/evidence/BE2-82ddd9fa0041.json |
+| BE-C014-P007 | 66f50e006b268f0001dccb7c | Danny La***t | 未揭示 | Technical Service and Ink Laboratory Manager | Sun Chemical | 未返回，has_city/country仅可用性标志 | 研发技术 | 平台组织关联/现职线索，非独立核验 | True | 2026-09-07T07:14:23.000+00:00 | D:/02钛白粉外贸/markets/BE/contacts/BE-CONTACTS-20261022-02/logs/evidence/BE2-82ddd9fa0041.json |
+| BE-C014-P008 | 54c1a0a77468697af7c8722d | Eric Ma***n | 未揭示 | Credit Collector | Sun Chemical | 未返回，has_city/country仅可用性标志 | 其他/未知 | 平台组织关联/现职线索，非独立核验 | True | 2026-09-12T11:51:15.000+00:00 | D:/02钛白粉外贸/markets/BE/contacts/BE-CONTACTS-20261022-02/logs/evidence/BE2-82ddd9fa0041.json |
+| BE-C014-P009 | 54c2bd4e74686916396f50c0 | Florence Noe | 未揭示 | Employée Dans le Service Transport et Douane | Sun Chemical | 未返回，has_city/country仅可用性标志 | 仓储物流 | 平台组织关联/现职线索，非独立核验 | True | 2026-09-08T17:32:07.000+00:00 | D:/02钛白粉外贸/markets/BE/contacts/BE-CONTACTS-20261022-02/logs/evidence/BE2-82ddd9fa0041.json |
+| BE-C014-P010 | 655c56e6708cb10001daec27 | Nadine Be***n | 未揭示 | Sales Manager Offset Benelux | Sun Chemical | 未返回，has_city/country仅可用性标志 | 销售渠道 | 平台组织关联/现职线索，非独立核验 | True | 2026-09-12T23:36:48.507+00:00 | D:/02钛白粉外贸/markets/BE/contacts/BE-CONTACTS-20261022-02/logs/evidence/BE2-82ddd9fa0041.json |
+| BE-C014-P011 | 5f0cd4e6ef4ed30001f31a50 | Valerie Ma***t | Valerie Massart（继承L线索） | HR Business Partner | Sun Chemical | 未返回，has_city/country仅可用性标志 | 财务人事行政 | 平台组织关联/现职线索，非独立核验 | True | 2026-10-07T14:05:44.000+00:00 | D:/02钛白粉外贸/markets/BE/contacts/BE-CONTACTS-20261022-02/logs/evidence/BE2-82ddd9fa0041.json |
+| BE-C014-P012 | 5570977e736964499c5c4800 | Mario Da***i | 未揭示 | Customer Technical Service | Sun Chemical | 未返回，has_city/country仅可用性标志 | 研发技术 | 平台组织关联/现职线索，非独立核验 | True | 2026-09-08T01:35:15.000+00:00 | D:/02钛白粉外贸/markets/BE/contacts/BE-CONTACTS-20261022-02/logs/evidence/BE2-82ddd9fa0041.json |
+| BE-C014-P013 | 57df51c4a6da980b024c67c9 | Sebastien Gu***n | 未揭示 | Quality and Environment Manager | Sun Chemical | 未返回，has_city/country仅可用性标志 | 质量 | 平台组织关联/现职线索，非独立核验 | True | 2026-10-06T02:27:07.000+00:00 | D:/02钛白粉外贸/markets/BE/contacts/BE-CONTACTS-20261022-02/logs/evidence/BE2-82ddd9fa0041.json |
+| BE-C014-P014 | 6610e6bc78d7370007ad9951 | Denis Ge***t | 未揭示 | MRP Controller | Sun Chemical | 未返回，has_city/country仅可用性标志 | 其他/未知 | 平台组织关联/现职线索，非独立核验 | True | 2026-09-23T11:18:05.000+00:00 | D:/02钛白粉外贸/markets/BE/contacts/BE-CONTACTS-20261022-02/logs/evidence/BE2-82ddd9fa0041.json |
+| BE-C014-P015 | 55714cd37369642be1225900 | Sandrine Ga***d | 未揭示 | Global Supply Chain Planner | Sun Chemical | 未返回，has_city/country仅可用性标志 | 仓储物流 | 平台组织关联/现职线索，非独立核验 | True | 2026-10-13T17:35:36.397+00:00 | D:/02钛白粉外贸/markets/BE/contacts/BE-CONTACTS-20261022-02/logs/evidence/BE2-82ddd9fa0041.json |
+| BE-C014-P016 | 60c162efc9861f0001fd697b | Frederic Me***t | 未揭示 | Traffic and Customs Coordinator | Sun Chemical | 未返回，has_city/country仅可用性标志 | 其他/未知 | 平台组织关联/现职线索，非独立核验 | True | 2026-09-26T13:33:08.596+00:00 | D:/02钛白粉外贸/markets/BE/contacts/BE-CONTACTS-20261022-02/logs/evidence/BE2-82ddd9fa0041.json |
+| BE-C014-P017 | 54c19da274686916392d362a | Alain Ro***e | 未揭示 | Site Manager | Sun Chemical | 未返回，has_city/country仅可用性标志 | 其他/未知 | SiteManager具体当前场地未知 | True | 2026-09-22T09:01:13.045+00:00 | D:/02钛白粉外贸/markets/BE/contacts/BE-CONTACTS-20261022-02/logs/evidence/BE2-82ddd9fa0041.json |
+| BE-C014-P018 | 57e20366a6da9808fefacda0 | Ann Br***s | 未揭示 | Senior Financial Analist | Sun Chemical | 未返回，has_city/country仅可用性标志 | 其他/未知 | 平台组织关联/现职线索，非独立核验 | True | 2026-10-05T12:24:46.000+00:00 | D:/02钛白粉外贸/markets/BE/contacts/BE-CONTACTS-20261022-02/logs/evidence/BE2-82ddd9fa0041.json |
+| BE-C014-P019 | 54a9d20e7468692d1cbfbb18 | Laurent Lo***t | 未揭示 | Sales & Costing Analyst | Sun Chemical | 未返回，has_city/country仅可用性标志 | 销售渠道 | 平台组织关联/现职线索，非独立核验 | True | 2026-09-09T02:39:07.000+00:00 | D:/02钛白粉外贸/markets/BE/contacts/BE-CONTACTS-20261022-02/logs/evidence/BE2-82ddd9fa0041.json |
+| BE-C014-P020 | 54a417617468692fa2fbc22b | Colin Sm***h | 未揭示 | European Product Manager | Sun Chemical | 未返回，has_city/country仅可用性标志 | 其他/未知 | 平台组织关联/现职线索，非独立核验 | False | 2026-09-08T06:27:27.000+00:00 | D:/02钛白粉外贸/markets/BE/contacts/BE-CONTACTS-20261022-02/logs/evidence/BE2-82ddd9fa0041.json |
+| BE-C014-P021 | 62752a7f4f08b3000153acd4 | Lucie No***t | 未揭示 | Application Specialist | Sun Chemical | 未返回，has_city/country仅可用性标志 | 其他/未知 | 平台组织关联/现职线索，非独立核验 | False | 2026-09-24T18:18:22.285+00:00 | D:/02钛白粉外贸/markets/BE/contacts/BE-CONTACTS-20261022-02/logs/evidence/BE2-82ddd9fa0041.json |
+| BE-C014-P022 | 54aab3c17468690630b30614 | Sebastien Bi***n | 未揭示 | Customer Service Representative | Sun Chemical | 未返回，has_city/country仅可用性标志 | 其他/未知 | 平台组织关联/现职线索，非独立核验 | True | 2026-09-08T15:54:55.000+00:00 | D:/02钛白粉外贸/markets/BE/contacts/BE-CONTACTS-20261022-02/logs/evidence/BE2-82ddd9fa0041.json |
+| BE-C014-P023 | 6592cc82ac1e3300019eab7c | Valentine Di***x | 未揭示 | Supply Chain Intern | Sun Chemical | 未返回，has_city/country仅可用性标志 | 仓储物流 | 平台组织关联/现职线索，非独立核验 | False | 2026-09-23T04:47:37.000+00:00 | D:/02钛白粉外贸/markets/BE/contacts/BE-CONTACTS-20261022-02/logs/evidence/BE2-82ddd9fa0041.json |
+| BE-C014-P024 | 54c15eab74686916395b2f02 | Hans Va***e | 未揭示 | Business Improvement Leader Duitsland CEE | Sun Chemical | 未返回，has_city/country仅可用性标志 | 其他/未知 | 平台组织关联/现职线索，非独立核验 | False | 2026-10-07T21:24:35.000+00:00 | D:/02钛白粉外贸/markets/BE/contacts/BE-CONTACTS-20261022-02/logs/evidence/BE2-82ddd9fa0041.json |
+| BE-C014-P025 | 57df22c0a6da9839a3db3167 | Patrick Wa***e | 未揭示 | COPQS | Sun Chemical | 未返回，has_city/country仅可用性标志 | 其他/未知 | 平台组织关联/现职线索，非独立核验 | False | 2026-10-05T15:51:21.000+00:00 | D:/02钛白粉外贸/markets/BE/contacts/BE-CONTACTS-20261022-02/logs/evidence/BE2-82ddd9fa0041.json |
+| BE-C014-P026 | 683c0da81dfc600001a5df0d | Johan St***n | 未揭示 | Operator | Sun Chemical | 未返回，has_city/country仅可用性标志 | 其他/未知 | 平台组织关联/现职线索，非独立核验 | False | 2026-10-06T06:27:03.000+00:00 | D:/02钛白粉外贸/markets/BE/contacts/BE-CONTACTS-20261022-02/logs/evidence/BE2-82ddd9fa0041.json |
+| BE-C014-P027 | 54a2ff9174686930c2b31f4d | Nadine Ma***y | 未揭示 | SAP Training Coordinator OTC | Sun Chemical | 未返回，has_city/country仅可用性标志 | 其他/未知 | 平台组织关联/现职线索，非独立核验 | False | 2026-10-05T09:01:39.243+00:00 | D:/02钛白粉外贸/markets/BE/contacts/BE-CONTACTS-20261022-02/logs/evidence/BE2-82ddd9fa0041.json |
+| BE-C014-P028 | 55e295eff3e5bb1875001f0b | Luc Mo***s | 未揭示 | Sales Export Manager | Sun Chemical | 未返回，has_city/country仅可用性标志 | 销售渠道 | 平台组织关联/现职线索，非独立核验 | False | 2026-09-10T07:45:51.000+00:00 | D:/02钛白粉外贸/markets/BE/contacts/BE-CONTACTS-20261022-02/logs/evidence/BE2-82ddd9fa0041.json |
+| BE-C014-P029 | 57d5b1c8a6da98537edb18e5 | Catherine Li***n | 未揭示 | Logistic & Customs Administrator | Sun Chemical | 未返回，has_city/country仅可用性标志 | 仓储物流 | 平台组织关联/现职线索，非独立核验 | False | 2026-09-19T13:11:14.000+00:00 | D:/02钛白粉外贸/markets/BE/contacts/BE-CONTACTS-20261022-02/logs/evidence/BE2-82ddd9fa0041.json |
+| BE-C014-P030 | 6858b06a8dcd110001939142 | Chris We***l | 未揭示 | Vice President & General Manager | Sun Chemical | 未返回，has_city/country仅可用性标志 | 管理 | 同Chris VP另ID，不能按两个独立人重复选 | True | 2026-10-08T10:49:03.000+00:00 | D:/02钛白粉外贸/markets/BE/contacts/BE-CONTACTS-20261022-02/logs/evidence/BE2-82ddd9fa0041.json |
+| BE-C014-P031 | 68f0c640d0786c00014d16d9 | Lucas Is***a | 未揭示 | Repackeur | Sun Chemical | 未返回，has_city/country仅可用性标志 | 其他/未知 | 平台组织关联/现职线索，非独立核验 | False | 2026-09-09T04:11:14.000+00:00 | D:/02钛白粉外贸/markets/BE/contacts/BE-CONTACTS-20261022-02/logs/evidence/BE2-82ddd9fa0041.json |
+| BE-C014-P032 | 686f4e995a32e100010ce0f0 | Benny Br***s | 未揭示 | Sales & Marketing Director Liquid Inks Benelux | Sun Chemical | 未返回，has_city/country仅可用性标志 | 销售渠道 | 平台组织关联/现职线索，非独立核验 | False | 2026-10-04T23:13:24.000+00:00 | D:/02钛白粉外贸/markets/BE/contacts/BE-CONTACTS-20261022-02/logs/evidence/BE2-82ddd9fa0041.json |
+| BE-C014-P033 | 66f84aa57a9fc200011817fe | Paul Nys | Paul Nys（继承本体董事，平台OperationsDirector范围分列） | Operations Director France Benelux | Sun Chemical | 未返回，has_city/country仅可用性标志 | 管理 | 平台组织关联/现职线索，非独立核验 | False | 2026-10-04T09:26:56.000+00:00 | D:/02钛白粉外贸/markets/BE/contacts/BE-CONTACTS-20261022-02/logs/evidence/BE2-82ddd9fa0041.json |
+| BE-C014-P034 | 69fc40b8a619d80001bad7e5 | Sarah Ja***x | 未揭示 | Customer Service Manager | Sun Chemical | 未返回，has_city/country仅可用性标志 | 其他/未知 | 平台组织关联/现职线索，非独立核验 | False | 2026-09-07T07:19:51.000+00:00 | D:/02钛白粉外贸/markets/BE/contacts/BE-CONTACTS-20261022-02/logs/evidence/BE2-82ddd9fa0041.json |
+| BE-C014-P035 | 64246e745f8b0600012c1acf | Audrey Ro***e | 未揭示 | Inbound Customer Service Representative | Sun Chemical | 未返回，has_city/country仅可用性标志 | 其他/未知 | 平台组织关联/现职线索，非独立核验 | False | 2026-09-12T05:25:16.000+00:00 | D:/02钛白粉外贸/markets/BE/contacts/BE-CONTACTS-20261022-02/logs/evidence/BE2-82ddd9fa0041.json |
+| BE-C014-P036 | 54a50bb674686934423e7278 | Jan Ro***l | 未揭示 | Director | Sun Chemical | 未返回，has_city/country仅可用性标志 | 其他/未知 | 平台组织关联/现职线索，非独立核验 | False | 2026-10-09T09:43:55.000+00:00 | D:/02钛白粉外贸/markets/BE/contacts/BE-CONTACTS-20261022-02/logs/evidence/BE2-82ddd9fa0041.json |
+| BE-C014-P037 | 66f84ea67a9fc2000119310f | Luc Me***t | 未揭示 | Operation Manager | Sun Chemical | 未返回，has_city/country仅可用性标志 | 其他/未知 | 平台组织关联/现职线索，非独立核验 | False | 2026-09-25T21:15:46.000+00:00 | D:/02钛白粉外贸/markets/BE/contacts/BE-CONTACTS-20261022-02/logs/evidence/BE2-82ddd9fa0041.json |
+| BE-C014-P038 | 66f9394e210b5700019ba5aa | Audric Ro***g | 未揭示 | Assistant Manager | Sun Chemical | 未返回，has_city/country仅可用性标志 | 其他/未知 | 平台组织关联/现职线索，非独立核验 | False | 2026-09-09T15:01:40.000+00:00 | D:/02钛白粉外贸/markets/BE/contacts/BE-CONTACTS-20261022-02/logs/evidence/BE2-82ddd9fa0041.json |
+| BE-C014-P039 | 54a58244746869367697f098 | Joost Ba***n | 未揭示 | Assistant Plant Manager / Financial Controller | Sun Chemical | 未返回，has_city/country仅可用性标志 | 管理 | 平台组织关联/现职线索，非独立核验 | False | 2026-10-07T13:19:22.000+00:00 | D:/02钛白粉外贸/markets/BE/contacts/BE-CONTACTS-20261022-02/logs/evidence/BE2-82ddd9fa0041.json |
+| BE-C014-P040 | 627c02b491ca9d0001070fe7 | Maurice He***e | 未揭示 | Accounts Payable | Sun Chemical | 未返回，has_city/country仅可用性标志 | 销售渠道 | 平台组织关联/现职线索，非独立核验 | False | 2026-10-07T16:23:34.000+00:00 | D:/02钛白粉外贸/markets/BE/contacts/BE-CONTACTS-20261022-02/logs/evidence/BE2-82ddd9fa0041.json |
+| BE-C014-P041 | 54a564307468693b8c296594 | Takuo So***a | 未揭示 | Business Manager DIC Brand | Sun Chemical | 未返回，has_city/country仅可用性标志 | 其他/未知 | 平台组织关联/现职线索，非独立核验 | False | 2026-09-09T12:51:10.000+00:00 | D:/02钛白粉外贸/markets/BE/contacts/BE-CONTACTS-20261022-02/logs/evidence/BE2-82ddd9fa0041.json |
+| BE-C014-P042 | 54a8a4cb7468693399f51603 | Serge Va***a | 未揭示 | EHS Advisor | Sun Chemical | 未返回，has_city/country仅可用性标志 | 其他/未知 | 平台组织关联/现职线索，非独立核验 | False | 2026-10-06T02:47:37.000+00:00 | D:/02钛白粉外贸/markets/BE/contacts/BE-CONTACTS-20261022-02/logs/evidence/BE2-82ddd9fa0041.json |
+| BE-C014-P043 | 57d41e0da6da985386b9261a | Sarah Co***n | 未揭示 | Customer Service | Sun Chemical | 未返回，has_city/country仅可用性标志 | 其他/未知 | 平台组织关联/现职线索，非独立核验 | False | 2026-10-05T11:53:09.000+00:00 | D:/02钛白粉外贸/markets/BE/contacts/BE-CONTACTS-20261022-02/logs/evidence/BE2-82ddd9fa0041.json |
+| BE-C014-P044 | 54a968e77468692d1cf9b312 | Benjamin Ro***x | 未揭示 | Distribution Requirement Planner | Sun Chemical | 未返回，has_city/country仅可用性标志 | 其他/未知 | 平台组织关联/现职线索，非独立核验 | False | 2026-09-07T04:15:22.000+00:00 | D:/02钛白粉外贸/markets/BE/contacts/BE-CONTACTS-20261022-02/logs/evidence/BE2-82ddd9fa0041.json |
+| BE-C014-P045 | 61a05dc08ff632000128f3a5 | Nicole Mo***n | 未揭示 | Assistant Financial Accountant Responsible for Customs Declaration | Sun Chemical | 未返回，has_city/country仅可用性标志 | 销售渠道 | 平台组织关联/现职线索，非独立核验 | False | 2026-10-06T12:30:27.000+00:00 | D:/02钛白粉外贸/markets/BE/contacts/BE-CONTACTS-20261022-02/logs/evidence/BE2-82ddd9fa0041.json |
+| BE-C014-P046 | 680aa281458a540001f7cf21 | Dirk Va***n | 未揭示 | Business Development Manager | Sun Chemical | 未返回，has_city/country仅可用性标志 | 其他/未知 | 平台组织关联/现职线索，非独立核验 | False | 2026-10-09T07:47:04.388+00:00 | D:/02钛白粉外贸/markets/BE/contacts/BE-CONTACTS-20261022-02/logs/evidence/BE2-82ddd9fa0041.json |
+| BE-C014-P047 | 54c1efe67468697af7417760 | Bob Co***s | 未揭示 | Sales Manager | Sun Chemical | 未返回，has_city/country仅可用性标志 | 销售渠道 | 平台组织关联/现职线索，非独立核验 | False | 2026-10-07T09:14:43.000+00:00 | D:/02钛白粉外贸/markets/BE/contacts/BE-CONTACTS-20261022-02/logs/evidence/BE2-82ddd9fa0041.json |
+| BE-C014-P048 | 57e1ec12a6da9808de0f3996 | Vilain Ch***a | 未揭示 | CMP Planner Supplu Chain | Sun Chemical | 未返回，has_city/country仅可用性标志 | 其他/未知 | 平台组织关联/现职线索，非独立核验 | False | 2026-09-09T18:04:02.000+00:00 | D:/02钛白粉外贸/markets/BE/contacts/BE-CONTACTS-20261022-02/logs/evidence/BE2-82ddd9fa0041.json |
+| BE-C014-P049 | 57d5a16ea6da98538e829482 | Michel Me***y | 未揭示 | Manutention | Sun Chemical | 未返回，has_city/country仅可用性标志 | 其他/未知 | 平台组织关联/现职线索，非独立核验 | False | 2026-09-09T10:40:46.000+00:00 | D:/02钛白粉外贸/markets/BE/contacts/BE-CONTACTS-20261022-02/logs/evidence/BE2-82ddd9fa0041.json |
+| BE-C014-P050 | 623d44bda830f6000134ea42 | Murielle Ga***k | 未揭示 | Aankoopbediende | Sun Chemical | 未返回，has_city/country仅可用性标志 | 采购供应链 | 采购文员，false；与同名PurchasingDepartment另一ID不硬当两人 | False | 2026-10-04T15:52:34.000+00:00 | D:/02钛白粉外贸/markets/BE/contacts/BE-CONTACTS-20261022-02/logs/evidence/BE2-82ddd9fa0041.json |
+| BE-C014-P051 | 57df40a6a6da980b65884f28 | Gerda Cl***s | 未揭示 | European Indirect Spend Manager | Sun Chemical | 未返回，has_city/country仅可用性标志 | 其他/未知 | 平台组织关联/现职线索，非独立核验 | False | 2026-09-16T09:59:54.433+00:00 | D:/02钛白粉外贸/markets/BE/contacts/BE-CONTACTS-20261022-02/logs/evidence/BE2-82ddd9fa0041.json |
+| BE-C014-P052 | 60147cd3187b6f00019faf31 | Gerda Cl***s | 未揭示 | Global RM Purchasing Category Leader | Sun Chemical | 未返回，has_city/country仅可用性标志 | 采购供应链 | 原料采购品类经理平台职称，has_email=false；同Gerda另一ID可能历史/双岗，Wavre采购范围未知 | False | 2026-10-05T06:20:01.000+00:00 | D:/02钛白粉外贸/markets/BE/contacts/BE-CONTACTS-20261022-02/logs/evidence/BE2-82ddd9fa0041.json |
+| BE-C014-P053 | 66d7ebff2cb68d0001388ab1 | Aime Di***a | 未揭示 | Sampling Room Lead / EH & S/DGS Advisor | Sun Chemical | 未返回，has_city/country仅可用性标志 | 其他/未知 | 平台组织关联/现职线索，非独立核验 | False | 2026-10-05T16:04:08.000+00:00 | D:/02钛白粉外贸/markets/BE/contacts/BE-CONTACTS-20261022-02/logs/evidence/BE2-82ddd9fa0041.json |
+| BE-C014-P054 | 57d38f9af651252c29f299f6 | Murielle Ga***k | 未揭示 | Purchasing Department | Sun Chemical | 未返回，has_city/country仅可用性标志 | 采购供应链 | 平台组织关联/现职线索，非独立核验 | False | 2026-10-05T10:13:56.000+00:00 | D:/02钛白粉外贸/markets/BE/contacts/BE-CONTACTS-20261022-02/logs/evidence/BE2-82ddd9fa0041.json |
+| BE-C014-P055 | 62e2a8b283a17300015b4bff | Nicole Ba***e | 未揭示 | Senior Laboratory Technician | Sun Chemical | 未返回，has_city/country仅可用性标志 | 研发技术 | 平台组织关联/现职线索，非独立核验 | False | 2026-10-06T08:06:24.000+00:00 | D:/02钛白粉外贸/markets/BE/contacts/BE-CONTACTS-20261022-02/logs/evidence/BE2-82ddd9fa0041.json |
+| BE-C014-P056 | 624f041336408d0001b79f98 | Mark Mu***k | 未揭示 | Product Manager | Sun Chemical | 未返回，has_city/country仅可用性标志 | 其他/未知 | 平台组织关联/现职线索，非独立核验 | False | 2026-09-08T23:04:34.000+00:00 | D:/02钛白粉外贸/markets/BE/contacts/BE-CONTACTS-20261022-02/logs/evidence/BE2-82ddd9fa0041.json |
+| BE-C014-P057 | 6848b9675dc04200014587ba | Aurelie An***z | 未揭示 | 未返回 | Sun Chemical | 未返回，has_city/country仅可用性标志 | 其他/未知 | 平台组织关联/现职线索，非独立核验 | False | 2026-06-04T02:10:05.000+00:00 | D:/02钛白粉外贸/markets/BE/contacts/BE-CONTACTS-20261022-02/logs/evidence/BE2-82ddd9fa0041.json |
+| BE-C014-P058 | 612a72e0fcab1d0001714693 | Piet St***s | 未揭示 | Technical Service | Sun Chemical | 未返回，has_city/country仅可用性标志 | 研发技术 | 平台组织关联/现职线索，非独立核验 | False | 2026-09-09T02:47:14.000+00:00 | D:/02钛白粉外贸/markets/BE/contacts/BE-CONTACTS-20261022-02/logs/evidence/BE2-82ddd9fa0041.json |
+| BE-C014-P059 | 54a1af3f7468694f8f44e407 | Michele La***k | 未揭示 | HR Manager | Sun Chemical | 未返回，has_city/country仅可用性标志 | 财务人事行政 | 平台组织关联/现职线索，非独立核验 | False | 2026-10-05T17:06:56.000+00:00 | D:/02钛白粉外贸/markets/BE/contacts/BE-CONTACTS-20261022-02/logs/evidence/BE2-82ddd9fa0041.json |
+
+### 继承背调全部公开人员与职责线索
+
+以下为原L节全量承接，原来源编号、公开邮箱归属/历史/异地/占位限制保留；不是本轮Apollo确认人数。与Apollo可能重叠，不能相加为员工数。
+
+
+
+L01为美国总部集团LinkedIn页，sunchemical域名/DIC/业务匹配，不是Wavre法人独立页。G03/G04原文有BrianPanczyk、Gérald(-Alain)Davignon、PaulNys董事；G04还列Gérald日常管理/委任董事，采购权限不可由职高推定。L02个人页999，L03本人4年前发帖与L04已停申请客服岗位原文能证历史Wavre职位职责（产品、价格、交期答复/内部协调），不能证当前完整职务。L05官网career为动态列表未给本地岗位，L06采样行政转载原页410，仅摘要描述样品/库存物流且无管理职责；当前官网与历史本地招聘为实质替代，不把采样补货等同原粉采购。L07 Marguerite个人999，搜索只给雇主/研讨会反应，技术岗位/现职未知；其他员工姓名保留摘要线索，不选人。
+
+| 姓名/部门 | 职位/雇主/地区 | 事实及限制 | 来源 | 邮箱 |
+| --- | --- | --- | --- | --- |
+| Gérald-Alain Davignon | SUN CHEMICAL董事/日常管理；Wavre | 登记整理当前标签；集团员工及历史招聘本人发帖一致，采购权未知 | G03/G04/L01/L02/L03 | 未取得 |
+| Brian Panczyk、Paul Nys | SUN CHEMICAL董事 | 登记整理原文，不推原料权限 | G03/G04 | 未取得 |
+| Customer Service Representative | SunChemicalSA,Wavre | 4年前停申请，产品/价格/交期/内部协调，不是现职姓名 | L04 | 未取得 |
+| Marguerite Debacker | 搜索SunChemicalBelgium，Brussels | 个人页999，具体职位/现职未知 | L07/A0091 | 未取得 |
+| Valerie Massart、Olivier Steenwinckel、Danny De Laet、Nicole Mottin、Sarah Javaux | 搜索有SunChemical/Wavre经历 | 未采用为采购或现职事实，完整页未补读（仅增人员细节） | A0091原始返回 | 未取得 |
+| Eloisa Fiorani | 历史Wavre经历，当前页localeRome | 不作为比利时现职候选 | A0091/A0101 | 未取得 |
+| 采样行政部门 | Wavre转载招聘 | 原页410，仅摘要库存/物流；不作原料采购决策证明 | L06 | 未取得 |
+
+
+## 职能分布与管理线索
+
+本地管理以背调G03/G04 Gérald-Alain Davignon日常管理为依据；未获可付费同人搜索ID。Gerda Global RM Purchasing Category Leader与同名European Indirect Spend两个ID，保留疑似同人/不同岗位冲突，不计两名优选；两者false。Murielle Aankoopbediende/Purchasing Department两个ID可能同人，均false。Tim/Alain SiteManager虽true但Wavre/现制造归属未证，不付费；Chris两ID为Ink Industry/global pigment管理，应用/本体职责不明，不因高职级选。原Marguerite已见GlobalTechnicalManagerCosmetics，不转涂料采购。仅平台Belgium不等于Wavre员工。
+
+| 职能 | 人员/原始职位 | 负责人/职责依据 | 汇报关系 | 缺口 |
+| --- | --- | --- | --- | --- |
+| 管理 | BE-C014-P004 Chris Vice President & General Manager Ink Industry.Global Classical Pigments Product Manager；BE-C014-P030 Chris Vice President & General Manager；BE-C014-P033 Paul Operations Director France Benelux；BE-C014-P039 Joost Assistant Plant Manager / Financial Controller | 仅按原职位分析标签，非官方部门设置 | 未核实，明确例外见本节说明 | 不代表公司无该部门 |
+| 采购供应链 | BE-C014-P050 Murielle Aankoopbediende；BE-C014-P052 Gerda Global RM Purchasing Category Leader；BE-C014-P054 Murielle Purchasing Department | 仅按原职位分析标签，非官方部门设置 | 未核实，明确例外见本节说明 | 不代表公司无该部门 |
+| 研发技术 | BE-C014-P006 Marguerite Global Technical Manager Cosmetics；BE-C014-P007 Danny Technical Service and Ink Laboratory Manager；BE-C014-P012 Mario Customer Technical Service；BE-C014-P055 Nicole Senior Laboratory Technician；BE-C014-P058 Piet Technical Service | 仅按原职位分析标签，非官方部门设置 | 未核实，明确例外见本节说明 | 不代表公司无该部门 |
+| 生产运营 | 本次Apollo未检出；继承官方线索见上文 | 仅按原职位分析标签，非官方部门设置 | 未核实，明确例外见本节说明 | 不代表公司无该部门 |
+| 质量 | BE-C014-P013 Sebastien Quality and Environment Manager | 仅按原职位分析标签，非官方部门设置 | 未核实，明确例外见本节说明 | 不代表公司无该部门 |
+| 仓储物流 | BE-C014-P009 Florence Employée Dans le Service Transport et Douane；BE-C014-P015 Sandrine Global Supply Chain Planner；BE-C014-P023 Valentine Supply Chain Intern；BE-C014-P029 Catherine Logistic & Customs Administrator | 仅按原职位分析标签，非官方部门设置 | 未核实，明确例外见本节说明 | 不代表公司无该部门 |
+| 销售渠道 | BE-C014-P010 Nadine Sales Manager Offset Benelux；BE-C014-P019 Laurent Sales & Costing Analyst；BE-C014-P028 Luc Sales Export Manager；BE-C014-P032 Benny Sales & Marketing Director Liquid Inks Benelux；BE-C014-P040 Maurice Accounts Payable；BE-C014-P045 Nicole Assistant Financial Accountant Responsible for Customs Declaration；BE-C014-P047 Bob Sales Manager | 仅按原职位分析标签，非官方部门设置 | 未核实，明确例外见本节说明 | 不代表公司无该部门 |
+| 财务人事行政 | BE-C014-P011 Valerie HR Business Partner；BE-C014-P059 Michele HR Manager | 仅按原职位分析标签，非官方部门设置 | 未核实，明确例外见本节说明 | 不代表公司无该部门 |
+| 其他/未知 | BE-C014-P001 Stefaan Business Manager Sheetfed Inks；BE-C014-P002 Tim Sitemanager；BE-C014-P003 Olivier Credit Manager EMEA - Color Materials；BE-C014-P005 Jean-Paul Financial Controller, PPG, Belgium；BE-C014-P008 Eric Credit Collector；BE-C014-P014 Denis MRP Controller；BE-C014-P016 Frederic Traffic and Customs Coordinator；BE-C014-P017 Alain Site Manager；BE-C014-P018 Ann Senior Financial Analist；BE-C014-P020 Colin European Product Manager；BE-C014-P021 Lucie Application Specialist；BE-C014-P022 Sebastien Customer Service Representative；BE-C014-P024 Hans Business Improvement Leader Duitsland CEE；BE-C014-P025 Patrick COPQS；BE-C014-P026 Johan Operator；BE-C014-P027 Nadine SAP Training Coordinator OTC；BE-C014-P031 Lucas Repackeur；BE-C014-P034 Sarah Customer Service Manager；BE-C014-P035 Audrey Inbound Customer Service Representative；BE-C014-P036 Jan Director；BE-C014-P037 Luc Operation Manager；BE-C014-P038 Audric Assistant Manager；BE-C014-P041 Takuo Business Manager DIC Brand；BE-C014-P042 Serge EHS Advisor；BE-C014-P043 Sarah Customer Service；BE-C014-P044 Benjamin Distribution Requirement Planner；BE-C014-P046 Dirk Business Development Manager；BE-C014-P048 Vilain CMP Planner Supplu Chain；BE-C014-P049 Michel Manutention；BE-C014-P051 Gerda European Indirect Spend Manager；BE-C014-P053 Aime Sampling Room Lead / EH & S/DGS Advisor；BE-C014-P056 Mark Product Manager；BE-C014-P057 Aurelie None | 仅按原职位分析标签，非官方部门设置 | 未核实，明确例外见本节说明 | 不代表公司无该部门 |
+
+## 自动选择、名额与执行
+
+本地Gérald管理入口及平台Gerda原料采购、Murielle采购第一组存在；优先岗位原始邮箱均无准入ID或false。其他true人员不能据高职或有邮箱视为Wavre颜料采购，固定0，不跨组挑技术/销售。
+
+相关岗位候选3；原始has_email=true邮箱可用候选0；固定付费0。接收历史已选/已付费0；当前含本次正式公开复用累计0，未选公开线索不计名额；本次已明确联系对象2、其中拟新获取0、复验0。每公司3 credits：已耗0、预留0、未知0、剩余3；本次拟最高0 credits。本公司无收费范围；本批固定C0112/C0151已获真实批准并执行，不沿用旧批批准。
+
+| 固定编号 | 人员ID | 姓名 | 原始职位 | 联系价值 | 职责/现职疑点 | has_email | 优先组 | 状态 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 仅候选 | 60147cd3187b6f00019faf31 | Gerda Cl***s | Global RM Purchasing Category Leader | 原料采购职称与本次转介相关，但无邮箱/BE法人采购权未知 | 原料采购品类经理平台职称，has_email=false；同Gerda另一ID可能历史/双岗，Wavre采购范围未知 | False | primary | 未调用，已公开/本次未选/范围限制见说明 |
+| 仅候选 | 623d44bda830f6000134ea42 | Murielle Ga***k | Aankoopbediende | 采购部门入口，未证颜料品类且无邮箱 | 采购文员，false；与同名PurchasingDepartment另一ID不硬当两人 | False | primary | 未调用，已公开/本次未选/范围限制见说明 |
+
+相关3（Gerda/Murielle＋本地Gérald），原始邮箱可用0、固定0。当前没有任何已确认个人/公共业务邮箱，不能猜info@sunchemical.com或揭示受保护地址。最终选Gérald＋Gerda作为管理/原料采购转介目标，To留空；已有官网ContactUs表单可作非邮箱联系路径，不假装已填写。
+
+## 冲突、来源与更新
+
+完整Wavre认证、当前/旧机构、董事、全部公开人员及资料/现职限定继承原报告。新增59人及两种Gérald定向0、Gerda无关公开搜索全部真实保存。没有邮箱地址就留空，不因0付费扩至其他人/公司。用户call_1ed68d98a25b490b94d68c30f4034572涂料颜料M510已记录，仅写作方向。
+
+### 继承完整证据目录（原来源日期/范围）
+
+
+
+| 证据ID | 支持事实／用途 | 发布者／标题 | 完整来源URL | 内容日期／版本／页码 | 访问日期 | 状态与限制 |
+| --- | --- | --- | --- | --- | --- | --- |
+| O01 | DIC集团及多应用范围 | www.sunchemical.com（实际来源域名）／Sun Chemical ／ Inks, Pigments & Advanced Materials | [https://www.sunchemical.com/](https://www.sunchemical.com/) | 未标注 | 2026-10-22 | 已读原文；自述/平台材料不等于独立证明全部事实 |
+| O02 | 美国总部联系表，SDS邮箱保护未取得 | www.sunchemical.com（实际来源域名）／Contact Us - Sun Chemical | [https://www.sunchemical.com/contact-us/](https://www.sunchemical.com/contact-us/) | 未标注 | 2026-10-22 | 已读原文；自述/平台材料不等于独立证明全部事实 |
+| O03 | Wavre署名水性有机颜料分散体技术单 | www.sunchemical.com（实际来源域名）／Microsoft Word - Flexiverse FD catalogue_digital 01-18.docx | [https://www.sunchemical.com/download/flexiverse-fd-product-sheet/?refresh=6a17c76db7f5c1779943277&wpdmdl=25445](https://www.sunchemical.com/download/flexiverse-fd-product-sheet/?refresh=6a17c76db7f5c1779943277&wpdmdl=25445) | Rev1 01/2018，1页 | 2026-10-22 | 已读原文；自述/平台材料不等于独立证明全部事实 |
+| O04 | Wavre署名历史C47060 TiO₂ COA | www.ewlerp.com（实际来源域名）／PAGE 1 OF 1 | [https://www.ewlerp.com/___country___/uploadedfile/rawmaterial/sds/C47060%20SunCROMA%20Titanium%20Dioxide%20Lot%2010090083.pdf](https://www.ewlerp.com/___country___/uploadedfile/rawmaterial/sds/C47060%20SunCROMA%20Titanium%20Dioxide%20Lot%2010090083.pdf) | 批2010；签发2018-05-24；到期2020-08-20，1页 | 2026-10-22 | 已读原文；第三方托管原文件；非当前采购 |
+| G01 | 活跃SA、VAT、地址与1983成立 | www.companyweb.be（实际来源域名）／Sun Chemical (SA) - Wavre (1300) - BE0425076467 | [https://www.companyweb.be/en/0425076467/sun-chemical](https://www.companyweb.be/en/0425076467/sun-chemical) | 未标注 | 2026-10-22 | 已读原文；自述/平台材料不等于独立证明全部事实 |
+| G02 | 集团现行证书p3 Wavre销售供应 | www.coates.de（实际来源域名）／Sun Chemical Corporation - FM 834138 | [https://www.coates.de/images/Safety_Quality/ISO-Zertifikate/ISO_9001-2025_SunChemical_FM_834138.pdf](https://www.coates.de/images/Safety_Quality/ISO-Zertifikate/ISO_9001-2025_SunChemical_FM_834138.pdf) | 2025-08-22修订，2025-09-05生效；引用p3of15 | 2026-10-22 | 已读原文；只取实际返回页段，不称读完15页 |
+| G03 | 同VAT活跃主体及三董事 | checked.be（实际来源域名）／SUN CHEMICAL (0425.076.467) : comptes annuels et administrateurs ／ Checked | [https://checked.be/fr/c/sun-chemical-0425076467](https://checked.be/fr/c/sun-chemical-0425076467) | 未标注 | 2026-10-22 | 已读原文；平台模型分数/破产预测不采用，非信用审查 |
+| G04 | 本地管理/活跃Wavre与已关Ternat | www.pappers.be（实际来源域名）／SUN CHEMICAL (0425.076.467) : Chiffre d'affaires & dirigeants | [https://www.pappers.be/fr/company/sun-chemical-0425076467](https://www.pappers.be/fr/company/sun-chemical-0425076467) | 网页更新BCE2026-08-31 | 2026-10-22 | 已读原文；不是本次官方登记直接查询 |
+| G05 | 本地2WAV EMS809135采购/销售/技术支持/分销，FM834138销售供应 | www.bsigroup.com（实际来源域名）／来源 | [https://www.bsigroup.com/en-GB/products-and-services/assessment-and-certification/validation-and-verification/client-directory-profile/COATES-0047388640-007/](https://www.bsigroup.com/en-GB/products-and-services/assessment-and-certification/validation-and-verification/client-directory-profile/COATES-0047388640-007/) | 未标注 | 2026-10-22 | 已读原文；自述/平台材料不等于独立证明全部事实 |
+| G06 | 园区PDF502，仅摘要制造分销，BSI替代实际范围 | economique.inbw.be（实际来源域名）／Document sur la redirection dˇimprimante dans le Bureau à distance | [https://economique.inbw.be/sites/default/files/2024-10/Listing%20soci%C3%A9t%C3%A9s%20implant%C3%A9es%20dans%20le%20zoning%20Wavre%20noire%20epine.pdf](https://economique.inbw.be/sites/default/files/2024-10/Listing%20soci%C3%A9t%C3%A9s%20implant%C3%A9es%20dans%20le%20zoning%20Wavre%20noire%20epine.pdf) | 未标注 | 2026-10-22 | 尝试后受限；自述/平台材料不等于独立证明全部事实 |
+| G07 | 新版园区PDF亦502；不据摘要认工厂 | economique.inbw.be（实际来源域名）／PAE listing entreprises | [https://economique.inbw.be/sites/default/files/2025-07/Listing%20entreprises%20Wavre_0.pdf](https://economique.inbw.be/sites/default/files/2025-07/Listing%20entreprises%20Wavre_0.pdf) | 未标注 | 2026-10-22 | 尝试后受限；自述/平台材料不等于独立证明全部事实 |
+| G08 | 未抽取到目标，2023商业分销摘要不冒充原文 | www.akt-ccibw.be（实际来源域名）／R | [https://www.akt-ccibw.be/wp-content/uploads/2025/01/le_brabant_wallon_en_chiffres_2023.pdf](https://www.akt-ccibw.be/wp-content/uploads/2025/01/le_brabant_wallon_en_chiffres_2023.pdf) | 未标注 | 2026-10-22 | 尝试后受限；自述/平台材料不等于独立证明全部事实 |
+| G09 | 同VAT/地址与部门目录；1990机构年代不是1983法人年 | gb.kompass.com（实际来源域名）／Sun Chemical-pigment Division - to Wavre, Belgium ／ Kompass | [https://gb.kompass.com/c/sun-chemical-pigment-division/be0008924/](https://gb.kompass.com/c/sun-chemical-pigment-division/be0008924/) | 未标注 | 2026-10-22 | 已读原文；自述/平台材料不等于独立证明全部事实 |
+| G10 | 入口实际为西班牙2BAD，相关站点链接277导至本地G05 | www.bsigroup.com（实际来源域名）／Client Directory Profile - Sun Chemical, S.A. 041 ／ BSI UK | [https://www.bsigroup.com/en-GB/products-and-services/assessment-and-certification/validation-and-verification/client-directory-profile/SUN_CH-0009262820-041/](https://www.bsigroup.com/en-GB/products-and-services/assessment-and-certification/validation-and-verification/client-directory-profile/SUN_CH-0009262820-041/) | 未标注 | 2026-10-22 | 已读原文；西班牙制造范围不转移Wavre |
+| L01 | 美国总部集团公司页，DIC关系/员工Gérald | www.linkedin.com（实际来源域名）／Sun Chemical ／ LinkedIn | [https://www.linkedin.com/company/sun-chemical/](https://www.linkedin.com/company/sun-chemical/) | 未标注 | 2026-10-22 | 已读原文；自述/平台材料不等于独立证明全部事实 |
+| L02 | Gérald个人页999，登记和历史本人帖替代 | be.linkedin.com（实际来源域名）／来源 | [https://be.linkedin.com/in/g%C3%A9rald-davignon-b96282?trk=org-employees](https://be.linkedin.com/in/g%C3%A9rald-davignon-b96282?trk=org-employees) | 未标注 | 2026-10-22 | 尝试后受限；自述/平台材料不等于独立证明全部事实 |
+| L03 | 本人历史Wavre客服招聘帖 | www.linkedin.com（实际来源域名）／#hiring ／ Gérald Davignon | [https://www.linkedin.com/posts/g%C3%A9rald-davignon-b96282_hiring-activity-6930132069461188608-Z-6c](https://www.linkedin.com/posts/g%C3%A9rald-davignon-b96282_hiring-activity-6930132069461188608-Z-6c) | 相对4年前 | 2026-10-22 | 已读原文；自述/平台材料不等于独立证明全部事实 |
+| L04 | Wavre客服实际职责：产品/价格/交期/内部协调 | be.linkedin.com（实际来源域名）／Sun Chemical SA hiring Customer Service Representative in Wavre, Walloon Region, Belgium ／ LinkedIn | [https://be.linkedin.com/jobs/view/customer-service-representative-at-sun-chemical-sa-3072319512?trk=public_post_feed-job-posting-content](https://be.linkedin.com/jobs/view/customer-service-representative-at-sun-chemical-sa-3072319512?trk=public_post_feed-job-posting-content) | 4年前，已停申请 | 2026-10-22 | 已读原文；自述/平台材料不等于独立证明全部事实 |
+| L05 | 集团官网career动态列表，未给本地完整岗位 | careers.sunchemical.com（实际来源域名）／Careers at Sun Chemical | [https://careers.sunchemical.com/](https://careers.sunchemical.com/) | 未标注 | 2026-10-22 | 已读原文；自述/平台材料不等于独立证明全部事实 |
+| L06 | 采样行政招聘410，摘要样品库存非管理 | be.trabajo.org（实际来源域名）／Emploi de Employé administratif au sampling à Wavre, Wallonie - Sun Chemical Corporation | [https://be.trabajo.org/offre-3802-d536bd1a75f22716027f82f6647576e5](https://be.trabajo.org/offre-3802-d536bd1a75f22716027f82f6647576e5) | 未标注 | 2026-10-22 | 尝试后受限；自述/平台材料不等于独立证明全部事实 |
+| L07 | 个人页999，特定技术现职未知；本地技术支持职能以BSI为准 | be.linkedin.com（实际来源域名）／Marguerite Debacker - Sun Chemical ／ LinkedIn | [https://be.linkedin.com/in/marguerite-debacker-30956773](https://be.linkedin.com/in/marguerite-debacker-30956773) | 未标注 | 2026-10-22 | 尝试后受限；自述/平台材料不等于独立证明全部事实 |
+| D01 | 同地址出口具体提单，品名遮盖 | panjiva.com（实际来源域名）／Sun Chemical S.A., Av. Fleming 2, 1300 Wavre, Belgium ／ Supplier Report — Panjiva | [https://panjiva.com/Sun-Chemical-S-A/28789370](https://panjiva.com/Sun-Chemical-S-A/28789370) | 未标注 | 2026-10-22 | 已读原文；自述/平台材料不等于独立证明全部事实 |
+| D02 | 同地址进出口聚合及错误货退回样本 | www.trademo.com（实际来源域名）／Supply Chain Data Of Sun Chemical Nv/sa Company Profile ／ Trademo | [https://www.trademo.com/companies/sun-chemicas-n-a/30438345](https://www.trademo.com/companies/sun-chemicas-n-a/30438345) | 未标注 | 2026-10-22 | 已读原文；自述/平台材料不等于独立证明全部事实 |
+| D03 | 同地址部门贸易聚合，样本有机颜料 | www.volza.com（实际来源域名）／Sun Chemical Pigments Division, Wavre, Belgium | [https://www.volza.com/company-profile/sun-chemical-pigments-division-7821015/](https://www.volza.com/company-profile/sun-chemical-pigments-division-7821015/) | 未标注 | 2026-10-22 | 已读原文；MichaelRobinson CEO自动标签未采用为本地现任；管理以G03/G04 |
+| D04 | 2022-09-07有机颜料进口样本40PE，HS380036字段异常 | www.volza.com（实际来源域名）／Import Bill of Lading | [https://www.volza.com/company-profile/sun-chemical-pigments-division/import-bill-of-lading-53270-0-4355585/](https://www.volza.com/company-profile/sun-chemical-pigments-division/import-bill-of-lading-53270-0-4355585/) | 未标注 | 2026-10-22 | 已读原文；自述/平台材料不等于独立证明全部事实 |
+| D05 | 同址代理串TiO₂化妆品出口样本100kg，不累重复行 | www.trademo.com（实际来源域名）／Supply Chain Data Of Rvfk Gmbh Ludwigsfeld Germany On Order Of Sunchemical N V Sa Company Profile ／ Trademo | [https://www.trademo.com/companies/rvfk-gmbh-ludwigsfeld-germany-on-order-of-sunchemical-n-v-sa/44454466](https://www.trademo.com/companies/rvfk-gmbh-ludwigsfeld-germany-on-order-of-sunchemical-n-v-sa/44454466) | 未标注 | 2026-10-22 | 已读原文；自述/平台材料不等于独立证明全部事实 |
+| D06 | 泛买家页Timeout，摘要公司与TiO₂吨位未绑定不采用 | www.volza.com（实际来源域名）／Red, Iron, Oxide, Pigment Buyers in Belgium (2,188) Aug-26 ／ Volza | [https://www.volza.com/p/red-or-iron-or-oxide-or-pigment/buyers-directory/buyers-in-belgium/](https://www.volza.com/p/red-or-iron-or-oxide-or-pigment/buyers-directory/buyers-in-belgium/) | 未标注 | 2026-10-22 | 尝试后受限；自述/平台材料不等于独立证明全部事实 |
+
+
+新增原始返回与动作全部位于本批logs。初始主体/历史账本审核在_work/intake-audit.json；实际付费0/预留0/未知0。未写信、未发送。

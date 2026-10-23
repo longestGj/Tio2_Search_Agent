@@ -1,0 +1,61 @@
+{
+  "schema": 1,
+  "company_key": "PE:PE-C065",
+  "workflow_id": "PE-C065-contacts",
+  "customer_ids": [
+    "PE-C065"
+  ],
+  "aliases": [
+    "MC-Bauchemie Peru S.R.L.",
+    "mc-bauchemie.com.pe"
+  ],
+  "credit_limit": "3",
+  "contact_limit": 3,
+  "baseline_evidence": {
+    "confirmed": true,
+    "source_ref": "D:/02钛白粉外贸/markets/PE/companies/PE-C065/MC-Bauchemie Peru S.R.L._背调报告_2026-10-22.md；源背调明确无Apollo/付费；接收查阅指定14公司目录无旧组织/邮箱/contacts账本；本次为该本地联系人流程起点，不声称账户历史零消费"
+  },
+  "contacts": [],
+  "operations": [
+    {
+      "operation_id": "BULK-01-PE-C065-P01",
+      "batch_id": "PE-CONTACTS-20261022-01",
+      "kind": "people_enrichment",
+      "person_key": "apollo:673a31d0edcff800016c8a7d",
+      "max_credits": "1",
+      "actual_credits": "1",
+      "status": "settled",
+      "reserved_at": "2026-10-22T11:54:28.301418+08:00",
+      "executed": true,
+      "evidence_ref": "D:/02钛白粉外贸/markets/PE/contacts/PE-CONTACTS-20261022-01/logs/evidence/BULK-01.json",
+      "request_id": "-6267782399058203716",
+      "settled_at": "2026-10-22T11:56:12.728773+08:00",
+      "cost_basis": "本次所有请求ID逐一匹配，工具定义每匹配1credit；原始credits_consumed总数与逐ID之和一致，不按余额差分摊"
+    },
+    {
+      "operation_id": "BULK-01-PE-C065-P02",
+      "batch_id": "PE-CONTACTS-20261022-01",
+      "kind": "people_enrichment",
+      "person_key": "apollo:68ca66cf6b0a370001c0dfa4",
+      "max_credits": "1",
+      "actual_credits": "1",
+      "status": "settled",
+      "reserved_at": "2026-10-22T11:54:28.301418+08:00",
+      "executed": true,
+      "evidence_ref": "D:/02钛白粉外贸/markets/PE/contacts/PE-CONTACTS-20261022-01/logs/evidence/BULK-01.json",
+      "request_id": "-6267782399058203716",
+      "settled_at": "2026-10-22T11:56:12.728773+08:00",
+      "cost_basis": "本次所有请求ID逐一匹配，工具定义每匹配1credit；原始credits_consumed总数与逐ID之和一致，不按余额差分摊"
+    }
+  ],
+  "history": [
+    {
+      "path": "D:/02钛白粉外贸/markets/PE/companies/PE-C065/contacts/history/2026-10-22T11-54-28.299421+08-00/ledger.json",
+      "sha256": "9795a24ccc26dd1e4ada5c526da79818f939bdf06d6e66186653afacf7a5e702"
+    },
+    {
+      "path": "D:/02钛白粉外贸/markets/PE/companies/PE-C065/contacts/history/2026-10-22T11-56-12.726772+08-00/ledger.json",
+      "sha256": "3eec978fa1d0eb6fc8bd4a200a36f292933975abd4a8ade02e05219d5f28d6a0"
+    }
+  ]
+}

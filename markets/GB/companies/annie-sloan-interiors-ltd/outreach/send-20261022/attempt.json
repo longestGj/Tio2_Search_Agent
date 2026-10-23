@@ -1,0 +1,13 @@
+{
+  "message_id": "<179264129805.46548.12139075749827162337@TItan1>",
+  "recipient": "shahriar@anniesloan.com",
+  "status": "sent_confirmed_in_server_sent",
+  "started_at": "2026-10-22T11:55:16.755564+08:00",
+  "attempt_count": 1,
+  "finished_at": "2026-10-22T11:55:19.069939+08:00",
+  "sent_uid": "1479",
+  "verified_at": "2026-10-22T11:56:05.049349+08:00",
+  "delivery_status": "未核实收件方送达或阅读",
+  "signature_verified": true,
+  "sent_eml_sha256": "52a6fe023a0f6afe1b357d76197e2fdbd5fc8cbd665a57406cd7afb9e38bc794"
+}

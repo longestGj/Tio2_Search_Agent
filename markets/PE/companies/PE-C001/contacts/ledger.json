@@ -1,0 +1,78 @@
+{
+  "schema": 1,
+  "company_key": "PE:PE-C001",
+  "workflow_id": "PE-C001-contacts",
+  "customer_ids": [
+    "PE-C001"
+  ],
+  "aliases": [
+    "Perupaint Group",
+    "perupaintgroup.com"
+  ],
+  "credit_limit": "3",
+  "contact_limit": 3,
+  "baseline_evidence": {
+    "confirmed": true,
+    "source_ref": "D:/02钛白粉外贸/markets/PE/companies/PE-C001/Perupaint Group_背调报告_2026-10-22.md；源背调明确无Apollo/付费；接收查阅指定14公司目录无旧组织/邮箱/contacts账本；本次为该本地联系人流程起点，不声称账户历史零消费"
+  },
+  "contacts": [
+    {
+      "kind": "public",
+      "email": "comercial@perupaint.com.pe",
+      "source_ref": "D:/02钛白粉外贸/markets/PE/companies/PE-C001/Perupaint Group_背调报告_2026-10-22.md",
+      "date": "2026-10-22"
+    },
+    {
+      "kind": "public",
+      "email": "logistica@perupaint.com.pe",
+      "source_ref": "D:/02钛白粉外贸/markets/PE/contacts/PE-CONTACTS-20261022-01/logs/evidence/BULK-01.json",
+      "date": "2026-10-22",
+      "name": "Edward Vasquez Molina",
+      "apollo_id": "57dd1ee8a6da987b455f0ef1",
+      "email_status": "verified",
+      "association_note": "Apollo人员记录返回；部门地址不证明个人独占"
+    }
+  ],
+  "operations": [
+    {
+      "operation_id": "BULK-01-PE-C001-P01",
+      "batch_id": "PE-CONTACTS-20261022-01",
+      "kind": "people_enrichment",
+      "person_key": "apollo:57dd1ee8a6da987b455f0ef1",
+      "max_credits": "1",
+      "actual_credits": "1",
+      "status": "settled",
+      "reserved_at": "2026-10-22T11:54:28.311935+08:00",
+      "executed": true,
+      "evidence_ref": "D:/02钛白粉外贸/markets/PE/contacts/PE-CONTACTS-20261022-01/logs/evidence/BULK-01.json",
+      "request_id": "-6267782399058203716",
+      "settled_at": "2026-10-22T11:56:12.739402+08:00",
+      "cost_basis": "本次所有请求ID逐一匹配，工具定义每匹配1credit；原始credits_consumed总数与逐ID之和一致，不按余额差分摊"
+    },
+    {
+      "operation_id": "BULK-01-PE-C001-P02",
+      "batch_id": "PE-CONTACTS-20261022-01",
+      "kind": "people_enrichment",
+      "person_key": "apollo:57d55e3ba6da985386c525a0",
+      "max_credits": "1",
+      "actual_credits": "1",
+      "status": "settled",
+      "reserved_at": "2026-10-22T11:54:28.311935+08:00",
+      "executed": true,
+      "evidence_ref": "D:/02钛白粉外贸/markets/PE/contacts/PE-CONTACTS-20261022-01/logs/evidence/BULK-01.json",
+      "request_id": "-6267782399058203716",
+      "settled_at": "2026-10-22T11:56:12.739402+08:00",
+      "cost_basis": "本次所有请求ID逐一匹配，工具定义每匹配1credit；原始credits_consumed总数与逐ID之和一致，不按余额差分摊"
+    }
+  ],
+  "history": [
+    {
+      "path": "D:/02钛白粉外贸/markets/PE/companies/PE-C001/contacts/history/2026-10-22T11-54-28.302418+08-00/ledger.json",
+      "sha256": "8a3696b0edd8ca993f5893bbdb2ff480f97da11008294314873e8535ac5fd30d"
+    },
+    {
+      "path": "D:/02钛白粉外贸/markets/PE/companies/PE-C001/contacts/history/2026-10-22T11-56-12.736286+08-00/ledger.json",
+      "sha256": "90a1fd1af412c203d52eb6f4752439cdd87453713c5ab45dd847d0b6084d6081"
+    }
+  ]
+}

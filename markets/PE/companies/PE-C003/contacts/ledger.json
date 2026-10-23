@@ -1,0 +1,79 @@
+{
+  "schema": 1,
+  "company_key": "PE:PE-C003",
+  "workflow_id": "PE-C003-contacts",
+  "customer_ids": [
+    "PE-C003"
+  ],
+  "aliases": [
+    "Chemifabrik",
+    "chemifabrik.com.pe"
+  ],
+  "credit_limit": "3",
+  "contact_limit": 3,
+  "baseline_evidence": {
+    "confirmed": true,
+    "source_ref": "D:/02钛白粉外贸/markets/PE/companies/PE-C003/Chemifabrik_背调报告_2026-10-22.md；源背调明确无Apollo/付费；接收查阅指定14公司目录无旧组织/邮箱/contacts账本；本次为该本地联系人流程起点，不声称账户历史零消费"
+  },
+  "contacts": [
+    {
+      "kind": "public",
+      "email": "info@chemifabrik.com.pe",
+      "source_ref": "D:/02钛白粉外贸/markets/PE/companies/PE-C003/Chemifabrik_背调报告_2026-10-22.md",
+      "date": "2026-10-22"
+    },
+    {
+      "kind": "named",
+      "email": "diego.pacheco@chemifabrik.com.pe",
+      "source_ref": "D:/02钛白粉外贸/markets/PE/contacts/PE-CONTACTS-20261022-01/logs/evidence/BULK-02.json",
+      "date": "2026-10-22",
+      "name": "Diego Pacheco",
+      "apollo_id": "54a4e8c47468693b8cd9156d",
+      "email_status": "verified",
+      "association_note": "Apollo人员ID匹配；未投递验证",
+      "person_key": "apollo:54a4e8c47468693b8cd9156d"
+    }
+  ],
+  "operations": [
+    {
+      "operation_id": "BULK-02-PE-C003-P01",
+      "batch_id": "PE-CONTACTS-20261022-01",
+      "kind": "people_enrichment",
+      "person_key": "apollo:57da3373a6da98549dddb59e",
+      "max_credits": "1",
+      "actual_credits": "1",
+      "status": "settled",
+      "reserved_at": "2026-10-22T11:56:21.454987+08:00",
+      "executed": true,
+      "evidence_ref": "D:/02钛白粉外贸/markets/PE/contacts/PE-CONTACTS-20261022-01/logs/evidence/BULK-02.json",
+      "request_id": "-8324163845319296774",
+      "settled_at": "2026-10-22T11:56:40.055686+08:00",
+      "cost_basis": "本次所有请求ID逐一匹配，工具定义每匹配1credit；原始credits_consumed总数与逐ID之和一致，不按余额差分摊"
+    },
+    {
+      "operation_id": "BULK-02-PE-C003-P02",
+      "batch_id": "PE-CONTACTS-20261022-01",
+      "kind": "people_enrichment",
+      "person_key": "apollo:54a4e8c47468693b8cd9156d",
+      "max_credits": "1",
+      "actual_credits": "1",
+      "status": "settled",
+      "reserved_at": "2026-10-22T11:56:21.454987+08:00",
+      "executed": true,
+      "evidence_ref": "D:/02钛白粉外贸/markets/PE/contacts/PE-CONTACTS-20261022-01/logs/evidence/BULK-02.json",
+      "request_id": "-8324163845319296774",
+      "settled_at": "2026-10-22T11:56:40.055686+08:00",
+      "cost_basis": "本次所有请求ID逐一匹配，工具定义每匹配1credit；原始credits_consumed总数与逐ID之和一致，不按余额差分摊"
+    }
+  ],
+  "history": [
+    {
+      "path": "D:/02钛白粉外贸/markets/PE/companies/PE-C003/contacts/history/2026-10-22T11-56-21.441931+08-00/ledger.json",
+      "sha256": "b33e8fa1b131feae06890cad25d542d9973f261e03fe83733b0a563ea08ad593"
+    },
+    {
+      "path": "D:/02钛白粉外贸/markets/PE/companies/PE-C003/contacts/history/2026-10-22T11-56-40.052155+08-00/ledger.json",
+      "sha256": "3af197402eb379d2adbe479396af0182a0504bb1f31a0f10bc20a5c1bdebf1dc"
+    }
+  ]
+}

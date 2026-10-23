@@ -1,0 +1,67 @@
+{
+  "schema": 1,
+  "company_key": "BE:BE-C007",
+  "workflow_id": "BE-contacts-BE-C007",
+  "customer_ids": [
+    "BE-C007"
+  ],
+  "aliases": [
+    "Kreglinger Europe"
+  ],
+  "credit_limit": "3",
+  "contact_limit": 3,
+  "baseline_evidence": {
+    "confirmed": true,
+    "source_ref": "核对markets/BE/companies及contacts，无既有联系人账本/组织邮箱报告；D:\\02钛白粉外贸\\markets\\BE\\due-diligence\\BE-DD-20261022-01\\_work\\research-handoff.json明确背调Apollo付费0；原具名邮箱按实导入"
+  },
+  "contacts": [
+    {
+      "kind": "public",
+      "email": "info@kreglinger.com",
+      "source_ref": "D:\\02钛白粉外贸\\markets\\BE\\companies\\BE-C007\\Kreglinger_Europe_背调报告_2026-10-22.md O/L公开入口",
+      "date": "2026-10-22"
+    },
+    {
+      "person_key": "BE-C007:apollo:66eeb55bd567c300016926dc",
+      "kind": "named",
+      "name": "Wim Arnouts",
+      "email": "wa@kreglinger.com",
+      "source_ref": "D:/02钛白粉外贸/markets/BE/contacts/BE-CONTACTS-20261022-01/logs/evidence/BE-ENRICH-G1-20261022.json Apollo people bulk match id 66eeb55bd567c300016926dc request_id 7757118278113307596",
+      "date": "2026-10-22",
+      "email_status": "verified",
+      "match_confidence": "high",
+      "email_domain_catchall": true,
+      "email_domain_catchall_verdict": "allow",
+      "linkedin_url": "http://www.linkedin.com/in/wim-arnouts-6291067",
+      "title": "Managing Director",
+      "organization": "Kreglinger Europe NV"
+    }
+  ],
+  "unattributed_emails": [],
+  "operations": [
+    {
+      "operation_id": "BE-OP-BE-C007-C01-01",
+      "batch_id": "BE-CONTACTS-20261022-01",
+      "kind": "people_enrichment",
+      "person_key": "BE-C007:apollo:66eeb55bd567c300016926dc",
+      "max_credits": "1",
+      "actual_credits": "1",
+      "status": "settled",
+      "evidence_ref": "D:/02钛白粉外贸/markets/BE/contacts/BE-CONTACTS-20261022-01/logs/evidence/BE-ENRICH-G1-20261022.json request_id 7757118278113307596 同一ID成功匹配；实时费率每匹配1 credit，返回总credits_consumed=10，全部10人匹配；非账户差额分摊",
+      "created_at": "2026-10-22T16:15:01+08:00",
+      "settled_at": "2026-10-22T16:15:58+08:00",
+      "request_id": "7757118278113307596",
+      "executed": true
+    }
+  ],
+  "history": [
+    {
+      "path": "D:/02钛白粉外贸/markets/BE/companies/BE-C007/contacts/history/20261022-161501-ledger-0f1ed/ledger.json",
+      "sha256": "47c7c3706ce964408ac2f8b8412a4ce9188b447e318489cefb4b79f515b7733f"
+    },
+    {
+      "path": "D:/02钛白粉外贸/markets/BE/companies/BE-C007/contacts/history/20261022-161558-ledger-603a7/ledger.json",
+      "sha256": "f0c239d2b8f135cf6a0edc582364d8a92ab5c57572ff21ec4c007277e2da7050"
+    }
+  ]
+}

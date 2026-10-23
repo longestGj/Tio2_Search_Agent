@@ -1,0 +1,35 @@
+{
+  "schema": 1,
+  "company_key": "BE:BE-C013",
+  "workflow_id": "BE-contacts-BE-C013",
+  "customer_ids": [
+    "BE-C013"
+  ],
+  "aliases": [
+    "MARTIN MATHYS"
+  ],
+  "credit_limit": "3",
+  "contact_limit": 3,
+  "baseline_evidence": {
+    "confirmed": true,
+    "source_ref": "本批上游付费0/选人0；BE当前唯一账本索引仅旧C001–010，逐一名称/已知VAT主体核对未匹配；新目录无已有组织/邮箱报告或账本。详见本批_work/intake-audit.json；不扫描其他市场/备份"
+  },
+  "contacts": [
+    {
+      "kind": "public",
+      "email": "info@rust-oleum.eu",
+      "source_ref": "D:/02钛白粉外贸/markets/BE/companies/BE-C013/Martin_Mathys_背调报告_2026-10-22.md O/L公开入口，地域/角色见原报告",
+      "date": "2026-10-22"
+    },
+    {
+      "kind": "public",
+      "email": "rpmeurohas@rustoleum.eu",
+      "source_ref": "D:/02钛白粉外贸/markets/BE/companies/BE-C013/Martin_Mathys_背调报告_2026-10-22.md O/L公开入口，地域/角色见原报告",
+      "date": "2026-10-22"
+    }
+  ],
+  "alternate_public_email_records": [],
+  "unattributed_emails": [],
+  "operations": [],
+  "history": []
+}

@@ -1,0 +1,53 @@
+{
+  "schema": 1,
+  "company_key": "PE:PE-C064",
+  "workflow_id": "PE-C064-contacts",
+  "customer_ids": [
+    "PE-C064"
+  ],
+  "aliases": [
+    "CPA Aditivos",
+    "cpaditivos.com.pe"
+  ],
+  "credit_limit": "3",
+  "contact_limit": 3,
+  "baseline_evidence": {
+    "confirmed": true,
+    "source_ref": "D:/02钛白粉外贸/markets/PE/companies/PE-C064/CPA Aditivos_背调报告_2026-10-22.md；源背调明确无Apollo/付费；接收查阅指定14公司目录无旧组织/邮箱/contacts账本；本次为该本地联系人流程起点，不声称账户历史零消费"
+  },
+  "contacts": [
+    {
+      "kind": "public",
+      "email": "cotizaciones@cpaditivos.com.pe",
+      "source_ref": "D:/02钛白粉外贸/markets/PE/companies/PE-C064/CPA Aditivos_背调报告_2026-10-22.md",
+      "date": "2026-10-22"
+    }
+  ],
+  "operations": [
+    {
+      "operation_id": "BULK-01-PE-C064-P01",
+      "batch_id": "PE-CONTACTS-20261022-01",
+      "kind": "people_enrichment",
+      "person_key": "apollo:6798b32cbdd1f9000156848f",
+      "max_credits": "1",
+      "actual_credits": "1",
+      "status": "settled",
+      "reserved_at": "2026-10-22T11:54:28.298417+08:00",
+      "executed": true,
+      "evidence_ref": "D:/02钛白粉外贸/markets/PE/contacts/PE-CONTACTS-20261022-01/logs/evidence/BULK-01.json",
+      "request_id": "-6267782399058203716",
+      "settled_at": "2026-10-22T11:56:12.718528+08:00",
+      "cost_basis": "本次所有请求ID逐一匹配，工具定义每匹配1credit；原始credits_consumed总数与逐ID之和一致，不按余额差分摊"
+    }
+  ],
+  "history": [
+    {
+      "path": "D:/02钛白粉外贸/markets/PE/companies/PE-C064/contacts/history/2026-10-22T11-54-28.296417+08-00/ledger.json",
+      "sha256": "2e88fa6785df9fc0539f0528d482f4d1d7eb843b57861cb8b362f02225db6fb8"
+    },
+    {
+      "path": "D:/02钛白粉外贸/markets/PE/companies/PE-C064/contacts/history/2026-10-22T11-56-12.712920+08-00/ledger.json",
+      "sha256": "b10f15f708e89713c8fb52e1f43aef51cd3c37768dabf98d5a0d88416aaffcee"
+    }
+  ]
+}

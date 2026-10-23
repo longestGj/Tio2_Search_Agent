@@ -1,0 +1,16 @@
+{
+  "account": "ai-long@mytio2.com",
+  "recipient": "shahriar@anniesloan.com",
+  "subject": "Malaysia TiO2 supply for Annie Sloan",
+  "message_id": "<179264129805.46548.12139075749827162337@TItan1>",
+  "reply_to": "ai-long@mytio2.com",
+  "source_draft": "../../Annie_Sloan_Shahriar_Mail_1_2_2026-10-21.md",
+  "signature_source": "D:\\13钛白粉外贸开发之全面重启\\公司资料\\06邮件签名\\IKHLAS_Ai_long_CHINACOAT_signature_compact.jpg",
+  "signature_sha256": "f5c4bcee5f112533321ae07aef4f20fb5556b512fc59d725feb0f3ecd94afba2",
+  "prepared_eml_sha256": "2d11741f7a26b979e0ed208daa874a7ffc6e8d487620424aaac47c01381e68c3",
+  "body_words": 45,
+  "status": "prepared_not_sent",
+  "prepared_at": "2026-10-22T11:54:58.095401+08:00",
+  "authorization": "用户要求发送一封英国市场邮件，Foxmail受阻后提出阿里云Skill，追加文字加本张ChinaCoat图片签名。",
+  "preflight": "Sent按目标地址0匹配；INBOX共4封按anniesloan.com发件人0匹配。其他文件夹未核查。"
+}

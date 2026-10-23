@@ -1,0 +1,134 @@
+{
+  "schema": 1,
+  "company_key": "BE:BE-C011",
+  "workflow_id": "BE-contacts-BE-C011",
+  "customer_ids": [
+    "BE-C011"
+  ],
+  "aliases": [
+    "BEVEPE"
+  ],
+  "credit_limit": "3",
+  "contact_limit": 3,
+  "baseline_evidence": {
+    "confirmed": true,
+    "source_ref": "本批上游付费0/选人0；BE当前唯一账本索引仅旧C001–010，逐一名称/已知VAT主体核对未匹配；新目录无已有组织/邮箱报告或账本。详见本批_work/intake-audit.json；不扫描其他市场/备份"
+  },
+  "contacts": [
+    {
+      "person_key": "BE-C011:public-clue:yvesopdebeeck",
+      "kind": "named",
+      "name": "Yves Op de Beeck",
+      "email": "yves@bevepe.be",
+      "source_ref": "D:/02钛白粉外贸/markets/BE/companies/BE-C011/BEVEPE_背调报告_2026-10-22.md O05/L01",
+      "date": "2026-10-22",
+      "counts_toward_limit": false,
+      "scope_basis": "上游明确selected_contacts_this_run=0；仅背调收集未选；归属及现职边界保持原报告",
+      "identity_basis": "2020SDS搜索索引；原页403；首名归属推断"
+    },
+    {
+      "person_key": "BE-C011:public-clue:charlottevandamme",
+      "kind": "named",
+      "name": "Charlotte Van Damme",
+      "email": "charlotte@bevepe.be",
+      "source_ref": "D:/02钛白粉外贸/markets/BE/companies/BE-C011/BEVEPE_背调报告_2026-10-22.md L03",
+      "date": "2026-10-22",
+      "counts_toward_limit": false,
+      "scope_basis": "上游明确selected_contacts_this_run=0；仅背调收集未选；归属及现职边界保持原报告",
+      "identity_basis": "公开招聘原文；首名归属推断"
+    },
+    {
+      "person_key": "BE-C011:public-clue:simonvandenbroucke",
+      "kind": "named",
+      "name": "Simon Vandenbroucke",
+      "email": "simon@bevepe.be",
+      "source_ref": "D:/02钛白粉外贸/markets/BE/companies/BE-C011/BEVEPE_背调报告_2026-10-22.md L02/L04",
+      "date": "2026-10-22",
+      "counts_toward_limit": false,
+      "scope_basis": "上游明确selected_contacts_this_run=0；仅背调收集未选；归属及现职边界保持原报告",
+      "identity_basis": "公开招聘原文；首名归属推断/当前职位未知",
+      "same_person_as": "BE-C011:apollo:60031c963c6004000162cd9f",
+      "association_update": "本轮付费原ID返回同名同邮箱，补证首名公开线索归属；原线索/证据/未选源记录保留，不重复计人"
+    },
+    {
+      "kind": "public",
+      "email": "sales@bevepe.be",
+      "source_ref": "D:/02钛白粉外贸/markets/BE/companies/BE-C011/BEVEPE_背调报告_2026-10-22.md O/L公开入口，地域/角色见原报告",
+      "date": "2026-10-22"
+    },
+    {
+      "person_key": "BE-C011:apollo:60031c963c6004000162cd9f",
+      "kind": "named",
+      "name": "Simon Vandenbroucke",
+      "email": "simon@bevepe.be",
+      "source_ref": "D:/02钛白粉外贸/markets/BE/contacts/BE-CONTACTS-20261022-02/logs/evidence/BE2-ENRICH-647f8908ea9d.json",
+      "date": "2026-10-22",
+      "counts_toward_limit": true,
+      "scope_basis": "本批固定付费获取/已明确选定",
+      "email_status": "verified",
+      "match_confidence": "high",
+      "email_domain_catchall": false,
+      "email_domain_catchall_verdict": "allow",
+      "linkedin_url": "http://www.linkedin.com/in/simon-vandenbroucke-8a982733",
+      "title": "General Manager",
+      "request_id": "2661915067416287516"
+    },
+    {
+      "person_key": "BE-C011:apollo:5e8d4d21e662660001b5d53a",
+      "kind": "named",
+      "name": "Tina Fioen",
+      "email": "tina@bevepe.be",
+      "source_ref": "D:/02钛白粉外贸/markets/BE/contacts/BE-CONTACTS-20261022-02/logs/evidence/BE2-ENRICH-647f8908ea9d.json",
+      "date": "2026-10-22",
+      "counts_toward_limit": true,
+      "scope_basis": "本批固定付费获取/已明确选定",
+      "email_status": "verified",
+      "match_confidence": "high",
+      "email_domain_catchall": false,
+      "email_domain_catchall_verdict": "allow",
+      "linkedin_url": "http://www.linkedin.com/in/tina-fioen-4904a4173",
+      "title": "Plant Manager",
+      "request_id": "2661915067416287516"
+    }
+  ],
+  "alternate_public_email_records": [],
+  "unattributed_emails": [],
+  "operations": [
+    {
+      "operation_id": "BE-C011-E1",
+      "batch_id": "BE-CONTACTS-20261022-02",
+      "kind": "people_enrichment",
+      "person_key": "BE-C011:apollo:60031c963c6004000162cd9f",
+      "max_credits": "1",
+      "actual_credits": "1",
+      "status": "settled",
+      "evidence_ref": "D:/02钛白粉外贸/markets/BE/contacts/BE-CONTACTS-20261022-02/logs/evidence/BE2-ENRICH-647f8908ea9d.json",
+      "executed": true,
+      "request_id": "2661915067416287516",
+      "allocation_basis": "工具Exactly1credit/matchedperson；本次3个ID全matched且总credits_consumed=3，逐人1而非余额差分摊"
+    },
+    {
+      "operation_id": "BE-C011-E2",
+      "batch_id": "BE-CONTACTS-20261022-02",
+      "kind": "people_enrichment",
+      "person_key": "BE-C011:apollo:5e8d4d21e662660001b5d53a",
+      "max_credits": "1",
+      "actual_credits": "1",
+      "status": "settled",
+      "evidence_ref": "D:/02钛白粉外贸/markets/BE/contacts/BE-CONTACTS-20261022-02/logs/evidence/BE2-ENRICH-647f8908ea9d.json",
+      "executed": true,
+      "request_id": "2661915067416287516",
+      "allocation_basis": "工具Exactly1credit/matchedperson；本次3个ID全matched且总credits_consumed=3，逐人1而非余额差分摊"
+    }
+  ],
+  "history": [
+    {
+      "path": "D:/02钛白粉外贸/markets/BE/companies/BE-C011/contacts/history/20261022T194417372012-e2b553/ledger.json",
+      "sha256": "895562ac61434e7ad7701c10850e3046773497ecd2257e738f368f0ea7ec030a"
+    },
+    {
+      "path": "D:/02钛白粉外贸/markets/BE/companies/BE-C011/contacts/history/20261022T194448704719-e2c165/ledger.json",
+      "sha256": "565ec486c8c3bdd80321cf3b7967d329d36b79cb2298009df6791ffa7bafc82d"
+    }
+  ]
+}

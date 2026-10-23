@@ -1,0 +1,34 @@
+{
+  "schema": 1,
+  "company_key": "BE:BE-C005",
+  "workflow_id": "BE-contacts-BE-C005",
+  "customer_ids": [
+    "BE-C005"
+  ],
+  "aliases": [
+    "Cantillana"
+  ],
+  "credit_limit": "3",
+  "contact_limit": 3,
+  "baseline_evidence": {
+    "confirmed": true,
+    "source_ref": "核对markets/BE/companies及contacts，无既有联系人账本/组织邮箱报告；D:\\02钛白粉外贸\\markets\\BE\\due-diligence\\BE-DD-20261022-01\\_work\\research-handoff.json明确背调Apollo付费0；原具名邮箱按实导入"
+  },
+  "contacts": [
+    {
+      "kind": "public",
+      "email": "sales@cantillana.com",
+      "source_ref": "D:\\02钛白粉外贸\\markets\\BE\\companies\\BE-C005\\Cantillana_背调报告_2026-10-22.md O/L公开入口",
+      "date": "2026-10-22"
+    },
+    {
+      "kind": "public",
+      "email": "silomix@cantillana.com",
+      "source_ref": "D:\\02钛白粉外贸\\markets\\BE\\companies\\BE-C005\\Cantillana_背调报告_2026-10-22.md O/L公开入口",
+      "date": "2026-10-22"
+    }
+  ],
+  "unattributed_emails": [],
+  "operations": [],
+  "history": []
+}

@@ -1,0 +1,54 @@
+{
+  "schema": 1,
+  "company_key": "JP:JP-C032",
+  "workflow_id": "JP-contacts-JP-C032",
+  "customer_ids": [
+    "JP-C032"
+  ],
+  "aliases": [
+    "ITOCHU CHEMICAL FRONTIER Corporation"
+  ],
+  "credit_limit": "3",
+  "contact_limit": 3,
+  "baseline_evidence": {
+    "confirmed": true,
+    "source_ref": "已检索日本公司目录，无既有contacts/ledger.json；背调未调用Apollo付费enrichment。"
+  },
+  "contacts": [
+    {
+      "kind": "named",
+      "person_key": "JP-C032:apollo:64f02435c9ee1100011f8e88",
+      "email": "hayashi-t@itcchem.co.jp",
+      "source_ref": "D:\\02钛白粉外贸\\markets\\JP\\contacts\\JP-CONTACTS-20261022-01\\logs\\evidence\\C-120479162a894b.json",
+      "date": "2026-10-22",
+      "apollo_id": "64f02435c9ee1100011f8e88",
+      "name": "Takahiro Hayashi",
+      "title": "General Manager",
+      "current_employer": "ITOCHU Chemical Frontier Corporation",
+      "location": "Nagoya, Aichi Prefecture, Japan",
+      "email_status": "verified",
+      "match_confidence": "high",
+      "request_id": "1027246577606477431",
+      "target_entity_alignment": "direct",
+      "limitations": "当前任职与日本目标主体 ITOCHU Chemical Frontier Corporation 一致，所在地日本。",
+      "delivery_verified": false,
+      "marketing_permission": "未确认"
+    }
+  ],
+  "unattributed_emails": [],
+  "operations": [
+    {
+      "operation_id": "OP-JP-C032-PE-294f0013",
+      "batch_id": "JP-CONTACTS-20261022-01",
+      "kind": "people_enrichment",
+      "person_key": "JP-C032:apollo:64f02435c9ee1100011f8e88",
+      "max_credits": "1",
+      "actual_credits": "1",
+      "status": "settled",
+      "evidence_ref": "D:\\02钛白粉外贸\\markets\\JP\\contacts\\JP-CONTACTS-20261022-01\\logs\\evidence\\C-120479162a894b.json",
+      "executed": true,
+      "request_id": "1027246577606477431"
+    }
+  ],
+  "history": []
+}

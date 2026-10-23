@@ -1,0 +1,54 @@
+{
+  "batch_id": "BE-SEND-20261022-01",
+  "gap_count": 9,
+  "minimum_gap_seconds": 30.003364,
+  "maximum_gap_seconds": 30.01021,
+  "all_at_least_30_seconds": true,
+  "intervals": [
+    {
+      "previous": "BE-C001-JOINT-M1",
+      "next": "BE-C002-JOINT-M1",
+      "seconds_after_previous_end": 30.01021
+    },
+    {
+      "previous": "BE-C002-JOINT-M1",
+      "next": "BE-C003-JOINT-M1",
+      "seconds_after_previous_end": 30.010062
+    },
+    {
+      "previous": "BE-C003-JOINT-M1",
+      "next": "BE-C004-JOINT-M1",
+      "seconds_after_previous_end": 30.003532
+    },
+    {
+      "previous": "BE-C004-JOINT-M1",
+      "next": "BE-C005-JOINT-M1",
+      "seconds_after_previous_end": 30.006507
+    },
+    {
+      "previous": "BE-C005-JOINT-M1",
+      "next": "BE-C006-JOINT-M1",
+      "seconds_after_previous_end": 30.007669
+    },
+    {
+      "previous": "BE-C006-JOINT-M1",
+      "next": "BE-C007-JOINT-M1",
+      "seconds_after_previous_end": 30.007853
+    },
+    {
+      "previous": "BE-C007-JOINT-M1",
+      "next": "BE-C008-JOINT-M1",
+      "seconds_after_previous_end": 30.003364
+    },
+    {
+      "previous": "BE-C008-JOINT-M1",
+      "next": "BE-C009-JOINT-M1",
+      "seconds_after_previous_end": 30.00922
+    },
+    {
+      "previous": "BE-C009-JOINT-M1",
+      "next": "BE-C010-JOINT-M1",
+      "seconds_after_previous_end": 30.008893
+    }
+  ]
+}

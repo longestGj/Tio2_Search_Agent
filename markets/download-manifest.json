@@ -1,0 +1,253 @@
+{
+  "repository": "https://github.com/longestGj/Tio2_Search_Agent",
+  "commit": "aa99ddf7583dee0cd7b6e8a472aa7b65aa802634",
+  "download_date": "2026-10-21",
+  "timezone": "Asia/Shanghai",
+  "scope": [
+    "markets/JP",
+    "markets/PE"
+  ],
+  "verification": "all_24_files_match_github_git_blob_sha",
+  "files": [
+    {
+      "path": "markets/JP/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bc36dad3468f2a9fde4389e25deff0e65096d6b7",
+      "size": 2802,
+      "url": "https://api.github.com/repos/longestGj/Tio2_Search_Agent/git/blobs/bc36dad3468f2a9fde4389e25deff0e65096d6b7",
+      "trailing_lf": 1,
+      "sha256": "9075aa06f3281175cf4200b62c51953e30b3de0cea141d71074b14c79ec4a0ab"
+    },
+    {
+      "path": "markets/JP/companies/asahipen/Asahipen_背调报告_2026-10-21.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9d8f4a0b6860ae9331bb5413b06b465f3b0232f1",
+      "size": 26066,
+      "url": "https://api.github.com/repos/longestGj/Tio2_Search_Agent/git/blobs/9d8f4a0b6860ae9331bb5413b06b465f3b0232f1",
+      "trailing_lf": 1,
+      "sha256": "75b013893471f5ceff014a39ae445fa64a7f78ec265b22ce53d8347bc7115d0d"
+    },
+    {
+      "path": "markets/JP/companies/isamu-paint/Isamu_Paint_组织结构_2026-10-21.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ff6534e7a035ea7a49caee4553ab596f74b7650d",
+      "size": 13686,
+      "url": "https://api.github.com/repos/longestGj/Tio2_Search_Agent/git/blobs/ff6534e7a035ea7a49caee4553ab596f74b7650d",
+      "trailing_lf": 1,
+      "sha256": "3fe594b65e8362545ad7a52201d3420fbf1a843423cba8b81918b8c02cc7ea16"
+    },
+    {
+      "path": "markets/JP/companies/isamu-paint/Isamu_Paint_联系人邮箱_2026-10-21.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7cfbd774e26b7f35492b5ee89d7ec23d4ea64f5c",
+      "size": 6899,
+      "url": "https://api.github.com/repos/longestGj/Tio2_Search_Agent/git/blobs/7cfbd774e26b7f35492b5ee89d7ec23d4ea64f5c",
+      "trailing_lf": 1,
+      "sha256": "c96fac97ef2f680954a5cc8182eab0b16cb5e240b1c9e690685fa9c50815b850"
+    },
+    {
+      "path": "markets/JP/companies/isamu-paint/Isamu_Paint_背调报告_2026-10-21.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "be2513f36f5364d39d4c7df1d3924ce28f12baad",
+      "size": 28946,
+      "url": "https://api.github.com/repos/longestGj/Tio2_Search_Agent/git/blobs/be2513f36f5364d39d4c7df1d3924ce28f12baad",
+      "trailing_lf": 1,
+      "sha256": "fd013b1c1ce57e5375e5a15e38ef12303ac6e6909c29fd74134230ac664664f6"
+    },
+    {
+      "path": "markets/JP/source-lists/JP-20261021-01/01_日本_候选客户总表.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ad7c215978b60d5babadb489bae85bb6283e0677",
+      "size": 31184,
+      "url": "https://api.github.com/repos/longestGj/Tio2_Search_Agent/git/blobs/ad7c215978b60d5babadb489bae85bb6283e0677",
+      "trailing_lf": 1,
+      "sha256": "f83b5c0420116c5e50a2709b78f89f5a19a34cec194b733b47532381c9e544c3"
+    },
+    {
+      "path": "markets/JP/source-lists/JP-20261021-01/02_日本_证据与来源.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e422bb8ee83aeabcc2ddf35e54c867bbd6f2926b",
+      "size": 26348,
+      "url": "https://api.github.com/repos/longestGj/Tio2_Search_Agent/git/blobs/e422bb8ee83aeabcc2ddf35e54c867bbd6f2926b",
+      "trailing_lf": 1,
+      "sha256": "9c37a98d4576a3d87061d7a3e5595718caac3dff5932630b695763cb2ce7f897"
+    },
+    {
+      "path": "markets/JP/source-lists/JP-20261021-01/03_日本_搜索与覆盖记录.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9f5da1baa3e078ae9864b0e6bfebd08efa8f53a0",
+      "size": 51201,
+      "url": "https://api.github.com/repos/longestGj/Tio2_Search_Agent/git/blobs/9f5da1baa3e078ae9864b0e6bfebd08efa8f53a0",
+      "trailing_lf": 1,
+      "sha256": "f1eb1cd8a52aeb7872998e400b5469db4d105cebc287bf6d4b57d95b215fa2bb"
+    },
+    {
+      "path": "markets/JP/source-lists/JP-20261021-01/04_日本_批次复核与测试报告.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5936d533824c7bd8485dc0dabfd72a6586eaafc9",
+      "size": 7435,
+      "url": "https://api.github.com/repos/longestGj/Tio2_Search_Agent/git/blobs/5936d533824c7bd8485dc0dabfd72a6586eaafc9",
+      "trailing_lf": 1,
+      "sha256": "584fb56d1d2ac99ee8b77ab53bdc3790f9c873e2775bedf7a738e616c1481eae"
+    },
+    {
+      "path": "markets/JP/source-lists/JP-20261021-02_线索补核/01_日本_候选客户总表_补核后.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b594c7159afb3d9d55504b0994b9a458fb2ca835",
+      "size": 19916,
+      "url": "https://api.github.com/repos/longestGj/Tio2_Search_Agent/git/blobs/b594c7159afb3d9d55504b0994b9a458fb2ca835",
+      "trailing_lf": 1,
+      "sha256": "2161aa1f2c49440ad0d96f61e7f7c9ab550e753ce8df790638c3a9bae14eaab2"
+    },
+    {
+      "path": "markets/JP/source-lists/JP-20261021-02_线索补核/02_日本_14条线索补核证据.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "23423702dee7fad54ff84ad81fcb7b41e7b7ec30",
+      "size": 24414,
+      "url": "https://api.github.com/repos/longestGj/Tio2_Search_Agent/git/blobs/23423702dee7fad54ff84ad81fcb7b41e7b7ec30",
+      "trailing_lf": 1,
+      "sha256": "2790130dc130cc63efa7651da81e9e23793341529470045e63bb6e1657e6e0e0"
+    },
+    {
+      "path": "markets/JP/source-lists/JP-20261021-02_线索补核/03_日本_补核执行记录.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0f72851ed5cb02f52e6c675cece620ce0252137c",
+      "size": 25216,
+      "url": "https://api.github.com/repos/longestGj/Tio2_Search_Agent/git/blobs/0f72851ed5cb02f52e6c675cece620ce0252137c",
+      "trailing_lf": 1,
+      "sha256": "52baa7a8490aa7820f322b361bb68bf36e68b2c1e5980d12fac43f8fe19eb6c1"
+    },
+    {
+      "path": "markets/JP/source-lists/JP-20261021-02_线索补核/04_日本_补核复核报告.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "47234b66d74a6f111aac2c073dd3b74c62d0068b",
+      "size": 4655,
+      "url": "https://api.github.com/repos/longestGj/Tio2_Search_Agent/git/blobs/47234b66d74a6f111aac2c073dd3b74c62d0068b",
+      "trailing_lf": 1,
+      "sha256": "6fbc56bf4ab3cdfa80980c024a01841abfd5e374c1cb1fdbed6fe270a27c6a69"
+    },
+    {
+      "path": "markets/JP/source-lists/JP-20261021-03_新增30家/01_日本_候选客户总表_新增30家.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "46613cddd786a1b150ac1edf4241683eaac5bb9b",
+      "size": 67960,
+      "url": "https://api.github.com/repos/longestGj/Tio2_Search_Agent/git/blobs/46613cddd786a1b150ac1edf4241683eaac5bb9b",
+      "trailing_lf": 1,
+      "sha256": "dadd8ab8fd704f07159f3208fc3e4fcdde47555380e990d7acfa7b295208ed46"
+    },
+    {
+      "path": "markets/JP/source-lists/JP-20261021-03_新增30家/02_日本_证据与来源.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a63340e29c8b6680f349e25d85f2259ad2e655f1",
+      "size": 50968,
+      "url": "https://api.github.com/repos/longestGj/Tio2_Search_Agent/git/blobs/a63340e29c8b6680f349e25d85f2259ad2e655f1",
+      "trailing_lf": 1,
+      "sha256": "516240a7d7e7a9b33d17e91f6a0330ace57024d784efb21fe4a5b395e3adb211"
+    },
+    {
+      "path": "markets/JP/source-lists/JP-20261021-03_新增30家/03_日本_搜索与覆盖记录.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "34f4bdc32dd3d2467e0cd59c3a54e21f8ecf511d",
+      "size": 54175,
+      "url": "https://api.github.com/repos/longestGj/Tio2_Search_Agent/git/blobs/34f4bdc32dd3d2467e0cd59c3a54e21f8ecf511d",
+      "trailing_lf": 1,
+      "sha256": "5a19b49c3e48623c35e38a675381e363b5860d837f1d323a6d0977afd9df728a"
+    },
+    {
+      "path": "markets/JP/source-lists/JP-20261021-03_新增30家/04_日本_执行报告.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d680272c14870e6609c95dd942a54511aa56e789",
+      "size": 5944,
+      "url": "https://api.github.com/repos/longestGj/Tio2_Search_Agent/git/blobs/d680272c14870e6609c95dd942a54511aa56e789",
+      "trailing_lf": 1,
+      "sha256": "ecd56e36700f39a59b2731dcea1e01f33757b934a515d10e53bf9f47b513a4b2"
+    },
+    {
+      "path": "markets/JP/source-manifest.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e26d86a624f246cd6e0ec24a82313e69ec410645",
+      "size": 8262,
+      "url": "https://api.github.com/repos/longestGj/Tio2_Search_Agent/git/blobs/e26d86a624f246cd6e0ec24a82313e69ec410645",
+      "trailing_lf": 1,
+      "sha256": "5dbc50793e77381dee856314da0e9c5cdb9f1727e1deef2c8866cad780733fb4"
+    },
+    {
+      "path": "markets/PE/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "dbd3398fe448516a41ab415c11b1fa559759be45",
+      "size": 1080,
+      "url": "https://api.github.com/repos/longestGj/Tio2_Search_Agent/git/blobs/dbd3398fe448516a41ab415c11b1fa559759be45",
+      "trailing_lf": 1,
+      "sha256": "74aefd5e87c09d0acf15ad27a8d312a8c8ac407e098c07d42a5e1896b51d494b"
+    },
+    {
+      "path": "markets/PE/source-lists/PE-20261021-01/01_候选客户总表.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "171ea1e7f42946375ad468e971f70b2dbbf34e4f",
+      "size": 44578,
+      "url": "https://api.github.com/repos/longestGj/Tio2_Search_Agent/git/blobs/171ea1e7f42946375ad468e971f70b2dbbf34e4f",
+      "trailing_lf": 1,
+      "sha256": "a501114b73f21a80caf09ade2dbb0476a711021befefb2051f578ddc5c309b6d"
+    },
+    {
+      "path": "markets/PE/source-lists/PE-20261021-01/02_证据与来源.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "74b77c7c8c4ab68cb01a77ee468e0ac3cb18d0ee",
+      "size": 67628,
+      "url": "https://api.github.com/repos/longestGj/Tio2_Search_Agent/git/blobs/74b77c7c8c4ab68cb01a77ee468e0ac3cb18d0ee",
+      "trailing_lf": 1,
+      "sha256": "75c8ba112bb205ac72825c77110a3c5c2d62d2990b1c6ef4f09375c9cc2ce095"
+    },
+    {
+      "path": "markets/PE/source-lists/PE-20261021-01/03_搜索与覆盖记录.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a557350dd606ec83a47e9ab7a1c8b313cc914022",
+      "size": 16345,
+      "url": "https://api.github.com/repos/longestGj/Tio2_Search_Agent/git/blobs/a557350dd606ec83a47e9ab7a1c8b313cc914022",
+      "trailing_lf": 1,
+      "sha256": "4c0dbc5a8e9eec8de7157af79024303714b761a4b0a0e78f25fcce0de9f76c9e"
+    },
+    {
+      "path": "markets/PE/source-lists/PE-20261021-01/04_批次复核与测试报告.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d8f31eb9878e30672909b5a35f556dc275320c83",
+      "size": 7782,
+      "url": "https://api.github.com/repos/longestGj/Tio2_Search_Agent/git/blobs/d8f31eb9878e30672909b5a35f556dc275320c83",
+      "trailing_lf": 2,
+      "sha256": "9aa733ec4025cc9633f235671728f1084a3e4c7b0130f0fa15c7a3d8354a15a1"
+    },
+    {
+      "path": "markets/PE/source-manifest.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3951362e3ab2a15d1b40796eea066f01fc4ff9c8",
+      "size": 2045,
+      "url": "https://api.github.com/repos/longestGj/Tio2_Search_Agent/git/blobs/3951362e3ab2a15d1b40796eea066f01fc4ff9c8",
+      "trailing_lf": 1,
+      "sha256": "e352c62de2f86e13c8516e0004f26603dfeba9ffc7de2ce973dcc73f86aab709"
+    }
+  ]
+}

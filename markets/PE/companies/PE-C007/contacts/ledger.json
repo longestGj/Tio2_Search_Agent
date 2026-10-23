@@ -1,0 +1,33 @@
+{
+  "schema": 1,
+  "company_key": "PE:PE-C007",
+  "workflow_id": "PE-C007-contacts",
+  "customer_ids": [
+    "PE-C007"
+  ],
+  "aliases": [
+    "Peruvian Colors"
+  ],
+  "credit_limit": "3",
+  "contact_limit": 3,
+  "baseline_evidence": {
+    "confirmed": true,
+    "source_ref": "D:\\02钛白粉外贸\\markets\\PE\\contacts\\PE-CONTACTS-20261022-02\\logs\\intake.json；核对现有联系人批次与公司目录、当前背调，无本流程历史付费或具名邮箱；历史公开渠道后续单列。"
+  },
+  "contacts": [
+    {
+      "person_key": null,
+      "kind": "public",
+      "email": "info@peruviancolors.com.pe",
+      "source_ref": "https://peruviancolors.com.pe/contacto/",
+      "date": "2026-10-22"
+    }
+  ],
+  "operations": [],
+  "history": [
+    {
+      "path": "D:\\02钛白粉外贸\\markets\\PE\\companies\\PE-C007\\contacts\\history\\2026-10-22T131135010826+0800\\ledger.json",
+      "sha256": "6f46e86b554b1666aa33f66329182b6b4bc7a8918ca1aa7f8330ccb728603e77"
+    }
+  ]
+}

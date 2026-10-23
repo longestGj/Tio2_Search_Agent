@@ -1,0 +1,35 @@
+{
+  "schema": 1,
+  "company_key": "JP:JP-C012",
+  "workflow_id": "JP-contacts-JP-C012",
+  "customer_ids": [
+    "JP-C012"
+  ],
+  "aliases": [
+    "OPI株式会社"
+  ],
+  "credit_limit": "3",
+  "contact_limit": 3,
+  "baseline_evidence": {
+    "confirmed": true,
+    "source_ref": "已检索日本公司目录，无既有contacts/ledger.json；背调未调用Apollo付费enrichment。"
+  },
+  "contacts": [
+    {
+      "kind": "public",
+      "email": "eigyobu@osakaink.co.jp",
+      "category": "通用/销售",
+      "department": "一般营业咨询",
+      "source_ref": "JP-DD-20261022-02/logs/evidence/A-976b4169ad7b4c0fb72e8c18c4e34aaa.json",
+      "source_url": "https://www.osakaink.co.jp/contact/",
+      "source_date": "页面未标日期",
+      "date": "2026-10-22",
+      "delivery_validation": "未验证投递",
+      "marketing_permission": "官网称公司及产品问题可咨询；采购提案接收范围未明确",
+      "attribution": "销售通用邮箱，不归给个人"
+    }
+  ],
+  "unattributed_emails": [],
+  "operations": [],
+  "history": []
+}

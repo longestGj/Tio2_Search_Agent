@@ -1,0 +1,35 @@
+{
+  "schema": 1,
+  "company_key": "JP:JP-C050",
+  "workflow_id": "JP-contacts-JP-C050",
+  "customer_ids": [
+    "JP-C050"
+  ],
+  "aliases": [
+    "株式会社セイコーアドバンス"
+  ],
+  "credit_limit": "3",
+  "contact_limit": 3,
+  "baseline_evidence": {
+    "confirmed": true,
+    "source_ref": "已检索日本公司目录，无既有contacts/ledger.json；背调未调用Apollo付费enrichment。"
+  },
+  "contacts": [
+    {
+      "kind": "public",
+      "email": "screenink@seikoadvance.co.jp",
+      "category": "技术",
+      "department": "管理本部・埼玉工厂 技术开发部/技术课",
+      "source_ref": "JP-DD-20261022-02/logs/evidence/A-2f865250d7d14096b71e703f451c4967.json",
+      "source_url": "https://seikoadvance.co.jp/service/service01.html",
+      "source_date": "页面未标日期",
+      "date": "2026-10-22",
+      "delivery_validation": "未验证投递",
+      "marketing_permission": "技术服务/测试入口；用于技术资料或请求转介，采购提案接收范围未明确",
+      "attribution": "部门通用邮箱，不归给个人"
+    }
+  ],
+  "unattributed_emails": [],
+  "operations": [],
+  "history": []
+}

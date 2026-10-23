@@ -1,0 +1,110 @@
+{
+  "schema": 1,
+  "company_key": "BE:BE-C006",
+  "workflow_id": "BE-contacts-BE-C006",
+  "customer_ids": [
+    "BE-C006"
+  ],
+  "aliases": [
+    "REWAH"
+  ],
+  "credit_limit": "3",
+  "contact_limit": 3,
+  "baseline_evidence": {
+    "confirmed": true,
+    "source_ref": "核对markets/BE/companies及contacts，无既有联系人账本/组织邮箱报告；D:\\02钛白粉外贸\\markets\\BE\\due-diligence\\BE-DD-20261022-01\\_work\\research-handoff.json明确背调Apollo付费0；原具名邮箱按实导入"
+  },
+  "contacts": [
+    {
+      "person_key": "BE-C006:history:guydams",
+      "kind": "named",
+      "name": "Guy Dams",
+      "email": "guydams@rewah.com",
+      "source_ref": "D:\\02钛白粉外贸\\markets\\BE\\companies\\BE-C006\\REWAH_背调报告_2026-10-22.md L段 150行；公开、未验证",
+      "date": "2026-10-22"
+    },
+    {
+      "person_key": "BE-C006:history:jurgencleiren",
+      "kind": "named",
+      "name": "Jurgen Cleiren",
+      "email": "jurgencleiren@rewah.com",
+      "source_ref": "D:\\02钛白粉外贸\\markets\\BE\\companies\\BE-C006\\REWAH_背调报告_2026-10-22.md L段 150行；公开、未验证",
+      "date": "2026-10-22"
+    },
+    {
+      "person_key": "BE-C006:history:stphanedecottignies",
+      "kind": "named",
+      "name": "Stéphane Decottignies",
+      "email": "stephanedecottignies@rewah.com",
+      "source_ref": "D:\\02钛白粉外贸\\markets\\BE\\companies\\BE-C006\\REWAH_背调报告_2026-10-22.md L段 150行；公开、未验证",
+      "date": "2026-10-22"
+    },
+    {
+      "person_key": "BE-C006:history:renhendriks",
+      "kind": "named",
+      "name": "René Hendriks",
+      "email": "renehendriks@rewah.com",
+      "source_ref": "D:\\02钛白粉外贸\\markets\\BE\\companies\\BE-C006\\REWAH_背调报告_2026-10-22.md L段 150行；公开、未验证",
+      "date": "2026-10-22"
+    },
+    {
+      "person_key": "BE-C006:history:gunterspinoy",
+      "kind": "named",
+      "name": "Gunter Spinoy",
+      "email": "gunterspinoy@rewah.com",
+      "source_ref": "D:\\02钛白粉外贸\\markets\\BE\\companies\\BE-C006\\REWAH_背调报告_2026-10-22.md L段 150行；公开、未验证",
+      "date": "2026-10-22"
+    },
+    {
+      "person_key": "BE-C006:history:vincentvancauwenberghe",
+      "kind": "named",
+      "name": "Vincent Vancauwenberghe",
+      "email": "vincentvancauwenberghe@rewah.com",
+      "source_ref": "D:\\02钛白粉外贸\\markets\\BE\\companies\\BE-C006\\REWAH_背调报告_2026-10-22.md L段 150行；公开、未验证",
+      "date": "2026-10-22"
+    },
+    {
+      "person_key": "BE-C006:history:nickhaenen",
+      "kind": "named",
+      "name": "Nick Haenen",
+      "email": "nickhaenen@rewah.com",
+      "source_ref": "D:\\02钛白粉外贸\\markets\\BE\\companies\\BE-C006\\REWAH_背调报告_2026-10-22.md L段 150行；公开、未验证",
+      "date": "2026-10-22"
+    },
+    {
+      "person_key": "BE-C006:history:herwigstroobant",
+      "kind": "named",
+      "name": "Herwig Stroobant",
+      "email": "herwigstroobant@rewah.com",
+      "source_ref": "D:\\02钛白粉外贸\\markets\\BE\\companies\\BE-C006\\REWAH_背调报告_2026-10-22.md L段 150行；公开、未验证",
+      "date": "2026-10-22"
+    },
+    {
+      "kind": "public",
+      "email": "info@rewah.com",
+      "source_ref": "D:\\02钛白粉外贸\\markets\\BE\\companies\\BE-C006\\REWAH_背调报告_2026-10-22.md O/L公开入口",
+      "date": "2026-10-22"
+    },
+    {
+      "kind": "public",
+      "email": "orders@rewah.com",
+      "source_ref": "D:\\02钛白粉外贸\\markets\\BE\\companies\\BE-C006\\REWAH_背调报告_2026-10-22.md O/L公开入口",
+      "date": "2026-10-22"
+    },
+    {
+      "kind": "public",
+      "email": "invoices@rewah.com",
+      "source_ref": "D:\\02钛白粉外贸\\markets\\BE\\companies\\BE-C006\\REWAH_背调报告_2026-10-22.md O/L公开入口",
+      "date": "2026-10-22"
+    }
+  ],
+  "unattributed_emails": [
+    {
+      "email": "nicoprinzie@rewah.com",
+      "identity": "官网括注、未归属",
+      "report_line": 150
+    }
+  ],
+  "operations": [],
+  "history": []
+}

@@ -1,0 +1,54 @@
+{
+  "schema": 1,
+  "company_key": "PE:PE-C009",
+  "workflow_id": "PE-C009-contacts",
+  "customer_ids": [
+    "PE-C009"
+  ],
+  "aliases": [
+    "Grafinal del Perú"
+  ],
+  "credit_limit": "3",
+  "contact_limit": 3,
+  "baseline_evidence": {
+    "confirmed": true,
+    "source_ref": "D:\\02钛白粉外贸\\markets\\PE\\contacts\\PE-CONTACTS-20261022-02\\logs\\intake.json；核对现有联系人批次与公司目录、当前背调，无本流程历史付费或具名邮箱；历史公开渠道后续单列。"
+  },
+  "contacts": [
+    {
+      "person_key": null,
+      "kind": "public",
+      "email": "informes@grafinal.com.pe",
+      "source_ref": "继承背调官网",
+      "date": "2026-10-22"
+    },
+    {
+      "person_key": null,
+      "kind": "public",
+      "email": "ventas@grafinal.com.pe",
+      "source_ref": "继承背调官网",
+      "date": "2026-10-22"
+    },
+    {
+      "person_key": null,
+      "kind": "public",
+      "email": "administracion@grafinal.com.pe",
+      "source_ref": "继承背调官网",
+      "date": "2026-10-22"
+    },
+    {
+      "person_key": null,
+      "kind": "public",
+      "email": "gsilbermann@grafinal.com.pe",
+      "source_ref": "https://www.komori.com/zh/cn/company/office/international_network/",
+      "date": "2026-10-22"
+    }
+  ],
+  "operations": [],
+  "history": [
+    {
+      "path": "D:\\02钛白粉外贸\\markets\\PE\\companies\\PE-C009\\contacts\\history\\2026-10-22T131615864737+0800\\ledger.json",
+      "sha256": "3177f6b50411c2896010dde2522b18011a4733f82c9734f9a175f64905fb17c2"
+    }
+  ]
+}

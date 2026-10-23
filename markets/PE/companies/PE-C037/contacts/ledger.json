@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "company_key": "PE:PE-C037",
+  "workflow_id": "PE-C037-contacts",
+  "customer_ids": [
+    "PE-C037"
+  ],
+  "aliases": [
+    "Dispercol S.A."
+  ],
+  "credit_limit": "3",
+  "contact_limit": 3,
+  "baseline_evidence": {
+    "confirmed": true,
+    "source_ref": "D:\\02钛白粉外贸\\markets\\PE\\contacts\\PE-CONTACTS-20261023-01\\logs\\intake.json；核对该公司指定目录与全部既有PE联系人批次，无本联系人流程历史组织/邮箱报告或账本及付费；背调公开线索未选用不占名额。不声称账户历史零消费。"
+  },
+  "contacts": [],
+  "operations": [],
+  "history": []
+}

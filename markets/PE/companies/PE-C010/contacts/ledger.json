@@ -1,0 +1,33 @@
+{
+  "schema": 1,
+  "company_key": "PE:PE-C010",
+  "workflow_id": "PE-C010-contacts",
+  "customer_ids": [
+    "PE-C010"
+  ],
+  "aliases": [
+    "Full S.A.C."
+  ],
+  "credit_limit": "3",
+  "contact_limit": 3,
+  "baseline_evidence": {
+    "confirmed": true,
+    "source_ref": "D:\\02钛白粉外贸\\markets\\PE\\contacts\\PE-CONTACTS-20261022-02\\logs\\intake.json；核对现有联系人批次与公司目录、当前背调，无本流程历史付费或具名邮箱；历史公开渠道后续单列。"
+  },
+  "contacts": [
+    {
+      "person_key": null,
+      "kind": "public",
+      "email": "ventasfull@grupoyongsam.com.pe",
+      "source_ref": "https://www.fullcorporationperu.com/contacto（继承2026-10-22背调）",
+      "date": "2026-10-22"
+    }
+  ],
+  "operations": [],
+  "history": [
+    {
+      "path": "D:\\02钛白粉外贸\\markets\\PE\\companies\\PE-C010\\contacts\\history\\2026-10-22T131715942732+0800\\ledger.json",
+      "sha256": "bb763c7cf6f6b5ebf78d20f15d743289bd5147267f240b042c30fec0595c51d9"
+    }
+  ]
+}

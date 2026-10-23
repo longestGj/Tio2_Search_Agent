@@ -1,0 +1,36 @@
+{
+  "schema": 1,
+  "company_key": "PE:20601570531",
+  "workflow_id": "PE-C035-contacts",
+  "customer_ids": [
+    "PE-C035"
+  ],
+  "aliases": [
+    "TECNIENVASES S.A.C.",
+    "Tecnienvases",
+    "tecnienvases.pe"
+  ],
+  "credit_limit": "3",
+  "contact_limit": 3,
+  "baseline_evidence": {
+    "confirmed": true,
+    "source_ref": "D:\\02钛白粉外贸\\markets\\PE\\contacts\\PE-CONTACTS-20261022-03\\logs\\intake\\scope.json"
+  },
+  "contacts": [
+    {
+      "person_key": "PE-C035:jose-luis-gonzaga",
+      "kind": "named",
+      "email": "jlgonzaga@tecnienvases.pe",
+      "source_ref": "D:\\02钛白粉外贸\\markets\\PE\\companies\\PE-C035\\Tecnienvases_背调报告_2026-10-22.md §4/F18/F25：2024/2025公开目录，未验证",
+      "date": "2026-10-22"
+    },
+    {
+      "kind": "public",
+      "email": "comercial@tecnienvases.pe",
+      "source_ref": "D:\\02钛白粉外贸\\markets\\PE\\companies\\PE-C035\\Tecnienvases_背调报告_2026-10-22.md §2/§4/F09：官方介绍，未验证",
+      "date": "2026-10-22"
+    }
+  ],
+  "operations": [],
+  "history": []
+}

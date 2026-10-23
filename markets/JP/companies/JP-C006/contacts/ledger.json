@@ -1,0 +1,54 @@
+{
+  "schema": 1,
+  "company_key": "JP:JP-C006",
+  "workflow_id": "JP-contacts-JP-C006",
+  "customer_ids": [
+    "JP-C006"
+  ],
+  "aliases": [
+    "日本ピグメント株式会社"
+  ],
+  "credit_limit": "3",
+  "contact_limit": 3,
+  "baseline_evidence": {
+    "confirmed": true,
+    "source_ref": "已检索日本公司目录，无既有contacts/ledger.json；背调未调用Apollo付费enrichment。"
+  },
+  "contacts": [
+    {
+      "kind": "named",
+      "person_key": "JP-C006:apollo:67346d088a405e00016d1a28",
+      "email": "yshioda@pigment.co.jp",
+      "source_ref": "D:\\02钛白粉外贸\\markets\\JP\\contacts\\JP-CONTACTS-20261022-01\\logs\\evidence\\C-120479162a894b.json",
+      "date": "2026-10-22",
+      "apollo_id": "67346d088a405e00016d1a28",
+      "name": "Yusuke Shioda",
+      "title": "General Manager",
+      "current_employer": "Nippon Pigment (M) Sdn Bhd",
+      "location": "Shah Alam, Selangor, Malaysia",
+      "email_status": "verified",
+      "match_confidence": "high",
+      "request_id": "1027246577606477431",
+      "target_entity_alignment": "review",
+      "limitations": "当前任职为马来西亚子公司 Nippon Pigment (M) Sdn Bhd；不是日本目标法人的直接联系人。",
+      "delivery_verified": false,
+      "marketing_permission": "未确认"
+    }
+  ],
+  "unattributed_emails": [],
+  "operations": [
+    {
+      "operation_id": "OP-JP-C006-PE-d681100c",
+      "batch_id": "JP-CONTACTS-20261022-01",
+      "kind": "people_enrichment",
+      "person_key": "JP-C006:apollo:67346d088a405e00016d1a28",
+      "max_credits": "1",
+      "actual_credits": "1",
+      "status": "settled",
+      "evidence_ref": "D:\\02钛白粉外贸\\markets\\JP\\contacts\\JP-CONTACTS-20261022-01\\logs\\evidence\\C-120479162a894b.json",
+      "executed": true,
+      "request_id": "1027246577606477431"
+    }
+  ],
+  "history": []
+}

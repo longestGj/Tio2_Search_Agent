@@ -1,0 +1,116 @@
+{
+  "schema": 1,
+  "company_key": "JP:JP-C028",
+  "workflow_id": "JP-contacts-JP-C028",
+  "customer_ids": [
+    "JP-C028"
+  ],
+  "aliases": [
+    "トーヨーカラー株式会社"
+  ],
+  "credit_limit": "3",
+  "contact_limit": 3,
+  "baseline_evidence": {
+    "confirmed": true,
+    "source_ref": "已检索日本公司目录，无既有contacts/ledger.json；背调未调用Apollo付费enrichment。"
+  },
+  "contacts": [
+    {
+      "kind": "named",
+      "person_key": "JP-C028:apollo:65fee9a390b6ca0007bccdb8",
+      "email": "akihiko.kouya@toyoinkgroup.com",
+      "source_ref": "D:\\02钛白粉外贸\\markets\\JP\\contacts\\JP-CONTACTS-20261022-01\\logs\\evidence\\C-120479162a894b.json",
+      "date": "2026-10-22",
+      "apollo_id": "65fee9a390b6ca0007bccdb8",
+      "name": "Akihiko Koya",
+      "title": "General Manager",
+      "current_employer": "artience group (former Toyo Ink Group)",
+      "location": "Japan",
+      "email_status": "verified",
+      "match_confidence": "high",
+      "request_id": "1027246577606477431",
+      "target_entity_alignment": "review",
+      "limitations": "当前任职仅确认至 artience 集团，个人标题另指向泰国公司；未确认属于トーヨーカラー日本法人。",
+      "delivery_verified": false,
+      "marketing_permission": "未确认"
+    },
+    {
+      "kind": "named",
+      "person_key": "JP-C028:apollo:66a1f7937712c200011d5332",
+      "email": "nozomu.hatano@artiencegroup.com",
+      "source_ref": "D:\\02钛白粉外贸\\markets\\JP\\contacts\\JP-CONTACTS-20261022-01\\logs\\evidence\\C-120479162a894b.json",
+      "date": "2026-10-22",
+      "apollo_id": "66a1f7937712c200011d5332",
+      "name": "Nate Hatano",
+      "title": "General Manager",
+      "current_employer": "artience group (former Toyo Ink Group)",
+      "location": "Tokyo, Japan",
+      "email_status": "verified",
+      "match_confidence": "high",
+      "request_id": "1027246577606477431",
+      "target_entity_alignment": "review",
+      "limitations": "当前任职仅确认至 artience 集团且标题为 Biotech Business Unit；未确认属于トーヨーカラー日本法人。",
+      "delivery_verified": false,
+      "marketing_permission": "未确认"
+    },
+    {
+      "kind": "named",
+      "person_key": "JP-C028:apollo:6741698d4bbef900018fadf1",
+      "email": "hayato.takahashi@artiencegroup.com",
+      "source_ref": "D:\\02钛白粉外贸\\markets\\JP\\contacts\\JP-CONTACTS-20261022-01\\logs\\evidence\\C-120479162a894b.json",
+      "date": "2026-10-22",
+      "apollo_id": "6741698d4bbef900018fadf1",
+      "name": "Hayato Takahashi",
+      "title": "General Manager",
+      "current_employer": "artience group (former Toyo Ink Group)",
+      "location": "Tokyo, Japan",
+      "email_status": "verified",
+      "match_confidence": "high",
+      "request_id": "1027246577606477431",
+      "target_entity_alignment": "review",
+      "limitations": "当前任职仅确认至 artience 集团；未确认属于トーヨーカラー日本法人。",
+      "delivery_verified": false,
+      "marketing_permission": "未确认"
+    }
+  ],
+  "unattributed_emails": [],
+  "operations": [
+    {
+      "operation_id": "OP-JP-C028-PE-e365521e",
+      "batch_id": "JP-CONTACTS-20261022-01",
+      "kind": "people_enrichment",
+      "person_key": "JP-C028:apollo:65fee9a390b6ca0007bccdb8",
+      "max_credits": "1",
+      "actual_credits": "1",
+      "status": "settled",
+      "evidence_ref": "D:\\02钛白粉外贸\\markets\\JP\\contacts\\JP-CONTACTS-20261022-01\\logs\\evidence\\C-120479162a894b.json",
+      "executed": true,
+      "request_id": "1027246577606477431"
+    },
+    {
+      "operation_id": "OP-JP-C028-PE-dd34b1c5",
+      "batch_id": "JP-CONTACTS-20261022-01",
+      "kind": "people_enrichment",
+      "person_key": "JP-C028:apollo:66a1f7937712c200011d5332",
+      "max_credits": "1",
+      "actual_credits": "1",
+      "status": "settled",
+      "evidence_ref": "D:\\02钛白粉外贸\\markets\\JP\\contacts\\JP-CONTACTS-20261022-01\\logs\\evidence\\C-120479162a894b.json",
+      "executed": true,
+      "request_id": "1027246577606477431"
+    },
+    {
+      "operation_id": "OP-JP-C028-PE-00f1aa00",
+      "batch_id": "JP-CONTACTS-20261022-01",
+      "kind": "people_enrichment",
+      "person_key": "JP-C028:apollo:6741698d4bbef900018fadf1",
+      "max_credits": "1",
+      "actual_credits": "1",
+      "status": "settled",
+      "evidence_ref": "D:\\02钛白粉外贸\\markets\\JP\\contacts\\JP-CONTACTS-20261022-01\\logs\\evidence\\C-120479162a894b.json",
+      "executed": true,
+      "request_id": "1027246577606477431"
+    }
+  ],
+  "history": []
+}

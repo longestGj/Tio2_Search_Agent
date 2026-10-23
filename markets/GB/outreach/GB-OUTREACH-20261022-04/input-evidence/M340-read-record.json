@@ -1,0 +1,30 @@
+{
+  "source_path": "D:\\13钛白粉外贸开发之全面重启\\公司资料\\03产品\\7.27 马来全套TDS +应用指南\\7.27\\TDS_M340_IKHLAS_2023V.pdf",
+  "sha256": "9950fce6efca4f11cc4fff81777653ac15028cfce74236873a35eb21feb927ed",
+  "read_by": "主对话",
+  "date": "2026-10-22",
+  "method": "pypdf逐页全文提取＋第1页渲染视觉核对",
+  "pages": 1,
+  "facts": {
+    "grade": "M-340",
+    "process": "chloride process",
+    "type": "rutile",
+    "TiO2_content_typical_percent": 97.0,
+    "TiO2_content_standard_min_percent": 94.0,
+    "oil_absorption_typical_g_per_100g": 15.0,
+    "applications": [
+      "High concentration masterbatch",
+      "High-quality films",
+      "Silk and wire plastics",
+      "Injection plastics",
+      "Moderate durability plastics",
+      "Rubber"
+    ]
+  },
+  "limits": [
+    "文件名含2023V，但正文未见清晰修订日期，不自行登记成V3 2023",
+    "应用表未列密封胶/填缝剂；本轮按用户指定M340，不能称TDS直接列该用途或已适配",
+    "typical properties is not a specification；选事实时保留典型值限定"
+  ],
+  "image": "M340-page1.png"
+}

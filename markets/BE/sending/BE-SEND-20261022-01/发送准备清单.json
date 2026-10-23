@@ -1,0 +1,179 @@
+{
+  "batch_id": "BE-SEND-20261022-01",
+  "prepared_at": "2026-10-22T17:02:44.972339+08:00",
+  "status": "waiting_for_seller_fact_confirmation",
+  "user_request": "现在比利时10家公司都已经完成了开发信了。现在用这个测试开发信发送。",
+  "planned_stage": "Mail 1",
+  "planned_messages": 10,
+  "interval_seconds": 30,
+  "signature_image": "signature.jpg",
+  "signature_sha256": "f5c4bcee5f112533321ae07aef4f20fb5556b512fc59d725feb0f3ecd94afba2",
+  "messages": [
+    {
+      "customer_id": "BE-C001",
+      "draft_id": "BE-C001-JOINT-M1",
+      "to": [
+        "toonbossuyt@boss.be",
+        "alice.maes@boss.be"
+      ],
+      "subject": "Malaysia M-510 TiO2 for BOSS wall paints",
+      "body_file": "BE-C001-Mail1.txt",
+      "attachments": [],
+      "source_path": "D:\\02钛白粉外贸\\markets\\BE\\companies\\BE-C001\\outreach\\BE-OUTREACH-20261022-01\\BE-C001-JOINT-M1.md",
+      "source_sha256": "b0d519df4bd565b0eabdea2e02040c0562135b1cf558a03ea4437e8928fb684f",
+      "content_status": "待补资料",
+      "blockers": [
+        "核对当前EU REACH主体/Only Representative/进口吨位覆盖；2010证书与2026 SDS的代表机构名称不同，且资料为IKHLAS TITANIUM而固定签名为IKHLAS TITANIUM DIOXIDE，需卖方确认关联及现行声明后使用签名。"
+      ]
+    },
+    {
+      "customer_id": "BE-C002",
+      "draft_id": "BE-C002-JOINT-M1",
+      "to": [
+        "hansvanderbeken@aalterpaint.be",
+        "pieterverheyen@aalterpaint.be"
+      ],
+      "subject": "Malaysia M-510 pigment for Aalterpaint's coating review",
+      "body_file": "BE-C002-Mail1.txt",
+      "attachments": [],
+      "source_path": "D:\\02钛白粉外贸\\markets\\BE\\companies\\BE-C002\\outreach\\BE-OUTREACH-20261022-01\\BE-C002-JOINT-M1.md",
+      "source_sha256": "c96edbcda37e759842f768471e39a7e0389955b1b641a1d016bb4a330e507ef0",
+      "content_status": "待补资料",
+      "blockers": [
+        "核对当前EU REACH主体/Only Representative/进口吨位覆盖；2010证书与2026 SDS的代表机构名称不同，且资料为IKHLAS TITANIUM而固定签名为IKHLAS TITANIUM DIOXIDE，需卖方确认关联及现行声明后使用签名。"
+      ]
+    },
+    {
+      "customer_id": "BE-C003",
+      "draft_id": "BE-C003-JOINT-M1",
+      "to": [
+        "steve@sico-inks.com"
+      ],
+      "subject": "Malaysia M-52 TiO2 for SICO printing inks",
+      "body_file": "BE-C003-Mail1.txt",
+      "attachments": [],
+      "source_path": "D:\\02钛白粉外贸\\markets\\BE\\companies\\BE-C003\\outreach\\BE-OUTREACH-20261022-01\\BE-C003-JOINT-M1.md",
+      "source_sha256": "94cf26de8147246213c1b169f45a2aa10cec0721f38cd43fc792967463d9488c",
+      "content_status": "待补资料",
+      "blockers": [
+        "核对当前EU REACH主体/Only Representative/进口吨位覆盖；2010证书与2026 SDS的代表机构名称不同，且资料为IKHLAS TITANIUM而固定签名为IKHLAS TITANIUM DIOXIDE，需卖方确认关联及现行声明后使用签名。"
+      ]
+    },
+    {
+      "customer_id": "BE-C004",
+      "draft_id": "BE-C004-JOINT-M1",
+      "to": [
+        "karin.bruyne@toyoink.eu",
+        "davy.peeters@toyoink.eu"
+      ],
+      "subject": "Malaysia M-52 pigment for Toyo Ink Europe's review",
+      "body_file": "BE-C004-Mail1.txt",
+      "attachments": [],
+      "source_path": "D:\\02钛白粉外贸\\markets\\BE\\companies\\BE-C004\\outreach\\BE-OUTREACH-20261022-01\\BE-C004-JOINT-M1.md",
+      "source_sha256": "10865ce49b175c42ea2aec32837d1068ac1555605bb2f530ead9bfae4d84842b",
+      "content_status": "待补资料",
+      "blockers": [
+        "核对当前EU REACH主体/Only Representative/进口吨位覆盖；2010证书与2026 SDS的代表机构名称不同，且资料为IKHLAS TITANIUM而固定签名为IKHLAS TITANIUM DIOXIDE，需卖方确认关联及现行声明后使用签名。"
+      ]
+    },
+    {
+      "customer_id": "BE-C005",
+      "draft_id": "BE-C005-JOINT-M1",
+      "to": [
+        "sales@cantillana.com"
+      ],
+      "subject": "Malaysia M-510 TiO2 for Cantillana's Limelook review",
+      "body_file": "BE-C005-Mail1.txt",
+      "attachments": [],
+      "source_path": "D:\\02钛白粉外贸\\markets\\BE\\companies\\BE-C005\\outreach\\BE-OUTREACH-20261022-01\\BE-C005-JOINT-M1.md",
+      "source_sha256": "b5f69a2e4717976920721193ce9cf07c5180e9861d5d37ebf93c4b7d9803abfc",
+      "content_status": "待补资料",
+      "blockers": [
+        "核对当前EU REACH主体/Only Representative/进口吨位覆盖；2010证书与2026 SDS的代表机构名称不同，且资料为IKHLAS TITANIUM而固定签名为IKHLAS TITANIUM DIOXIDE，需卖方确认关联及现行声明后使用签名。"
+      ]
+    },
+    {
+      "customer_id": "BE-C006",
+      "draft_id": "BE-C006-JOINT-M1",
+      "to": [
+        "info@rewah.com"
+      ],
+      "subject": "Malaysia M-510 TiO2 for Rewah coating materials",
+      "body_file": "BE-C006-Mail1.txt",
+      "attachments": [],
+      "source_path": "D:\\02钛白粉外贸\\markets\\BE\\companies\\BE-C006\\outreach\\BE-OUTREACH-20261022-01\\BE-C006-JOINT-M1.md",
+      "source_sha256": "4592bc0b174cd680292e32c6da7e655f8624f2f84aa855b2cb2e0a251f84e47c",
+      "content_status": "待补资料",
+      "blockers": [
+        "核对当前EU REACH主体/Only Representative/进口吨位覆盖；2010证书与2026 SDS的代表机构名称不同，且资料为IKHLAS TITANIUM而固定签名为IKHLAS TITANIUM DIOXIDE，需卖方确认关联及现行声明后使用签名。"
+      ]
+    },
+    {
+      "customer_id": "BE-C007",
+      "draft_id": "BE-C007-JOINT-M1",
+      "to": [
+        "wa@kreglinger.com"
+      ],
+      "subject": "Malaysia M-510 for Kreglinger's coatings pigment portfolio",
+      "body_file": "BE-C007-Mail1.txt",
+      "attachments": [],
+      "source_path": "D:\\02钛白粉外贸\\markets\\BE\\companies\\BE-C007\\outreach\\BE-OUTREACH-20261022-01\\BE-C007-JOINT-M1.md",
+      "source_sha256": "502013e37bf567237d614d133333f1a371207dd9762f2e9306b802ded6c75b10",
+      "content_status": "待补资料",
+      "blockers": [
+        "核对当前EU REACH主体/Only Representative/进口吨位覆盖；2010证书与2026 SDS的代表机构名称不同，且资料为IKHLAS TITANIUM而固定签名为IKHLAS TITANIUM DIOXIDE，需卖方确认关联及现行声明后使用签名。"
+      ]
+    },
+    {
+      "customer_id": "BE-C008",
+      "draft_id": "BE-C008-JOINT-M1",
+      "to": [
+        "p.siau@korachem.com",
+        "info@korachem.com"
+      ],
+      "subject": "Malaysia M-510 pigment for Korachem coating assessment",
+      "body_file": "BE-C008-Mail1.txt",
+      "attachments": [],
+      "source_path": "D:\\02钛白粉外贸\\markets\\BE\\companies\\BE-C008\\outreach\\BE-OUTREACH-20261022-01\\BE-C008-JOINT-M1.md",
+      "source_sha256": "40a340155f43d22dc93d565990c35c99d79afe1406f2865422ef9b9a144d0b4a",
+      "content_status": "待补资料",
+      "blockers": [
+        "核对当前EU REACH主体/Only Representative/进口吨位覆盖；2010证书与2026 SDS的代表机构名称不同，且资料为IKHLAS TITANIUM而固定签名为IKHLAS TITANIUM DIOXIDE，需卖方确认关联及现行声明后使用签名。"
+      ]
+    },
+    {
+      "customer_id": "BE-C009",
+      "draft_id": "BE-C009-JOINT-M1",
+      "to": [
+        "caroline@raffplastics.be",
+        "sam.bruwier@raffplastics.be",
+        "christophe@raffplastics.be"
+      ],
+      "subject": "Malaysia M-340 TiO2 for RAFF's custom-colour compounds",
+      "body_file": "BE-C009-Mail1.txt",
+      "attachments": [],
+      "source_path": "D:\\02钛白粉外贸\\markets\\BE\\companies\\BE-C009\\outreach\\BE-OUTREACH-20261022-01\\BE-C009-JOINT-M1.md",
+      "source_sha256": "eaa44b22518f722ccaf510bf87cdb2fbeaa00393aa9ba84fcf9bfc508206ba3c",
+      "content_status": "待补资料",
+      "blockers": [
+        "核对当前EU REACH主体/Only Representative/进口吨位覆盖；2010证书与2026 SDS的代表机构名称不同，且资料为IKHLAS TITANIUM而固定签名为IKHLAS TITANIUM DIOXIDE，需卖方确认关联及现行声明后使用签名。"
+      ]
+    },
+    {
+      "customer_id": "BE-C010",
+      "draft_id": "BE-C010-JOINT-M1",
+      "to": [
+        "gerjan.assink@ampacet.com"
+      ],
+      "subject": "Malaysia M-340 TiO2 for Ampacet's EMEA review",
+      "body_file": "BE-C010-Mail1.txt",
+      "attachments": [],
+      "source_path": "D:\\02钛白粉外贸\\markets\\BE\\companies\\BE-C010\\outreach\\BE-OUTREACH-20261022-01\\BE-C010-JOINT-M1.md",
+      "source_sha256": "38b637cd8a4a1ed4bb2977e302297b268c889390e7c14c2b7080b77697c4b106",
+      "content_status": "待补资料",
+      "blockers": [
+        "核对当前EU REACH主体/Only Representative/进口吨位覆盖；2010证书与2026 SDS的代表机构名称不同，且资料为IKHLAS TITANIUM而固定签名为IKHLAS TITANIUM DIOXIDE，需卖方确认关联及现行声明后使用签名。"
+      ]
+    }
+  ]
+}

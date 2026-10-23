@@ -1,0 +1,21 @@
+{
+  "schema": 1,
+  "company_key": "PE:PE-C062",
+  "workflow_id": "PE-C062-contacts",
+  "customer_ids": [
+    "PE-C062"
+  ],
+  "aliases": [
+    "Pinturasol",
+    "pinturasol.com"
+  ],
+  "credit_limit": "3",
+  "contact_limit": 3,
+  "baseline_evidence": {
+    "confirmed": true,
+    "source_ref": "D:/02钛白粉外贸/markets/PE/companies/PE-C062/Pinturasol_背调报告_2026-10-22.md；源背调明确无Apollo/付费；接收查阅指定14公司目录无旧组织/邮箱/contacts账本；本次为该本地联系人流程起点，不声称账户历史零消费"
+  },
+  "contacts": [],
+  "operations": [],
+  "history": []
+}

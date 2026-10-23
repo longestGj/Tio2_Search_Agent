@@ -1,0 +1,67 @@
+{
+  "schema": 1,
+  "company_key": "BE:BE-C003",
+  "workflow_id": "BE-contacts-BE-C003",
+  "customer_ids": [
+    "BE-C003"
+  ],
+  "aliases": [
+    "SICO Screen Inks"
+  ],
+  "credit_limit": "3",
+  "contact_limit": 3,
+  "baseline_evidence": {
+    "confirmed": true,
+    "source_ref": "核对markets/BE/companies及contacts，无既有联系人账本/组织邮箱报告；D:\\02钛白粉外贸\\markets\\BE\\due-diligence\\BE-DD-20261022-01\\_work\\research-handoff.json明确背调Apollo付费0；原具名邮箱按实导入"
+  },
+  "contacts": [
+    {
+      "kind": "public",
+      "email": "info@sico-inks.com",
+      "source_ref": "D:\\02钛白粉外贸\\markets\\BE\\companies\\BE-C003\\SICO_Screen_Inks_背调报告_2026-10-22.md O/L公开入口",
+      "date": "2026-10-22"
+    },
+    {
+      "person_key": "BE-C003:apollo:6150733d7db5f70001b7b77a",
+      "kind": "named",
+      "name": "Steve Van Vaerenbergh",
+      "email": "steve@sico-inks.com",
+      "source_ref": "D:/02钛白粉外贸/markets/BE/contacts/BE-CONTACTS-20261022-01/logs/evidence/BE-ENRICH-G1-20261022.json Apollo people bulk match id 6150733d7db5f70001b7b77a request_id 7757118278113307596",
+      "date": "2026-10-22",
+      "email_status": "verified",
+      "match_confidence": "high",
+      "email_domain_catchall": true,
+      "email_domain_catchall_verdict": "allow",
+      "linkedin_url": "http://www.linkedin.com/in/steve-van-vaerenbergh-6494131b0",
+      "title": "Manager/management",
+      "organization": "Sico Screen Inks"
+    }
+  ],
+  "unattributed_emails": [],
+  "operations": [
+    {
+      "operation_id": "BE-OP-BE-C003-C01-01",
+      "batch_id": "BE-CONTACTS-20261022-01",
+      "kind": "people_enrichment",
+      "person_key": "BE-C003:apollo:6150733d7db5f70001b7b77a",
+      "max_credits": "1",
+      "actual_credits": "1",
+      "status": "settled",
+      "evidence_ref": "D:/02钛白粉外贸/markets/BE/contacts/BE-CONTACTS-20261022-01/logs/evidence/BE-ENRICH-G1-20261022.json request_id 7757118278113307596 同一ID成功匹配；实时费率每匹配1 credit，返回总credits_consumed=10，全部10人匹配；非账户差额分摊",
+      "created_at": "2026-10-22T16:15:01+08:00",
+      "settled_at": "2026-10-22T16:15:58+08:00",
+      "request_id": "7757118278113307596",
+      "executed": true
+    }
+  ],
+  "history": [
+    {
+      "path": "D:/02钛白粉外贸/markets/BE/companies/BE-C003/contacts/history/20261022-161501-ledger-18754/ledger.json",
+      "sha256": "cbf327453af1ac2f6d9f0b40fda10d85e8540551f96e61e86dc264a84b833595"
+    },
+    {
+      "path": "D:/02钛白粉外贸/markets/BE/companies/BE-C003/contacts/history/20261022-161558-ledger-cc821/ledger.json",
+      "sha256": "792407bfb40c428fc319580738f342ef84d60bbce22e85777008e9513574a24c"
+    }
+  ]
+}

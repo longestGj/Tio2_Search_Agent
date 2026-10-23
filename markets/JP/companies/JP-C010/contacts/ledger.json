@@ -1,0 +1,54 @@
+{
+  "schema": 1,
+  "company_key": "JP:JP-C010",
+  "workflow_id": "JP-contacts-JP-C010",
+  "customer_ids": [
+    "JP-C010"
+  ],
+  "aliases": [
+    "帝国インキ製造株式会社"
+  ],
+  "credit_limit": "3",
+  "contact_limit": 3,
+  "baseline_evidence": {
+    "confirmed": true,
+    "source_ref": "已检索日本公司目录，无既有contacts/ledger.json；背调未调用Apollo付费enrichment。"
+  },
+  "contacts": [
+    {
+      "kind": "named",
+      "person_key": "JP-C010:apollo:6777bc427c927000010386c3",
+      "email": "kkinoshita@teikokuink.com",
+      "source_ref": "D:\\02钛白粉外贸\\markets\\JP\\contacts\\JP-CONTACTS-20261022-01\\logs\\evidence\\C-120479162a894b.json",
+      "date": "2026-10-22",
+      "apollo_id": "6777bc427c927000010386c3",
+      "name": "Kenji Kinoshita",
+      "title": "Executive Officer",
+      "current_employer": "Teikoku Printing Inks Mfg. Co., Ltd",
+      "location": "Tokyo, Japan",
+      "email_status": "verified",
+      "match_confidence": "high",
+      "request_id": "1027246577606477431",
+      "target_entity_alignment": "direct",
+      "limitations": "当前任职与日本目标主体帝国インキ製造一致，所在地日本。",
+      "delivery_verified": false,
+      "marketing_permission": "未确认"
+    }
+  ],
+  "unattributed_emails": [],
+  "operations": [
+    {
+      "operation_id": "OP-JP-C010-PE-fc480d60",
+      "batch_id": "JP-CONTACTS-20261022-01",
+      "kind": "people_enrichment",
+      "person_key": "JP-C010:apollo:6777bc427c927000010386c3",
+      "max_credits": "1",
+      "actual_credits": "1",
+      "status": "settled",
+      "evidence_ref": "D:\\02钛白粉外贸\\markets\\JP\\contacts\\JP-CONTACTS-20261022-01\\logs\\evidence\\C-120479162a894b.json",
+      "executed": true,
+      "request_id": "1027246577606477431"
+    }
+  ],
+  "history": []
+}

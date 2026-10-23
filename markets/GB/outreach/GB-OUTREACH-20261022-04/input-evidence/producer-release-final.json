@@ -1,0 +1,41 @@
+{
+  "kind": "independent_producer_final_release_record",
+  "producer": "/root/gb_outreach_prerequisite",
+  "evidence": "生产者最终消息确认两家公司已完成并停止写入；主对话回读最终checkpoint并核对两份报告SHA256",
+  "supersedes": "producer-release-barrettine.json仅保留早期释放历史，以本记录最终报告指纹为准",
+  "change_reason": "来源表URL格式修复及同URL合并，事实与业务结论未变；下游须登记输入变化",
+  "sources": [
+    {
+      "path": "D:/02钛白粉外贸/markets/GB/due-diligence/GB-DD-20261022-01/logs/checkpoint.json",
+      "sha256": "a059bb4b14402754e7479d6cf4e20afb5b903a25f9327419c6f535f1cfd4421a"
+    },
+    {
+      "path": "D:/02钛白粉外贸/markets/GB/due-diligence/GB-DD-20261022-01/01_批次进度.md",
+      "sha256": "f543d51cbb7742bec7be05b750d8fab2b2682e26e3e5461cd3475d0d6d943830"
+    }
+  ],
+  "companies": [
+    {
+      "report": {
+        "path": "D:\\02钛白粉外贸\\markets\\GB\\companies\\barrettine-products-ltd\\Barrettine_Products_Ltd_背调报告_2026-10-21.md",
+        "sha256": "6ff2eb66f1b9266bf23ec5c0382e23fd2a3b5768e853f984f1b4839954f00489"
+      },
+      "released": true,
+      "customer_id": "TIO2-GB-0325CD2C0C",
+      "execution_status": "completed",
+      "business_conclusion": "继续开发",
+      "method": "supplemented"
+    },
+    {
+      "report": {
+        "path": "D:\\02钛白粉外贸\\markets\\GB\\companies\\bartoline-ltd\\Bartoline_Ltd_背调报告_2026-10-21.md",
+        "sha256": "02f201e62175e5b1e16308a21b92103a9b932e16d2d708cbee3a4d5114f5870a"
+      },
+      "released": true,
+      "customer_id": "TIO2-GB-C36CD8CD4B",
+      "execution_status": "completed",
+      "business_conclusion": "继续开发",
+      "method": "supplemented"
+    }
+  ]
+}

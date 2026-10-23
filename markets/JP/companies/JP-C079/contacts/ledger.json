@@ -1,0 +1,35 @@
+{
+  "schema": 1,
+  "company_key": "JP:JP-C079",
+  "workflow_id": "JP-contacts-JP-C079",
+  "customer_ids": [
+    "JP-C079"
+  ],
+  "aliases": [
+    "BETTER BLUE株式会社"
+  ],
+  "credit_limit": "3",
+  "contact_limit": 3,
+  "baseline_evidence": {
+    "confirmed": true,
+    "source_ref": "已检索日本公司目录，无既有contacts/ledger.json；背调未调用Apollo付费enrichment。"
+  },
+  "contacts": [
+    {
+      "kind": "public",
+      "email": "20250508x@gmail.com",
+      "category": "通用",
+      "department": "官网公示业务入口（未标部门）",
+      "source_ref": "BETTER BLUE株式会社_背调报告_2026-10-22.md（O01）",
+      "source_url": "https://www.betterblue.co.jp/",
+      "source_date": "页面未标日期",
+      "date": "2026-10-22",
+      "delivery_validation": "未验证投递",
+      "marketing_permission": "第三方Gmail域名但由官网公开；用途及营销许可未标；不归给个人",
+      "attribution": "公共部门/通用邮箱，不归给个人"
+    }
+  ],
+  "unattributed_emails": [],
+  "operations": [],
+  "history": []
+}

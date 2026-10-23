@@ -1,0 +1,94 @@
+{
+  "schema": 1,
+  "company_key": "PE:PE-C052",
+  "workflow_id": "PE-C052-contacts",
+  "customer_ids": [
+    "PE-C052"
+  ],
+  "aliases": [
+    "Conte Group",
+    "contegroup.org"
+  ],
+  "credit_limit": "3",
+  "contact_limit": 3,
+  "baseline_evidence": {
+    "confirmed": true,
+    "source_ref": "D:/02钛白粉外贸/markets/PE/companies/PE-C052/Conte Group_背调报告_2026-10-22.md；源背调明确无Apollo/付费；接收查阅指定14公司目录无旧组织/邮箱/contacts账本；本次为该本地联系人流程起点，不声称账户历史零消费"
+  },
+  "contacts": [
+    {
+      "kind": "public",
+      "email": "atencionalcliente@contegroup.org",
+      "source_ref": "D:/02钛白粉外贸/markets/PE/companies/PE-C052/Conte Group_背调报告_2026-10-22.md",
+      "date": "2026-10-22"
+    },
+    {
+      "kind": "named",
+      "email": "jtokumura@contegroup.org",
+      "source_ref": "D:/02钛白粉外贸/markets/PE/contacts/PE-CONTACTS-20261022-01/logs/evidence/BULK-01.json",
+      "date": "2026-10-22",
+      "name": "Javier Tokumura Tokumura",
+      "apollo_id": "61012be1992b480001227da7",
+      "email_status": "verified",
+      "association_note": "Apollo人员ID匹配；未投递验证",
+      "person_key": "apollo:61012be1992b480001227da7"
+    }
+  ],
+  "operations": [
+    {
+      "operation_id": "BULK-01-PE-C052-P01",
+      "batch_id": "PE-CONTACTS-20261022-01",
+      "kind": "people_enrichment",
+      "person_key": "apollo:612848f9af4a2f0001f21152",
+      "max_credits": "1",
+      "actual_credits": "1",
+      "status": "settled",
+      "reserved_at": "2026-10-22T11:54:28.286005+08:00",
+      "executed": true,
+      "evidence_ref": "D:/02钛白粉外贸/markets/PE/contacts/PE-CONTACTS-20261022-01/logs/evidence/BULK-01.json",
+      "request_id": "-6267782399058203716",
+      "settled_at": "2026-10-22T11:56:12.691733+08:00",
+      "cost_basis": "本次所有请求ID逐一匹配，工具定义每匹配1credit；原始credits_consumed总数与逐ID之和一致，不按余额差分摊"
+    },
+    {
+      "operation_id": "BULK-01-PE-C052-P02",
+      "batch_id": "PE-CONTACTS-20261022-01",
+      "kind": "people_enrichment",
+      "person_key": "apollo:6627916fde2e58000753203b",
+      "max_credits": "1",
+      "actual_credits": "1",
+      "status": "settled",
+      "reserved_at": "2026-10-22T11:54:28.286005+08:00",
+      "executed": true,
+      "evidence_ref": "D:/02钛白粉外贸/markets/PE/contacts/PE-CONTACTS-20261022-01/logs/evidence/BULK-01.json",
+      "request_id": "-6267782399058203716",
+      "settled_at": "2026-10-22T11:56:12.691733+08:00",
+      "cost_basis": "本次所有请求ID逐一匹配，工具定义每匹配1credit；原始credits_consumed总数与逐ID之和一致，不按余额差分摊"
+    },
+    {
+      "operation_id": "BULK-01-PE-C052-P03",
+      "batch_id": "PE-CONTACTS-20261022-01",
+      "kind": "people_enrichment",
+      "person_key": "apollo:61012be1992b480001227da7",
+      "max_credits": "1",
+      "actual_credits": "1",
+      "status": "settled",
+      "reserved_at": "2026-10-22T11:54:28.286005+08:00",
+      "executed": true,
+      "evidence_ref": "D:/02钛白粉外贸/markets/PE/contacts/PE-CONTACTS-20261022-01/logs/evidence/BULK-01.json",
+      "request_id": "-6267782399058203716",
+      "settled_at": "2026-10-22T11:56:12.691733+08:00",
+      "cost_basis": "本次所有请求ID逐一匹配，工具定义每匹配1credit；原始credits_consumed总数与逐ID之和一致，不按余额差分摊"
+    }
+  ],
+  "history": [
+    {
+      "path": "D:/02钛白粉外贸/markets/PE/companies/PE-C052/contacts/history/2026-10-22T11-54-28.282365+08-00/ledger.json",
+      "sha256": "7ae24f6e3f21ad44899122d8a046edb9a915ef7ffc2c96c0f71f6dbcf914ef76"
+    },
+    {
+      "path": "D:/02钛白粉外贸/markets/PE/companies/PE-C052/contacts/history/2026-10-22T11-56-12.688655+08-00/ledger.json",
+      "sha256": "e1aca508b6a50dd44689d762c10e419dd149f60e880036ca9622960ea351e5f5"
+    }
+  ]
+}
