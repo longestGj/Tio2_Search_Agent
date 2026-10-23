@@ -1,0 +1,26 @@
+# Local archives and temporary workspaces
+/备份/
+/tmp/
+**/history/
+**/__pycache__/
+*.py[cod]
+
+# Credentials and mailbox originals
+.env
+.env.*
+**/.env
+**/.env.*
+*.pem
+*.key
+*.pfx
+*.p12
+*.eml
+**/scheduled_emails.json
+**/inbox-evidence/
+**/sent-evidence/
+
+# Raw execution captures and local validation snapshots
+**/logs/
+**/_work/
+/docs/agent-team/validation-evidence/
+/docs/sync/github-publish-*/

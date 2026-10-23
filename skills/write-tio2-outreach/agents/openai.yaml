@@ -1,0 +1,6 @@
+interface:
+  display_name: "MYtio2 开发信写作"
+  short_description: "按完整Mail Group SOP起草、修订开发信并保存依据与逐封状态"
+  icon_small: "./assets/icon.svg"
+  icon_large: "./assets/icon.svg"
+  default_prompt: "使用 $write-tio2-outreach，依据指定客户、联系人和产品资料起草所需阶段的开发信，逐封复核并保存本地Markdown。"

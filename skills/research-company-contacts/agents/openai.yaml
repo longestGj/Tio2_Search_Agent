@@ -1,13 +1,13 @@
 interface:
-  display_name: 公司组织结构与联系人邮箱
-  short_description: 梳理组织结构，自动筛选每家公司最多3位邮箱联系人并保存两份报告
-  default_prompt: 使用 $research-company-contacts，执行下一家公司的发掘，自动选择最相关联系人，每家公司累计最多获取3位工作邮箱并保存两份报告。
-  icon_small: assets/icon.svg
-  icon_large: assets/icon.svg
+  display_name: "公司组织结构与联系人邮箱"
+  short_description: "完整调查组织与人员，自动选取最多3位联系人，每公司最多3 credits"
+  default_prompt: "使用 $research-company-contacts 处理指定公司或批次，采购和管理优先，每公司最多3位联系人及3 credits，保存完整组织与邮箱报告。"
+  icon_small: "assets/icon.svg"
+  icon_large: "assets/icon.svg"
 policy:
   products:
-  - chatgpt
-  - codex
-  - api
-  - atlas
+  - "chatgpt"
+  - "codex"
+  - "api"
+  - "atlas"
   allow_implicit_invocation: true

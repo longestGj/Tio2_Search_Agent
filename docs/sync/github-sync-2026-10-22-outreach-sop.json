@@ -1,0 +1,519 @@
+{
+  "repository": "https://github.com/longestGj/Tio2_Search_Agent",
+  "branch": "main",
+  "previous_commit": "aa99ddf7583dee0cd7b6e8a472aa7b65aa802634",
+  "commit": "e777f8020df77f9824954359f1f9e4d7ccc1cd7d",
+  "synced_at": "2026-10-22T11:25:01.323160+08:00",
+  "upstream_snapshot": "D:\\02钛白粉外贸\\备份\\2026-10-22_GitHub同步_02\\upstream",
+  "files": [
+    {
+      "path": "markets/GB/README.md",
+      "git_blob_sha": "b584f54b41f889d488a5f58a0f5e14a51bb1a473",
+      "source_sha256": "943342cd68fb47f10bb98db596d10c12777b1b3e1850abd570cf0a1d4aad8e9b",
+      "before_sha256": "943342cd68fb47f10bb98db596d10c12777b1b3e1850abd570cf0a1d4aad8e9b",
+      "after_sha256": "943342cd68fb47f10bb98db596d10c12777b1b3e1850abd570cf0a1d4aad8e9b",
+      "action": "same"
+    },
+    {
+      "path": "markets/GB/companies/annie-sloan-interiors-ltd/Annie_Sloan_Interiors_Ltd_组织结构_2026-10-21.md",
+      "git_blob_sha": "0932cea35e2a1424ceecc3a3eb7a47e0e0894501",
+      "source_sha256": "70abd4f3f234c1eb8e19ebf6c3b6af194d1a8408204a1c81ffc1d7644bc7a06b",
+      "before_sha256": "70abd4f3f234c1eb8e19ebf6c3b6af194d1a8408204a1c81ffc1d7644bc7a06b",
+      "after_sha256": "70abd4f3f234c1eb8e19ebf6c3b6af194d1a8408204a1c81ffc1d7644bc7a06b",
+      "action": "same"
+    },
+    {
+      "path": "markets/GB/companies/annie-sloan-interiors-ltd/Annie_Sloan_Interiors_Ltd_联系人邮箱_2026-10-21.md",
+      "git_blob_sha": "5176460f639e13b5d8c80ac711788fa2b5a828db",
+      "source_sha256": "4bd2cdd4b85990afef2a440f6a5b88a2c75f51034f8b11d1aceb2400640c5cd8",
+      "before_sha256": "4bd2cdd4b85990afef2a440f6a5b88a2c75f51034f8b11d1aceb2400640c5cd8",
+      "after_sha256": "4bd2cdd4b85990afef2a440f6a5b88a2c75f51034f8b11d1aceb2400640c5cd8",
+      "action": "same"
+    },
+    {
+      "path": "markets/GB/companies/annie-sloan-interiors-ltd/Annie_Sloan_Interiors_Ltd_背调报告_2026-10-21.md",
+      "git_blob_sha": "a47d5f4d18ceca34c672b97e2889bb33f7e43fcd",
+      "source_sha256": "956911200d8c94bba2a830eec985536a78252b658804906482990f7b407d33a9",
+      "before_sha256": "956911200d8c94bba2a830eec985536a78252b658804906482990f7b407d33a9",
+      "after_sha256": "956911200d8c94bba2a830eec985536a78252b658804906482990f7b407d33a9",
+      "action": "same"
+    },
+    {
+      "path": "markets/GB/companies/annie-sloan-interiors-ltd/Annie_Sloan_Shahriar_Mail_1_2_2026-10-21.md",
+      "git_blob_sha": "e895da26f36008195fac455c3fda905f3ba504ff",
+      "source_sha256": "d1c8ecdb43ad98681a86814626ecca175a87783d8cd62df8ae3017301da7b379",
+      "before_sha256": "d1c8ecdb43ad98681a86814626ecca175a87783d8cd62df8ae3017301da7b379",
+      "after_sha256": "d1c8ecdb43ad98681a86814626ecca175a87783d8cd62df8ae3017301da7b379",
+      "action": "same"
+    },
+    {
+      "path": "markets/GB/companies/apticem-devine-chemicals/AptiCem_Devine_Chemicals_背调报告_2026-10-21.md",
+      "git_blob_sha": "35c48202e63d56e73868c023917fd517f4b72604",
+      "source_sha256": "9ccec28df39127dfa9ebf101f4acbfeb6a9c1357c64ad8188f4c671b9f8cc1f1",
+      "before_sha256": "9ccec28df39127dfa9ebf101f4acbfeb6a9c1357c64ad8188f4c671b9f8cc1f1",
+      "after_sha256": "9ccec28df39127dfa9ebf101f4acbfeb6a9c1357c64ad8188f4c671b9f8cc1f1",
+      "action": "same"
+    },
+    {
+      "path": "markets/GB/companies/bailey-paints-ltd/Bailey_Paints_Ltd_组织结构_2026-10-21.md",
+      "git_blob_sha": "5192659fbf5560eddd3be6e55a741430d0490c37",
+      "source_sha256": "0d76606e5dc43de3a933b6c8189245c5ff182ff2ee0bb95a5fef15811f59ceed",
+      "before_sha256": "0d76606e5dc43de3a933b6c8189245c5ff182ff2ee0bb95a5fef15811f59ceed",
+      "after_sha256": "0d76606e5dc43de3a933b6c8189245c5ff182ff2ee0bb95a5fef15811f59ceed",
+      "action": "same"
+    },
+    {
+      "path": "markets/GB/companies/bailey-paints-ltd/Bailey_Paints_Ltd_联系人邮箱_2026-10-21.md",
+      "git_blob_sha": "94f9c8a3045790961c709f2f6150d2bfb4c20530",
+      "source_sha256": "836f47654beefdfdc1cd25291d93d83e1529e9e25bba28f22951ddaf8ee2331a",
+      "before_sha256": "836f47654beefdfdc1cd25291d93d83e1529e9e25bba28f22951ddaf8ee2331a",
+      "after_sha256": "836f47654beefdfdc1cd25291d93d83e1529e9e25bba28f22951ddaf8ee2331a",
+      "action": "same"
+    },
+    {
+      "path": "markets/GB/companies/bailey-paints-ltd/Bailey_Paints_Ltd_背调报告_2026-10-21.md",
+      "git_blob_sha": "a98d5c91405b32fffd44be18b1d9047cfb346916",
+      "source_sha256": "3f301cbfa74afeadc06182e8286c561775d3c607c8c4e258fb2f092755b35559",
+      "before_sha256": "3f301cbfa74afeadc06182e8286c561775d3c607c8c4e258fb2f092755b35559",
+      "after_sha256": "3f301cbfa74afeadc06182e8286c561775d3c607c8c4e258fb2f092755b35559",
+      "action": "same"
+    },
+    {
+      "path": "markets/GB/companies/barrettine-products-ltd/Barrettine_Products_Ltd_组织结构_2026-10-21.md",
+      "git_blob_sha": "dcbe3047ddd61181e46c015b173bc990a232f43a",
+      "source_sha256": "085ccb5710174b93caaf6637ab8b4f5a485d075ca227488a8153811242591540",
+      "before_sha256": "085ccb5710174b93caaf6637ab8b4f5a485d075ca227488a8153811242591540",
+      "after_sha256": "085ccb5710174b93caaf6637ab8b4f5a485d075ca227488a8153811242591540",
+      "action": "same"
+    },
+    {
+      "path": "markets/GB/companies/barrettine-products-ltd/Barrettine_Products_Ltd_联系人邮箱_2026-10-21.md",
+      "git_blob_sha": "85ae7a2affaaf9770fe46b419aa3c4739e0acc4d",
+      "source_sha256": "3288d02a4b20832faed9b419b4b17f56cef09cb58a50edb0e0eb3dfdac055bde",
+      "before_sha256": "3288d02a4b20832faed9b419b4b17f56cef09cb58a50edb0e0eb3dfdac055bde",
+      "after_sha256": "3288d02a4b20832faed9b419b4b17f56cef09cb58a50edb0e0eb3dfdac055bde",
+      "action": "same"
+    },
+    {
+      "path": "markets/GB/companies/barrettine-products-ltd/Barrettine_Products_Ltd_背调报告_2026-10-21.md",
+      "git_blob_sha": "2d9abee3dacaa9083540e38fd962c580127fe17b",
+      "source_sha256": "ee11e043412412910e012a1ee45abcb1e9bc2809a05f91922047b69388f92cf2",
+      "before_sha256": "ee11e043412412910e012a1ee45abcb1e9bc2809a05f91922047b69388f92cf2",
+      "after_sha256": "ee11e043412412910e012a1ee45abcb1e9bc2809a05f91922047b69388f92cf2",
+      "action": "same"
+    },
+    {
+      "path": "markets/GB/companies/bartoline-ltd/Bartoline_Ltd_组织结构_2026-10-21.md",
+      "git_blob_sha": "1bafcf4d58adfe1394ab683521c962f82da2e289",
+      "source_sha256": "5204cdc6486f6aa1af960fa0c0cb2af70fd3bba931bb6f0c1c988128bfec0713",
+      "before_sha256": "5204cdc6486f6aa1af960fa0c0cb2af70fd3bba931bb6f0c1c988128bfec0713",
+      "after_sha256": "5204cdc6486f6aa1af960fa0c0cb2af70fd3bba931bb6f0c1c988128bfec0713",
+      "action": "same"
+    },
+    {
+      "path": "markets/GB/companies/bartoline-ltd/Bartoline_Ltd_联系人邮箱_2026-10-21.md",
+      "git_blob_sha": "2da5bd66e5ddcd3fc7e6d504835905664ba9b330",
+      "source_sha256": "94720e2d3690cdad8e92c56302d1335c453fd29b4d9c0a244b2cb575fd192b4a",
+      "before_sha256": "94720e2d3690cdad8e92c56302d1335c453fd29b4d9c0a244b2cb575fd192b4a",
+      "after_sha256": "94720e2d3690cdad8e92c56302d1335c453fd29b4d9c0a244b2cb575fd192b4a",
+      "action": "same"
+    },
+    {
+      "path": "markets/GB/companies/bartoline-ltd/Bartoline_Ltd_背调报告_2026-10-21.md",
+      "git_blob_sha": "ec413faf97beac60c60ded26647bdff3588dda41",
+      "source_sha256": "50ee7eec2121a2d0b8b25d2aeec8f11a5e8dd34338facdc2754c3f0d1646b4d2",
+      "before_sha256": "50ee7eec2121a2d0b8b25d2aeec8f11a5e8dd34338facdc2754c3f0d1646b4d2",
+      "after_sha256": "50ee7eec2121a2d0b8b25d2aeec8f11a5e8dd34338facdc2754c3f0d1646b4d2",
+      "action": "same"
+    },
+    {
+      "path": "markets/GB/companies/becker-industrial-coatings-ltd/Becker_Industrial_Coatings_Ltd_组织结构_2026-10-21.md",
+      "git_blob_sha": "17dfbd03dbb08dd1d7933f862d52a61482b01bf2",
+      "source_sha256": "4405aa75460e9ccbebb3ced862cd1e00e51e897b5988a27931e62f746c10b391",
+      "before_sha256": "4405aa75460e9ccbebb3ced862cd1e00e51e897b5988a27931e62f746c10b391",
+      "after_sha256": "4405aa75460e9ccbebb3ced862cd1e00e51e897b5988a27931e62f746c10b391",
+      "action": "same"
+    },
+    {
+      "path": "markets/GB/companies/becker-industrial-coatings-ltd/Becker_Industrial_Coatings_Ltd_联系人邮箱_2026-10-21.md",
+      "git_blob_sha": "cf5ece38f4817bcb3dbe8b329e2135817fdc2435",
+      "source_sha256": "7b7417f9f5fd4927a8c31a9f39f69d2c38260290620d1c81b2808ec097dea893",
+      "before_sha256": "7b7417f9f5fd4927a8c31a9f39f69d2c38260290620d1c81b2808ec097dea893",
+      "after_sha256": "7b7417f9f5fd4927a8c31a9f39f69d2c38260290620d1c81b2808ec097dea893",
+      "action": "same"
+    },
+    {
+      "path": "markets/GB/companies/becker-industrial-coatings-ltd/Becker_Industrial_Coatings_Ltd_背调报告_2026-10-21.md",
+      "git_blob_sha": "ea488b818103941e614bed419c211c5b79c9b327",
+      "source_sha256": "3f9862833bdb2d5312d1e7216c57af190a946d5c5b5d40d79dfc1dc560024b63",
+      "before_sha256": "3f9862833bdb2d5312d1e7216c57af190a946d5c5b5d40d79dfc1dc560024b63",
+      "after_sha256": "3f9862833bdb2d5312d1e7216c57af190a946d5c5b5d40d79dfc1dc560024b63",
+      "action": "same"
+    },
+    {
+      "path": "markets/GB/companies/belzona-polymerics-ltd/Belzona_Polymerics_Ltd_背调报告_2026-10-21.md",
+      "git_blob_sha": "f3fb8b43a1ffcebf8be7fe295c633f570efb80d1",
+      "source_sha256": "11cccfdf55187d4acd2cae443076a3a398f08b3efae6de0f9db2985b3fb15a6b",
+      "before_sha256": "11cccfdf55187d4acd2cae443076a3a398f08b3efae6de0f9db2985b3fb15a6b",
+      "after_sha256": "11cccfdf55187d4acd2cae443076a3a398f08b3efae6de0f9db2985b3fb15a6b",
+      "action": "same"
+    },
+    {
+      "path": "markets/GB/companies/benvic-dugdale/Benvic_Dugdale_背调报告_2026-10-21.md",
+      "git_blob_sha": "be9b69c46dd3d63f9ceea915b1eedb35765cbd64",
+      "source_sha256": "2faa6bd45b72cce961eba2e1449f7a81d911765fe4431fe5bf7caa7ce7b07cf0",
+      "before_sha256": "2faa6bd45b72cce961eba2e1449f7a81d911765fe4431fe5bf7caa7ce7b07cf0",
+      "after_sha256": "2faa6bd45b72cce961eba2e1449f7a81d911765fe4431fe5bf7caa7ce7b07cf0",
+      "action": "same"
+    },
+    {
+      "path": "markets/GB/companies/bondloc-uk-ltd/Bondloc_UK_Ltd_背调报告_2026-10-21.md",
+      "git_blob_sha": "552992b8ca5c5e77722cce173ff42c85d0cc536f",
+      "source_sha256": "a11fbc5ea986853490f8d17054a5b298396b197e792e45ea3a80594489e69fa5",
+      "before_sha256": "a11fbc5ea986853490f8d17054a5b298396b197e792e45ea3a80594489e69fa5",
+      "after_sha256": "a11fbc5ea986853490f8d17054a5b298396b197e792e45ea3a80594489e69fa5",
+      "action": "same"
+    },
+    {
+      "path": "markets/GB/source-lists/agent05_handoff.csv",
+      "git_blob_sha": "22b378a63216f5bf042b28b3856470f7fcf364fe",
+      "source_sha256": "179ecdb72c2cbfcc58f74fa46778cdb65a964de59b08fb6f23156a7bb9cbd84b",
+      "before_sha256": "179ecdb72c2cbfcc58f74fa46778cdb65a964de59b08fb6f23156a7bb9cbd84b",
+      "after_sha256": "179ecdb72c2cbfcc58f74fa46778cdb65a964de59b08fb6f23156a7bb9cbd84b",
+      "action": "same"
+    },
+    {
+      "path": "markets/GB/source-manifest.json",
+      "git_blob_sha": "4ce45c16d8cf20ce9ff1fa0436b9639d005cee57",
+      "source_sha256": "f04c2f0178dc261d959c81bcfd1b0f0b2079c1922f09949eff3bef294e47e762",
+      "before_sha256": "f04c2f0178dc261d959c81bcfd1b0f0b2079c1922f09949eff3bef294e47e762",
+      "after_sha256": "f04c2f0178dc261d959c81bcfd1b0f0b2079c1922f09949eff3bef294e47e762",
+      "action": "same"
+    },
+    {
+      "path": "markets/JP/README.md",
+      "git_blob_sha": "bc36dad3468f2a9fde4389e25deff0e65096d6b7",
+      "source_sha256": "9075aa06f3281175cf4200b62c51953e30b3de0cea141d71074b14c79ec4a0ab",
+      "before_sha256": "ac9ce473f8b35493429611de11d96c8cfe5402e6be04e2654aa224b2be0d6686",
+      "after_sha256": "ac9ce473f8b35493429611de11d96c8cfe5402e6be04e2654aa224b2be0d6686",
+      "action": "preserved_local_difference"
+    },
+    {
+      "path": "markets/JP/companies/asahipen/Asahipen_背调报告_2026-10-21.md",
+      "git_blob_sha": "9d8f4a0b6860ae9331bb5413b06b465f3b0232f1",
+      "source_sha256": "75b013893471f5ceff014a39ae445fa64a7f78ec265b22ce53d8347bc7115d0d",
+      "before_sha256": "75b013893471f5ceff014a39ae445fa64a7f78ec265b22ce53d8347bc7115d0d",
+      "after_sha256": "75b013893471f5ceff014a39ae445fa64a7f78ec265b22ce53d8347bc7115d0d",
+      "action": "same"
+    },
+    {
+      "path": "markets/JP/companies/isamu-paint/Isamu_Paint_组织结构_2026-10-21.md",
+      "git_blob_sha": "ff6534e7a035ea7a49caee4553ab596f74b7650d",
+      "source_sha256": "3fe594b65e8362545ad7a52201d3420fbf1a843423cba8b81918b8c02cc7ea16",
+      "before_sha256": "3fe594b65e8362545ad7a52201d3420fbf1a843423cba8b81918b8c02cc7ea16",
+      "after_sha256": "3fe594b65e8362545ad7a52201d3420fbf1a843423cba8b81918b8c02cc7ea16",
+      "action": "same"
+    },
+    {
+      "path": "markets/JP/companies/isamu-paint/Isamu_Paint_联系人邮箱_2026-10-21.md",
+      "git_blob_sha": "7cfbd774e26b7f35492b5ee89d7ec23d4ea64f5c",
+      "source_sha256": "c96fac97ef2f680954a5cc8182eab0b16cb5e240b1c9e690685fa9c50815b850",
+      "before_sha256": "c96fac97ef2f680954a5cc8182eab0b16cb5e240b1c9e690685fa9c50815b850",
+      "after_sha256": "c96fac97ef2f680954a5cc8182eab0b16cb5e240b1c9e690685fa9c50815b850",
+      "action": "same"
+    },
+    {
+      "path": "markets/JP/companies/isamu-paint/Isamu_Paint_背调报告_2026-10-21.md",
+      "git_blob_sha": "be2513f36f5364d39d4c7df1d3924ce28f12baad",
+      "source_sha256": "fd013b1c1ce57e5375e5a15e38ef12303ac6e6909c29fd74134230ac664664f6",
+      "before_sha256": "fd013b1c1ce57e5375e5a15e38ef12303ac6e6909c29fd74134230ac664664f6",
+      "after_sha256": "fd013b1c1ce57e5375e5a15e38ef12303ac6e6909c29fd74134230ac664664f6",
+      "action": "same"
+    },
+    {
+      "path": "markets/JP/source-lists/JP-20261021-01/01_日本_候选客户总表.md",
+      "git_blob_sha": "ad7c215978b60d5babadb489bae85bb6283e0677",
+      "source_sha256": "f83b5c0420116c5e50a2709b78f89f5a19a34cec194b733b47532381c9e544c3",
+      "before_sha256": "f83b5c0420116c5e50a2709b78f89f5a19a34cec194b733b47532381c9e544c3",
+      "after_sha256": "f83b5c0420116c5e50a2709b78f89f5a19a34cec194b733b47532381c9e544c3",
+      "action": "same"
+    },
+    {
+      "path": "markets/JP/source-lists/JP-20261021-01/02_日本_证据与来源.md",
+      "git_blob_sha": "e422bb8ee83aeabcc2ddf35e54c867bbd6f2926b",
+      "source_sha256": "9c37a98d4576a3d87061d7a3e5595718caac3dff5932630b695763cb2ce7f897",
+      "before_sha256": "9c37a98d4576a3d87061d7a3e5595718caac3dff5932630b695763cb2ce7f897",
+      "after_sha256": "9c37a98d4576a3d87061d7a3e5595718caac3dff5932630b695763cb2ce7f897",
+      "action": "same"
+    },
+    {
+      "path": "markets/JP/source-lists/JP-20261021-01/03_日本_搜索与覆盖记录.md",
+      "git_blob_sha": "9f5da1baa3e078ae9864b0e6bfebd08efa8f53a0",
+      "source_sha256": "f1eb1cd8a52aeb7872998e400b5469db4d105cebc287bf6d4b57d95b215fa2bb",
+      "before_sha256": "f1eb1cd8a52aeb7872998e400b5469db4d105cebc287bf6d4b57d95b215fa2bb",
+      "after_sha256": "f1eb1cd8a52aeb7872998e400b5469db4d105cebc287bf6d4b57d95b215fa2bb",
+      "action": "same"
+    },
+    {
+      "path": "markets/JP/source-lists/JP-20261021-01/04_日本_批次复核与测试报告.md",
+      "git_blob_sha": "5936d533824c7bd8485dc0dabfd72a6586eaafc9",
+      "source_sha256": "584fb56d1d2ac99ee8b77ab53bdc3790f9c873e2775bedf7a738e616c1481eae",
+      "before_sha256": "584fb56d1d2ac99ee8b77ab53bdc3790f9c873e2775bedf7a738e616c1481eae",
+      "after_sha256": "584fb56d1d2ac99ee8b77ab53bdc3790f9c873e2775bedf7a738e616c1481eae",
+      "action": "same"
+    },
+    {
+      "path": "markets/JP/source-lists/JP-20261021-02_线索补核/01_日本_候选客户总表_补核后.md",
+      "git_blob_sha": "b594c7159afb3d9d55504b0994b9a458fb2ca835",
+      "source_sha256": "2161aa1f2c49440ad0d96f61e7f7c9ab550e753ce8df790638c3a9bae14eaab2",
+      "before_sha256": "2161aa1f2c49440ad0d96f61e7f7c9ab550e753ce8df790638c3a9bae14eaab2",
+      "after_sha256": "2161aa1f2c49440ad0d96f61e7f7c9ab550e753ce8df790638c3a9bae14eaab2",
+      "action": "same"
+    },
+    {
+      "path": "markets/JP/source-lists/JP-20261021-02_线索补核/02_日本_14条线索补核证据.md",
+      "git_blob_sha": "23423702dee7fad54ff84ad81fcb7b41e7b7ec30",
+      "source_sha256": "2790130dc130cc63efa7651da81e9e23793341529470045e63bb6e1657e6e0e0",
+      "before_sha256": "2790130dc130cc63efa7651da81e9e23793341529470045e63bb6e1657e6e0e0",
+      "after_sha256": "2790130dc130cc63efa7651da81e9e23793341529470045e63bb6e1657e6e0e0",
+      "action": "same"
+    },
+    {
+      "path": "markets/JP/source-lists/JP-20261021-02_线索补核/03_日本_补核执行记录.md",
+      "git_blob_sha": "0f72851ed5cb02f52e6c675cece620ce0252137c",
+      "source_sha256": "52baa7a8490aa7820f322b361bb68bf36e68b2c1e5980d12fac43f8fe19eb6c1",
+      "before_sha256": "52baa7a8490aa7820f322b361bb68bf36e68b2c1e5980d12fac43f8fe19eb6c1",
+      "after_sha256": "52baa7a8490aa7820f322b361bb68bf36e68b2c1e5980d12fac43f8fe19eb6c1",
+      "action": "same"
+    },
+    {
+      "path": "markets/JP/source-lists/JP-20261021-02_线索补核/04_日本_补核复核报告.md",
+      "git_blob_sha": "47234b66d74a6f111aac2c073dd3b74c62d0068b",
+      "source_sha256": "6fbc56bf4ab3cdfa80980c024a01841abfd5e374c1cb1fdbed6fe270a27c6a69",
+      "before_sha256": "6fbc56bf4ab3cdfa80980c024a01841abfd5e374c1cb1fdbed6fe270a27c6a69",
+      "after_sha256": "6fbc56bf4ab3cdfa80980c024a01841abfd5e374c1cb1fdbed6fe270a27c6a69",
+      "action": "same"
+    },
+    {
+      "path": "markets/JP/source-lists/JP-20261021-03_新增30家/01_日本_候选客户总表_新增30家.md",
+      "git_blob_sha": "46613cddd786a1b150ac1edf4241683eaac5bb9b",
+      "source_sha256": "dadd8ab8fd704f07159f3208fc3e4fcdde47555380e990d7acfa7b295208ed46",
+      "before_sha256": "dadd8ab8fd704f07159f3208fc3e4fcdde47555380e990d7acfa7b295208ed46",
+      "after_sha256": "dadd8ab8fd704f07159f3208fc3e4fcdde47555380e990d7acfa7b295208ed46",
+      "action": "same"
+    },
+    {
+      "path": "markets/JP/source-lists/JP-20261021-03_新增30家/02_日本_证据与来源.md",
+      "git_blob_sha": "a63340e29c8b6680f349e25d85f2259ad2e655f1",
+      "source_sha256": "516240a7d7e7a9b33d17e91f6a0330ace57024d784efb21fe4a5b395e3adb211",
+      "before_sha256": "516240a7d7e7a9b33d17e91f6a0330ace57024d784efb21fe4a5b395e3adb211",
+      "after_sha256": "516240a7d7e7a9b33d17e91f6a0330ace57024d784efb21fe4a5b395e3adb211",
+      "action": "same"
+    },
+    {
+      "path": "markets/JP/source-lists/JP-20261021-03_新增30家/03_日本_搜索与覆盖记录.md",
+      "git_blob_sha": "34f4bdc32dd3d2467e0cd59c3a54e21f8ecf511d",
+      "source_sha256": "5a19b49c3e48623c35e38a675381e363b5860d837f1d323a6d0977afd9df728a",
+      "before_sha256": "5a19b49c3e48623c35e38a675381e363b5860d837f1d323a6d0977afd9df728a",
+      "after_sha256": "5a19b49c3e48623c35e38a675381e363b5860d837f1d323a6d0977afd9df728a",
+      "action": "same"
+    },
+    {
+      "path": "markets/JP/source-lists/JP-20261021-03_新增30家/04_日本_执行报告.md",
+      "git_blob_sha": "d680272c14870e6609c95dd942a54511aa56e789",
+      "source_sha256": "ecd56e36700f39a59b2731dcea1e01f33757b934a515d10e53bf9f47b513a4b2",
+      "before_sha256": "ecd56e36700f39a59b2731dcea1e01f33757b934a515d10e53bf9f47b513a4b2",
+      "after_sha256": "ecd56e36700f39a59b2731dcea1e01f33757b934a515d10e53bf9f47b513a4b2",
+      "action": "same"
+    },
+    {
+      "path": "markets/JP/source-manifest.json",
+      "git_blob_sha": "e26d86a624f246cd6e0ec24a82313e69ec410645",
+      "source_sha256": "5dbc50793e77381dee856314da0e9c5cdb9f1727e1deef2c8866cad780733fb4",
+      "before_sha256": "5dbc50793e77381dee856314da0e9c5cdb9f1727e1deef2c8866cad780733fb4",
+      "after_sha256": "5dbc50793e77381dee856314da0e9c5cdb9f1727e1deef2c8866cad780733fb4",
+      "action": "same"
+    },
+    {
+      "path": "markets/PE/README.md",
+      "git_blob_sha": "dbd3398fe448516a41ab415c11b1fa559759be45",
+      "source_sha256": "74aefd5e87c09d0acf15ad27a8d312a8c8ac407e098c07d42a5e1896b51d494b",
+      "before_sha256": "74aefd5e87c09d0acf15ad27a8d312a8c8ac407e098c07d42a5e1896b51d494b",
+      "after_sha256": "74aefd5e87c09d0acf15ad27a8d312a8c8ac407e098c07d42a5e1896b51d494b",
+      "action": "same"
+    },
+    {
+      "path": "markets/PE/source-lists/PE-20261021-01/01_候选客户总表.md",
+      "git_blob_sha": "171ea1e7f42946375ad468e971f70b2dbbf34e4f",
+      "source_sha256": "a501114b73f21a80caf09ade2dbb0476a711021befefb2051f578ddc5c309b6d",
+      "before_sha256": "a501114b73f21a80caf09ade2dbb0476a711021befefb2051f578ddc5c309b6d",
+      "after_sha256": "a501114b73f21a80caf09ade2dbb0476a711021befefb2051f578ddc5c309b6d",
+      "action": "same"
+    },
+    {
+      "path": "markets/PE/source-lists/PE-20261021-01/02_证据与来源.md",
+      "git_blob_sha": "74b77c7c8c4ab68cb01a77ee468e0ac3cb18d0ee",
+      "source_sha256": "75c8ba112bb205ac72825c77110a3c5c2d62d2990b1c6ef4f09375c9cc2ce095",
+      "before_sha256": "75c8ba112bb205ac72825c77110a3c5c2d62d2990b1c6ef4f09375c9cc2ce095",
+      "after_sha256": "75c8ba112bb205ac72825c77110a3c5c2d62d2990b1c6ef4f09375c9cc2ce095",
+      "action": "same"
+    },
+    {
+      "path": "markets/PE/source-lists/PE-20261021-01/03_搜索与覆盖记录.md",
+      "git_blob_sha": "a557350dd606ec83a47e9ab7a1c8b313cc914022",
+      "source_sha256": "4c0dbc5a8e9eec8de7157af79024303714b761a4b0a0e78f25fcce0de9f76c9e",
+      "before_sha256": "4c0dbc5a8e9eec8de7157af79024303714b761a4b0a0e78f25fcce0de9f76c9e",
+      "after_sha256": "4c0dbc5a8e9eec8de7157af79024303714b761a4b0a0e78f25fcce0de9f76c9e",
+      "action": "same"
+    },
+    {
+      "path": "markets/PE/source-lists/PE-20261021-01/04_批次复核与测试报告.md",
+      "git_blob_sha": "d8f31eb9878e30672909b5a35f556dc275320c83",
+      "source_sha256": "9aa733ec4025cc9633f235671728f1084a3e4c7b0130f0fa15c7a3d8354a15a1",
+      "before_sha256": "9aa733ec4025cc9633f235671728f1084a3e4c7b0130f0fa15c7a3d8354a15a1",
+      "after_sha256": "9aa733ec4025cc9633f235671728f1084a3e4c7b0130f0fa15c7a3d8354a15a1",
+      "action": "same"
+    },
+    {
+      "path": "markets/PE/source-manifest.json",
+      "git_blob_sha": "3951362e3ab2a15d1b40796eea066f01fc4ff9c8",
+      "source_sha256": "e352c62de2f86e13c8516e0004f26603dfeba9ffc7de2ce973dcc73f86aab709",
+      "before_sha256": "e352c62de2f86e13c8516e0004f26603dfeba9ffc7de2ce973dcc73f86aab709",
+      "after_sha256": "e352c62de2f86e13c8516e0004f26603dfeba9ffc7de2ce973dcc73f86aab709",
+      "action": "same"
+    },
+    {
+      "path": "markets/README.md",
+      "git_blob_sha": "07d52ea93ea0338b4d9b419d808e97e29bcc9813",
+      "source_sha256": "edb025bfec570aa167bc3a145329795f3e99a63e4a91fad185e650ae983c5245",
+      "before_sha256": "ad2969e25c02664d2e7bbff705d1ef63141751f50f27431fcb467566bdbfe938",
+      "after_sha256": "ad2969e25c02664d2e7bbff705d1ef63141751f50f27431fcb467566bdbfe938",
+      "action": "preserved_local_difference"
+    },
+    {
+      "path": "skills/research-company-contacts/SKILL.md",
+      "git_blob_sha": "601c5271bae3c236490a82e2ea2f03c406a6d10d",
+      "source_sha256": "b137d745339897ff65f7ee50c239d8cd70067ea28a6b738e6d003ed47a9bbd75",
+      "before_sha256": "77e08b39be4bbd4be3b3f7c4dbf90a86c98603ce0df746bf4cb2155aaad7b57b",
+      "after_sha256": "77e08b39be4bbd4be3b3f7c4dbf90a86c98603ce0df746bf4cb2155aaad7b57b",
+      "action": "preserved_local_difference"
+    },
+    {
+      "path": "skills/research-company-contacts/agents/openai.yaml",
+      "git_blob_sha": "fb7b2d0eb5b4db7f32bb4e14269aa4630c0b564c",
+      "source_sha256": "553384a1d795da669da344b84e3ff4148742a3990a9cf0731130c03c517c33a8",
+      "before_sha256": "b943ebd399e2bb6b7fc8cedb33e3bb3c714f2c7df372857ef3a80b732a204c58",
+      "after_sha256": "b943ebd399e2bb6b7fc8cedb33e3bb3c714f2c7df372857ef3a80b732a204c58",
+      "action": "preserved_local_difference"
+    },
+    {
+      "path": "skills/research-company-contacts/assets/icon.svg",
+      "git_blob_sha": "3aa5522d9c0f47cbeaabca31dcbcb2111d99531b",
+      "source_sha256": "0cdb7990dea3ad89ead04743eeac2dc58c119fb0b8b4a01499a21237f155bc1a",
+      "before_sha256": "0cdb7990dea3ad89ead04743eeac2dc58c119fb0b8b4a01499a21237f155bc1a",
+      "after_sha256": "0cdb7990dea3ad89ead04743eeac2dc58c119fb0b8b4a01499a21237f155bc1a",
+      "action": "same"
+    },
+    {
+      "path": "skills/research-company-contacts/references/report-contract.md",
+      "git_blob_sha": "7f51576779ff1da9d8e74f932bedc3159f8c305e",
+      "source_sha256": "6aa4fb5355801e25f10e5e08a2fcbcf49a5ec3770b386fd9003b856e340d695e",
+      "before_sha256": "221bbbb9ef3c5ec51c3995c07de1f3058a076ffa3bdc2820b3190e811ce68037",
+      "after_sha256": "221bbbb9ef3c5ec51c3995c07de1f3058a076ffa3bdc2820b3190e811ce68037",
+      "action": "preserved_local_difference"
+    },
+    {
+      "path": "skills/research-country-tio2-prospects/SKILL.md",
+      "git_blob_sha": "7172a51a799f3b55af2df832f41f4728174c3e4c",
+      "source_sha256": "536489e93516deca63f52f975a225b6717faea9016322a53a79f434be4d17a51",
+      "before_sha256": "75289d0db40436ba70d64082b0c31d6a51002dd15ba221571c828b2058d134f7",
+      "after_sha256": "75289d0db40436ba70d64082b0c31d6a51002dd15ba221571c828b2058d134f7",
+      "action": "preserved_local_difference"
+    },
+    {
+      "path": "skills/research-country-tio2-prospects/agents/openai.yaml",
+      "git_blob_sha": "ee70160ff51e497ea0fb9c5a7c6a68f0b7de7509",
+      "source_sha256": "75bae3a8978ebd2c800effcb1f297058e5357724ff6e22c044bb8bc78e167fe5",
+      "before_sha256": "75bae3a8978ebd2c800effcb1f297058e5357724ff6e22c044bb8bc78e167fe5",
+      "after_sha256": "75bae3a8978ebd2c800effcb1f297058e5357724ff6e22c044bb8bc78e167fe5",
+      "action": "same"
+    },
+    {
+      "path": "skills/research-country-tio2-prospects/assets/batch-templates.md",
+      "git_blob_sha": "8de14bb871c7b1f70d2547735ce946a3737bdde1",
+      "source_sha256": "33deee4d8ae0c9fb5f402dd3e5c1d6ec0839824be47d4fc659e130cdbaf3e998",
+      "before_sha256": "a91d48fc61e93c16f8bcdd1d0bb18a74159b32c3c344e568c7ee761f531f3db3",
+      "after_sha256": "a91d48fc61e93c16f8bcdd1d0bb18a74159b32c3c344e568c7ee761f531f3db3",
+      "action": "preserved_local_difference"
+    },
+    {
+      "path": "skills/research-country-tio2-prospects/assets/icon.svg",
+      "git_blob_sha": "3aa5522d9c0f47cbeaabca31dcbcb2111d99531b",
+      "source_sha256": "0cdb7990dea3ad89ead04743eeac2dc58c119fb0b8b4a01499a21237f155bc1a",
+      "before_sha256": "0cdb7990dea3ad89ead04743eeac2dc58c119fb0b8b4a01499a21237f155bc1a",
+      "after_sha256": "0cdb7990dea3ad89ead04743eeac2dc58c119fb0b8b4a01499a21237f155bc1a",
+      "action": "same"
+    },
+    {
+      "path": "skills/research-country-tio2-prospects/references/sop-v1.2.md",
+      "git_blob_sha": "d04f6596c5f646dfc39be6a8bc574693353ebfbf",
+      "source_sha256": "4c2d52f1523c1bea05562324a4eb40cd14ac6a15a5eeb310c0984ababe21ff2b",
+      "before_sha256": "4c2d52f1523c1bea05562324a4eb40cd14ac6a15a5eeb310c0984ababe21ff2b",
+      "after_sha256": "4c2d52f1523c1bea05562324a4eb40cd14ac6a15a5eeb310c0984ababe21ff2b",
+      "action": "same"
+    },
+    {
+      "path": "skills/research-customer-ogld/SKILL.md",
+      "git_blob_sha": "4dfc3ade77babe3ea84caf0eb7e1ecb54b79d6c8",
+      "source_sha256": "319eb361c50bfe46e281866ad8557870f1fe3301465ef72ee8289dd8cf9e9372",
+      "before_sha256": "319eb361c50bfe46e281866ad8557870f1fe3301465ef72ee8289dd8cf9e9372",
+      "after_sha256": "319eb361c50bfe46e281866ad8557870f1fe3301465ef72ee8289dd8cf9e9372",
+      "action": "same"
+    },
+    {
+      "path": "skills/research-customer-ogld/agents/openai.yaml",
+      "git_blob_sha": "05b8054c0abdd8c7993f694f291b20e86ecef49c",
+      "source_sha256": "43dd7799c414e8105783e72090f27eea669608beac10a56ac338baffc175d752",
+      "before_sha256": "43dd7799c414e8105783e72090f27eea669608beac10a56ac338baffc175d752",
+      "after_sha256": "43dd7799c414e8105783e72090f27eea669608beac10a56ac338baffc175d752",
+      "action": "same"
+    },
+    {
+      "path": "skills/research-customer-ogld/assets/icon.svg",
+      "git_blob_sha": "3aa5522d9c0f47cbeaabca31dcbcb2111d99531b",
+      "source_sha256": "0cdb7990dea3ad89ead04743eeac2dc58c119fb0b8b4a01499a21237f155bc1a",
+      "before_sha256": "0cdb7990dea3ad89ead04743eeac2dc58c119fb0b8b4a01499a21237f155bc1a",
+      "after_sha256": "0cdb7990dea3ad89ead04743eeac2dc58c119fb0b8b4a01499a21237f155bc1a",
+      "action": "same"
+    },
+    {
+      "path": "skills/research-customer-ogld/assets/report-template.md",
+      "git_blob_sha": "3ee71f92e7920947ea506c65e0b8e3ef5397af9c",
+      "source_sha256": "3d132495614168e7d808e52c357c9b705bf3b7019ae66f5db76e9474778d12e5",
+      "before_sha256": "3d132495614168e7d808e52c357c9b705bf3b7019ae66f5db76e9474778d12e5",
+      "after_sha256": "3d132495614168e7d808e52c357c9b705bf3b7019ae66f5db76e9474778d12e5",
+      "action": "same"
+    },
+    {
+      "path": "skills/research-customer-ogld/references/sop-v1.1.md",
+      "git_blob_sha": "8b6a956c754ded5ec3a1aeef083aad5e4ea3015b",
+      "source_sha256": "955b1bc9609b3090961f9714edfa77f7b3258b0e56373419154cb827ee79317b",
+      "before_sha256": "955b1bc9609b3090961f9714edfa77f7b3258b0e56373419154cb827ee79317b",
+      "after_sha256": "955b1bc9609b3090961f9714edfa77f7b3258b0e56373419154cb827ee79317b",
+      "action": "same"
+    },
+    {
+      "path": "sops/MYtio2_开发信编写SOP_Mail_Group_v1.1.md",
+      "git_blob_sha": "f5c685beadbce37519f0fd1e745853c36191962d",
+      "source_sha256": "a8230b6c41dce5df6f27c7df4b83c117d6d7f11e292697990d6c388bf85dbe7b",
+      "before_sha256": null,
+      "after_sha256": "a8230b6c41dce5df6f27c7df4b83c117d6d7f11e292697990d6c388bf85dbe7b",
+      "action": "added"
+    }
+  ],
+  "counts": {
+    "added": 1,
+    "same": 55,
+    "preserved_local_difference": 7
+  }
+}
